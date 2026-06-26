@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# Keep deployment essentials
+!.gitignore
+!.github/
+!.github/workflows/
+!.github/workflows/deploy-pages.yml
+!quiz_app/
+!quiz_app/**

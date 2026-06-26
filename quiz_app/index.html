@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>习思想刷题</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero__text">
+          <p class="eyebrow">离线可用 · 可直接转发同学</p>
+          <h1>习思想刷题程序</h1>
+          <p class="hero__summary">
+            按单选、多选、判断分模块练习。作答后立即显示对错，并记录当前模块的正确率。
+          </p>
+        </div>
+        <div class="hero__meta" id="metaCard"></div>
+      </header>
+
+      <main class="layout">
+        <aside class="panel panel--menu">
+          <h2>模块选择</h2>
+          <div id="moduleList" class="module-list"></div>
+          <div class="tips">
+            <p>推荐用法</p>
+            <p>先按章节题库刷单选，再用综合题库做查漏补缺。</p>
+          </div>
+        </aside>
+
+        <section class="panel panel--main">
+          <div id="emptyState" class="empty-state">
+            <h2>选择一个模块开始</h2>
+            <p>支持顺序练习和随机练习，适合自己刷题，也适合发给同学直接使用。</p>
+          </div>
+
+          <div id="quizApp" class="quiz hidden">
+            <div class="toolbar">
+              <div>
+                <h2 id="moduleTitle"></h2>
+                <p id="progressText" class="muted"></p>
+              </div>
+              <div class="toolbar__actions">
+                <button id="toggleOrderBtn" class="ghost-btn" type="button"></button>
+                <button id="restartBtn" class="ghost-btn" type="button">重新开始</button>
+              </div>
+            </div>
+
+            <div class="scoreboard" id="scoreboard"></div>
+
+            <article class="question-card">
+              <div class="question-card__header">
+                <span id="questionTag" class="tag"></span>
+                <span id="sourceTag" class="source-tag"></span>
+              </div>
+              <h3 id="questionStem" class="question-stem"></h3>
+              <div id="options" class="options"></div>
+              <div id="multiActions" class="multi-actions hidden">
+                <button id="submitMultiBtn" class="primary-btn" type="button">提交答案</button>
+                <button id="clearMultiBtn" class="ghost-btn" type="button">清空选择</button>
+              </div>
+              <div id="feedback" class="feedback hidden"></div>
+              <div class="question-actions">
+                <button id="showAnswerBtn" class="ghost-btn" type="button">不会，查看答案</button>
+                <button id="nextBtn" class="primary-btn" type="button">下一题</button>
+              </div>
+            </article>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="./questions-data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
