@@ -2,31 +2,66 @@ window.QUESTION_BANK = {
   "meta": {
     "sourceDir": "题库",
     "sourceFiles": [
-      "导论选择题(1).docx",
-      "第一章选择题(2).docx",
-      "第七到十章选择题(1).docx",
-      "第二、三章选择题(2).docx",
-      "第十一到十四章选择题(1).docx",
-      "第十五到十七章选择题.docx",
-      "第四五六章选择题(2).docx",
-      "综合知识点练习题_无章节提示版(1).docx"
+      "1.导论选择题(1).docx",
+      "2.第一章选择题(3).docx",
+      "3.第二、三章选择题(3).docx",
+      "4.第四五六章选择题(3).docx",
+      "5.第七到十章选择题(1).docx",
+      "6.第十一到十四章选择题(1).docx",
+      "7.第十五到十七章选择题.docx",
+      "综合知识点练习题_无章节提示版(1).docx",
+      "综合知识点练习题_第二套_无章节提示版.docx"
     ],
     "counts": {
-      "single": 242,
-      "multiple": 23,
-      "judge": 23
+      "single": 343,
+      "multiple": 33,
+      "judge": 33
     },
     "chapterCounts": {
       "导论": 18,
-      "第一章": 3,
-      "第二三章": 27,
-      "第四五六章": 34,
-      "第七到十章": 37,
-      "第十一到十四章": 34,
-      "第十五到十七章": 35,
-      "综合": 100
+      "第一章": 24,
+      "第二章": 13,
+      "第三章": 14,
+      "第四章": 10,
+      "第五章": 11,
+      "第六章": 16,
+      "第七章": 9,
+      "第八章": 7,
+      "第九章": 8,
+      "第十章": 11,
+      "第十一章": 7,
+      "第十二章": 9,
+      "第十三章": 10,
+      "第十四章": 9,
+      "第十五章": 8,
+      "第十六章": 13,
+      "第十七章": 12,
+      "综合练习一": 100,
+      "综合练习二": 100
     },
-    "total": 288,
+    "chapterOrder": [
+      "导论",
+      "第一章",
+      "第二章",
+      "第三章",
+      "第四章",
+      "第五章",
+      "第六章",
+      "第七章",
+      "第八章",
+      "第九章",
+      "第十章",
+      "第十一章",
+      "第十二章",
+      "第十三章",
+      "第十四章",
+      "第十五章",
+      "第十六章",
+      "第十七章",
+      "综合练习一",
+      "综合练习二"
+    ],
+    "total": 409,
     "supplementCount": 26
   },
   "questions": {
@@ -56,7 +91,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -84,7 +119,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -112,7 +147,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -140,7 +175,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -168,7 +203,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -196,7 +231,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -224,7 +259,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -252,7 +287,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -280,7 +315,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -308,7 +343,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -336,7 +371,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -364,7 +399,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -392,7 +427,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -420,7 +455,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -448,610 +483,162 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
         "id": "single-16",
         "type": "single",
-        "chapter": "第七到十章",
-        "stem": "教育、科技、人才是全面建设社会主义现代化国家的什么支撑？",
+        "chapter": "第一章",
+        "stem": "道路问题是关系党的事业兴衰成败的什么问题？",
         "options": [
           {
             "key": "A",
-            "text": "一般性、辅助性支撑"
+            "text": "一般性问题"
           },
           {
             "key": "B",
-            "text": "基础性、战略性支撑"
+            "text": "第一位的问题"
           },
           {
             "key": "C",
-            "text": "阶段性、临时性支撑"
+            "text": "局部性问题"
           },
           {
             "key": "D",
-            "text": "区域性、局部性支撑"
+            "text": "技术性问题"
           }
         ],
         "answer": "B",
         "sources": [
-          "第七到十章选择题(1).docx"
+          "2.第一章选择题(3).docx"
         ]
       },
       {
         "id": "single-17",
         "type": "single",
-        "chapter": "第七到十章",
-        "stem": "全面建设社会主义现代化国家，必须坚持科技是第一生产力、人才是第一资源、什么是第一动力？",
+        "chapter": "第一章",
+        "stem": "中国特色社会主义是实现中华民族伟大复兴的：",
         "options": [
           {
             "key": "A",
-            "text": "改革"
+            "text": "唯一经济模式"
           },
           {
             "key": "B",
-            "text": "开放"
+            "text": "正确道路"
           },
           {
             "key": "C",
-            "text": "创新"
+            "text": "临时安排"
           },
           {
             "key": "D",
-            "text": "文化"
+            "text": "外部经验"
           }
         ],
-        "answer": "C",
+        "answer": "B",
         "sources": [
-          "第七到十章选择题(1).docx"
+          "2.第一章选择题(3).docx"
         ]
       },
       {
         "id": "single-18",
         "type": "single",
-        "chapter": "第七到十章",
-        "stem": "育人的根本在于：",
+        "chapter": "第一章",
+        "stem": "中国共产党人思考的基本问题是：",
         "options": [
           {
             "key": "A",
-            "text": "立德"
+            "text": "什么是社会主义、怎样建设社会主义"
           },
           {
             "key": "B",
-            "text": "立功"
+            "text": "什么是市场经济、怎样发展市场经济"
           },
           {
             "key": "C",
-            "text": "立言"
+            "text": "什么是文化自信、怎样坚定文化自信"
           },
           {
             "key": "D",
-            "text": "立业"
+            "text": "什么是生态文明、怎样保护生态环境"
           }
         ],
         "answer": "A",
         "sources": [
-          "第七到十章选择题(1).docx"
+          "2.第一章选择题(3).docx"
         ]
       },
       {
         "id": "single-19",
         "type": "single",
-        "chapter": "第七到十章",
-        "stem": "关键核心技术被称为：",
+        "chapter": "第一章",
+        "stem": "中国特色社会主义不是从天上掉下来的，而是在长期实践和历史传承中得来的。下列不属于文档列举来源的是：",
         "options": [
           {
             "key": "A",
-            "text": "国之根基"
+            "text": "改革开放40多年的伟大实践"
           },
           {
             "key": "B",
-            "text": "国之重器"
+            "text": "新中国成立70多年的持续探索"
           },
           {
             "key": "C",
-            "text": "国之门户"
+            "text": "世界社会主义500多年的发展历程"
           },
           {
             "key": "D",
-            "text": "国之财富"
+            "text": "资本主义制度自我完善的历史进程"
           }
         ],
-        "answer": "B",
+        "answer": "D",
         "sources": [
-          "第七到十章选择题(1).docx"
+          "2.第一章选择题(3).docx"
         ]
       },
       {
         "id": "single-20",
         "type": "single",
-        "chapter": "第七到十章",
-        "stem": "只有把最关键最核心的技术掌握在自己手中，才能从根本上保障国家经济安全、国防安全和什么安全？",
+        "chapter": "第一章",
+        "stem": "中国特色社会主义是科学社会主义理论逻辑和什么的辩证统一？",
         "options": [
           {
             "key": "A",
-            "text": "其他安全"
+            "text": "世界经济发展逻辑"
           },
           {
             "key": "B",
-            "text": "文化安全"
+            "text": "中国社会发展历史逻辑"
           },
           {
             "key": "C",
-            "text": "交通安全"
+            "text": "资本市场运行逻辑"
           },
           {
             "key": "D",
-            "text": "生态安全"
+            "text": "国际政治斗争逻辑"
           }
         ],
-        "answer": "A",
+        "answer": "B",
         "sources": [
-          "第七到十章选择题(1).docx"
+          "2.第一章选择题(3).docx"
         ]
       },
       {
         "id": "single-21",
         "type": "single",
-        "chapter": "第七到十章",
-        "stem": "人才是实现民族振兴、赢得国际竞争主动的：",
+        "chapter": "第一章",
+        "stem": "新时代坚持和发展中国特色社会主义，必须坚定道路自信、理论自信、制度自信和：",
         "options": [
           {
             "key": "A",
-            "text": "一般资源"
+            "text": "发展自信"
           },
           {
             "key": "B",
-            "text": "战略资源"
-          },
-          {
-            "key": "C",
-            "text": "物质基础"
-          },
-          {
-            "key": "D",
-            "text": "制度保障"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-22",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "加快教育强国，必须落实什么根本任务？",
-        "options": [
-          {
-            "key": "A",
-            "text": "提高升学率"
-          },
-          {
-            "key": "B",
-            "text": "扩大教育规模"
-          },
-          {
-            "key": "C",
-            "text": "立德树人"
-          },
-          {
-            "key": "D",
-            "text": "发展职业教育"
-          }
-        ],
-        "answer": "C",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-23",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "人民民主是社会主义的：",
-        "options": [
-          {
-            "key": "A",
-            "text": "根本任务"
-          },
-          {
-            "key": "B",
-            "text": "生命"
-          },
-          {
-            "key": "C",
-            "text": "重要资源"
-          },
-          {
-            "key": "D",
-            "text": "发展目标"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-24",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "全过程人民民主是社会主义民主政治的：",
-        "options": [
-          {
-            "key": "A",
-            "text": "一般特征"
-          },
-          {
-            "key": "B",
-            "text": "本质属性"
-          },
-          {
-            "key": "C",
-            "text": "基本形式"
-          },
-          {
-            "key": "D",
-            "text": "组织原则"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-25",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "人民民主建立在什么基础之上？",
-        "options": [
-          {
-            "key": "A",
-            "text": "社会主义经济基础"
-          },
-          {
-            "key": "B",
-            "text": "资本主义经济基础"
-          },
-          {
-            "key": "C",
-            "text": "小农经济基础"
-          },
-          {
-            "key": "D",
-            "text": "私有制经济基础"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-26",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "人民民主体现了社会主义国家的性质，反映了什么的本质要求？",
-        "options": [
-          {
-            "key": "A",
-            "text": "市场经济"
-          },
-          {
-            "key": "B",
-            "text": "社会主义制度"
-          },
-          {
-            "key": "C",
-            "text": "国际关系"
-          },
-          {
-            "key": "D",
-            "text": "文化建设"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-27",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "全过程人民民主是最广泛、最真实、最什么的民主？",
-        "options": [
-          {
-            "key": "A",
-            "text": "最直接"
-          },
-          {
-            "key": "B",
-            "text": "最管用"
-          },
-          {
-            "key": "C",
-            "text": "最普遍"
-          },
-          {
-            "key": "D",
-            "text": "最复杂"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-28",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "统一战线是中国共产党夺取革命、建设、改革事业胜利的重要法宝，也是实现什么的重要法宝？",
-        "options": [
-          {
-            "key": "A",
-            "text": "共同富裕"
-          },
-          {
-            "key": "B",
-            "text": "生态文明"
-          },
-          {
-            "key": "C",
-            "text": "中华民族伟大复兴"
-          },
-          {
-            "key": "D",
-            "text": "高质量发展"
-          }
-        ],
-        "answer": "C",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-29",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "全面依法治国是坚持和发展中国特色社会主义的：",
-        "options": [
-          {
-            "key": "A",
-            "text": "本质要求和重要保障"
-          },
-          {
-            "key": "B",
-            "text": "主要矛盾和核心问题"
-          },
-          {
-            "key": "C",
-            "text": "根本任务和最终目标"
-          },
-          {
-            "key": "D",
-            "text": "基本路线和中心工作"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-30",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "全面推进依法治国的总抓手是建设：",
-        "options": [
-          {
-            "key": "A",
-            "text": "社会主义民主政治体系"
-          },
-          {
-            "key": "B",
-            "text": "中国特色社会主义法治体系"
-          },
-          {
-            "key": "C",
-            "text": "社会主义市场经济体系"
-          },
-          {
-            "key": "D",
-            "text": "国家安全体系"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-31",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "把党内法规体系纳入中国特色社会主义法治体系，是我国法治区别于其他国家法治的：",
-        "options": [
-          {
-            "key": "A",
-            "text": "基本条件"
-          },
-          {
-            "key": "B",
-            "text": "鲜明特征"
-          },
-          {
-            "key": "C",
-            "text": "临时措施"
-          },
-          {
-            "key": "D",
-            "text": "主要矛盾"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-32",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "法治中国建设的三大支柱是法治国家、法治政府和：",
-        "options": [
-          {
-            "key": "A",
-            "text": "法治市场"
-          },
-          {
-            "key": "B",
-            "text": "法治社会"
-          },
-          {
-            "key": "C",
-            "text": "法治文化"
-          },
-          {
-            "key": "D",
-            "text": "法治机关"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-33",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "法治国家、法治政府、法治社会三者之间的关系是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "相互割裂、各自独立"
-          },
-          {
-            "key": "B",
-            "text": "相互联系、内在统一"
-          },
-          {
-            "key": "C",
-            "text": "互不影响、并列存在"
-          },
-          {
-            "key": "D",
-            "text": "先后替代、逐步取消"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-34",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "维护社会公平正义的最后一道防线是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "公正司法"
-          },
-          {
-            "key": "B",
-            "text": "严格执法"
-          },
-          {
-            "key": "C",
-            "text": "科学立法"
-          },
-          {
-            "key": "D",
-            "text": "全民守法"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-35",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "“严格公正司法”强调，司法工作的核心价值之一是维护：",
-        "options": [
-          {
-            "key": "A",
-            "text": "经济增长速度"
-          },
-          {
-            "key": "B",
-            "text": "社会公平正义"
-          },
-          {
-            "key": "C",
-            "text": "企业经营效率"
-          },
-          {
-            "key": "D",
-            "text": "地方发展利益"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-36",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "文化是一个国家、一个民族的：",
-        "options": [
-          {
-            "key": "A",
-            "text": "经济基础"
-          },
-          {
-            "key": "B",
-            "text": "灵魂"
-          },
-          {
-            "key": "C",
-            "text": "制度保障"
-          },
-          {
-            "key": "D",
-            "text": "发展速度"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-37",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "党带领人民在伟大斗争中孕育的革命文化和社会主义先进文化，是我们坚定什么的坚强基石？",
-        "options": [
-          {
-            "key": "A",
-            "text": "道路自信"
-          },
-          {
-            "key": "B",
-            "text": "理论自信"
+            "text": "科技自信"
           },
           {
             "key": "C",
@@ -1059,243 +646,439 @@ window.QUESTION_BANK = {
           },
           {
             "key": "D",
-            "text": "制度自信"
+            "text": "国际自信"
           }
         ],
         "answer": "C",
         "sources": [
-          "第七到十章选择题(1).docx"
+          "2.第一章选择题(3).docx"
         ]
       },
       {
-        "id": "single-38",
+        "id": "single-22",
         "type": "single",
-        "chapter": "第七到十章",
-        "stem": "文化的生命所在、文化的本质特征是：",
+        "chapter": "第一章",
+        "stem": "马克思主义深刻揭示了什么客观规律，这是坚定“四个自信”的理论支撑和根本依据？",
         "options": [
           {
             "key": "A",
-            "text": "创新创造"
+            "text": "社会主义必然代替资本主义"
           },
           {
             "key": "B",
-            "text": "对外传播"
+            "text": "市场经济必然代替计划经济"
           },
           {
             "key": "C",
-            "text": "传统保存"
+            "text": "工业文明必然代替农业文明"
           },
           {
             "key": "D",
-            "text": "产业经营"
+            "text": "区域发展必然完全均衡"
           }
         ],
         "answer": "A",
         "sources": [
-          "第七到十章选择题(1).docx"
+          "2.第一章选择题(3).docx"
         ]
       },
       {
-        "id": "single-39",
+        "id": "single-23",
         "type": "single",
-        "chapter": "第七到十章",
-        "stem": "新闻舆论工作的根本原则是：",
+        "chapter": "第一章",
+        "stem": "中国特色社会主义最本质的特征是：",
         "options": [
           {
             "key": "A",
-            "text": "市场原则"
+            "text": "人民代表大会制度"
           },
           {
             "key": "B",
-            "text": "党性原则"
+            "text": "中国共产党领导"
           },
           {
             "key": "C",
-            "text": "技术原则"
+            "text": "社会主义市场经济"
           },
           {
             "key": "D",
-            "text": "效率原则"
+            "text": "改革开放"
           }
         ],
         "answer": "B",
         "sources": [
-          "第七到十章选择题(1).docx"
+          "2.第一章选择题(3).docx"
         ]
       },
       {
-        "id": "single-40",
+        "id": "single-24",
         "type": "single",
-        "chapter": "第七到十章",
-        "stem": "在新的起点上继续推动文化繁荣、建设文化强国、建设中华民族现代文明，是新时代新的：",
+        "chapter": "第一章",
+        "stem": "坚定道路自信、理论自信、制度自信，说到底是要坚定：",
         "options": [
           {
             "key": "A",
-            "text": "经济任务"
+            "text": "科技自信"
           },
           {
             "key": "B",
-            "text": "文化使命"
+            "text": "文化自信"
           },
           {
             "key": "C",
-            "text": "政治路线"
+            "text": "资源自信"
           },
           {
             "key": "D",
-            "text": "社会目标"
+            "text": "产业自信"
           }
         ],
         "answer": "B",
         "sources": [
-          "第七到十章选择题(1).docx"
+          "2.第一章选择题(3).docx"
         ]
       },
       {
-        "id": "single-41",
+        "id": "single-25",
         "type": "single",
-        "chapter": "第七到十章",
-        "stem": "下列哪一项不属于中华文明突出特征？",
+        "chapter": "第一章",
+        "stem": "关于文化自信，下列说法正确的是：",
         "options": [
           {
             "key": "A",
-            "text": "连续性"
+            "text": "是更基础、更广泛、更深厚的自信"
           },
           {
             "key": "B",
-            "text": "创新性"
+            "text": "只属于文化领域，与国家发展无关"
           },
           {
             "key": "C",
-            "text": "排他性"
+            "text": "是短期形成的阶段性力量"
           },
           {
             "key": "D",
-            "text": "和平性"
+            "text": "主要来源于外来文化输入"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-26",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "中国特色社会主义进入新时代，意味着近代以来久经磨难的中华民族迎来了从站起来、富起来到什么的伟大飞跃",
+        "options": [
+          {
+            "key": "A",
+            "text": "快起来"
+          },
+          {
+            "key": "B",
+            "text": "强起来"
+          },
+          {
+            "key": "C",
+            "text": "稳起来"
+          },
+          {
+            "key": "D",
+            "text": "富起来"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-27",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "中国特色社会主义进入新时代，是我国社会主要矛盾发生新变化的反映。我国社会主要矛盾是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "人民日益增长的物质文化需要和落后的社会生产之间的矛盾"
+          },
+          {
+            "key": "B",
+            "text": "人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾"
+          },
+          {
+            "key": "C",
+            "text": "经济高速增长和生态环境保护之间的矛盾"
+          },
+          {
+            "key": "D",
+            "text": "城乡发展和区域发展之间的矛盾"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-28",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "进入新时代后，我国仍处于并将长期处于什么阶段的基本国情没有变？",
+        "options": [
+          {
+            "key": "A",
+            "text": "社会主义初级阶段"
+          },
+          {
+            "key": "B",
+            "text": "社会主义高级阶段"
+          },
+          {
+            "key": "C",
+            "text": "资本主义初级阶段"
+          },
+          {
+            "key": "D",
+            "text": "共产主义阶段"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-29",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "新时代的伟大变革，在党史、新中国史、改革开放史、社会主义发展史、中华民族发展史上具有：",
+        "options": [
+          {
+            "key": "A",
+            "text": "过渡性意义"
+          },
+          {
+            "key": "B",
+            "text": "里程碑意义"
+          },
+          {
+            "key": "C",
+            "text": "局部性意义"
+          },
+          {
+            "key": "D",
+            "text": "阶段性意义"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-30",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "新时代坚持和发展中国特色社会主义，要统筹推进“五位一体”总体布局和协调推进什么战略布局？",
+        "options": [
+          {
+            "key": "A",
+            "text": "“三个全面”"
+          },
+          {
+            "key": "B",
+            "text": "“四个全面”"
+          },
+          {
+            "key": "C",
+            "text": "“五个全面”"
+          },
+          {
+            "key": "D",
+            "text": "“六个全面”"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-31",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "党的基本理论是坚持和发展中国特色社会主义的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "行动指南"
+          },
+          {
+            "key": "B",
+            "text": "物质基础"
+          },
+          {
+            "key": "C",
+            "text": "组织形式"
+          },
+          {
+            "key": "D",
+            "text": "技术路线"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-32",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "中国共产党为什么能，中国特色社会主义为什么好，归根到底是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "传统文化行"
+          },
+          {
+            "key": "B",
+            "text": "市场经济行"
+          },
+          {
+            "key": "C",
+            "text": "马克思主义行，是中国化时代化的马克思主义行"
+          },
+          {
+            "key": "D",
+            "text": "西方现代化道路行"
           }
         ],
         "answer": "C",
         "sources": [
-          "第七到十章选择题(1).docx"
+          "2.第一章选择题(3).docx"
         ]
       },
       {
-        "id": "single-42",
+        "id": "single-33",
         "type": "single",
-        "chapter": "第七到十章",
-        "stem": "中华文明的突出特征包括连续性、创新性、统一性、包容性和：",
+        "chapter": "第一章",
+        "stem": "党的基本路线是国家的生命线、人民的：",
         "options": [
           {
             "key": "A",
-            "text": "竞争性"
+            "text": "发展线"
           },
           {
             "key": "B",
-            "text": "和平性"
+            "text": "幸福线"
           },
           {
             "key": "C",
-            "text": "封闭性"
+            "text": "保障线"
           },
           {
             "key": "D",
-            "text": "单一性"
+            "text": "改革线"
           }
         ],
         "answer": "B",
         "sources": [
-          "第七到十章选择题(1).docx"
+          "2.第一章选择题(3).docx"
         ]
       },
       {
-        "id": "single-43",
+        "id": "single-34",
         "type": "single",
-        "chapter": "第七到十章",
-        "stem": "文化软实力集中体现了一个国家基于文化而具有的凝聚力和生命力，以及由此产生的：",
+        "chapter": "第一章",
+        "stem": "“五位一体”总体布局包括经济建设、政治建设、文化建设、社会建设和",
         "options": [
           {
             "key": "A",
-            "text": "吸引力和影响力"
+            "text": "法治建设"
           },
           {
             "key": "B",
-            "text": "控制力和命令力"
+            "text": "国防建设"
           },
           {
             "key": "C",
-            "text": "生产力和消费力"
+            "text": "生态文明建设"
           },
           {
             "key": "D",
-            "text": "组织力和执行力"
+            "text": "科技建设"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-35",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "“四个全面”战略布局不包括下列哪一项？",
+        "options": [
+          {
+            "key": "A",
+            "text": "全面建设社会主义现代化国家"
+          },
+          {
+            "key": "B",
+            "text": "全面深化改革"
+          },
+          {
+            "key": "C",
+            "text": "全面依法治国"
+          },
+          {
+            "key": "D",
+            "text": "全面建设社会主义市场经济国家"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-36",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "坚定道路自信，就是坚信中国特色社会主义道路是我国实现社会主义现代化、创造人民美好生活的必由之路，也是实现什么的必由之路？",
+        "options": [
+          {
+            "key": "A",
+            "text": "中华民族伟大复兴"
+          },
+          {
+            "key": "B",
+            "text": "全球经济一体化"
+          },
+          {
+            "key": "C",
+            "text": "区域协调发展"
+          },
+          {
+            "key": "D",
+            "text": "科技全面领先"
           }
         ],
         "answer": "A",
         "sources": [
-          "第七到十章选择题(1).docx"
+          "2.第一章选择题(3).docx"
         ]
       },
       {
-        "id": "single-44",
+        "id": "single-37",
         "type": "single",
-        "chapter": "第七到十章",
-        "stem": "一个国家的文化软实力，从根本上说，取决于其核心价值观的生命力、凝聚力和：",
-        "options": [
-          {
-            "key": "A",
-            "text": "约束力"
-          },
-          {
-            "key": "B",
-            "text": "感召力"
-          },
-          {
-            "key": "C",
-            "text": "管理力"
-          },
-          {
-            "key": "D",
-            "text": "竞争力"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-45",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "建设社会主义文化强国，必须深刻认识文化对于国家和民族发展的重要作用，因为文化关系到国家和民族的：",
-        "options": [
-          {
-            "key": "A",
-            "text": "灵魂"
-          },
-          {
-            "key": "B",
-            "text": "人口规模"
-          },
-          {
-            "key": "C",
-            "text": "地理位置"
-          },
-          {
-            "key": "D",
-            "text": "自然资源"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-46",
-        "type": "single",
-        "chapter": "第二三章",
-        "stem": "习近平在2012年11月参观《复兴之路》展览时首次提出的是：B",
+        "chapter": "第二章",
+        "stem": "习近平在2012年11月参观《复兴之路》展览时首次提出的是：",
         "options": [
           {
             "key": "A",
@@ -1316,14 +1099,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-47",
+        "id": "single-38",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "实现中华民族伟大复兴的中国梦，本质是：A",
+        "chapter": "第二章",
+        "stem": "实现中华民族伟大复兴的中国梦，本质是：",
         "options": [
           {
             "key": "A",
@@ -1344,14 +1127,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-48",
+        "id": "single-39",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "全面建成小康社会中，“全面”强调的是发展的：B",
+        "chapter": "第二章",
+        "stem": "全面建成小康社会中，“全面”强调的是发展的",
         "options": [
           {
             "key": "A",
@@ -1372,14 +1155,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-49",
+        "id": "single-40",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "我国实现第一个百年奋斗目标、在中华大地上全面建成小康社会的时间是：C",
+        "chapter": "第二章",
+        "stem": "我国实现第一个百年奋斗目标、在中华大地上全面建成小康社会的时间是：",
         "options": [
           {
             "key": "A",
@@ -1400,14 +1183,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-50",
+        "id": "single-41",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "党的二十大明确，全面建成社会主义现代化强国总的战略安排是分几步走？B",
+        "chapter": "第二章",
+        "stem": "党的二十大明确，全面建成社会主义现代化强国总的战略安排是分几步走？",
         "options": [
           {
             "key": "A",
@@ -1428,14 +1211,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-51",
+        "id": "single-42",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "从2020年到2035年，我国的战略目标是：B",
+        "chapter": "第二章",
+        "stem": "从2020年到2035年，我国的战略目标是：",
         "options": [
           {
             "key": "A",
@@ -1456,14 +1239,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-52",
+        "id": "single-43",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "从2035年到本世纪中叶，我国的战略目标是：C",
+        "chapter": "第二章",
+        "stem": "从2035年到本世纪中叶，我国的战略目标是：",
         "options": [
           {
             "key": "A",
@@ -1484,14 +1267,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-53",
+        "id": "single-44",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "中国式现代化是由谁领导的社会主义现代化？B",
+        "chapter": "第二章",
+        "stem": "中国式现代化是由谁领导的社会主义现代化？",
         "options": [
           {
             "key": "A",
@@ -1512,14 +1295,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-54",
+        "id": "single-45",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "中国式现代化区别于西方现代化的显著标志是：C",
+        "chapter": "第二章",
+        "stem": "中国式现代化区别于西方现代化的显著标志是：",
         "options": [
           {
             "key": "A",
@@ -1540,14 +1323,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-55",
+        "id": "single-46",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "下列不属于中国式现代化中国特色的是：C",
+        "chapter": "第二章",
+        "stem": "下列不属于中国式现代化中国特色的是：",
         "options": [
           {
             "key": "A",
@@ -1568,14 +1351,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-56",
+        "id": "single-47",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "中国式现代化的本质要求不包括：D",
+        "chapter": "第二章",
+        "stem": "中国式现代化的本质要求不包括：",
         "options": [
           {
             "key": "A",
@@ -1596,14 +1379,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "D",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-57",
+        "id": "single-48",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "中国式现代化打破了哪一种迷思？C",
+        "chapter": "第二章",
+        "stem": "中国式现代化打破了哪一种迷思？",
         "options": [
           {
             "key": "A",
@@ -1624,14 +1407,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-58",
+        "id": "single-49",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "推进中国式现代化需要正确处理一系列重大关系，其中包括：A",
+        "chapter": "第二章",
+        "stem": "推进中国式现代化需要正确处理一系列重大关系，其中包括：",
         "options": [
           {
             "key": "A",
@@ -1652,14 +1435,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-59",
+        "id": "single-50",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "中国特色社会主义最本质的特征是：A",
+        "chapter": "第三章",
+        "stem": "中国特色社会主义最本质的特征是：",
         "options": [
           {
             "key": "A",
@@ -1680,14 +1463,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-60",
+        "id": "single-51",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "中国特色社会主义制度的最大优势是：B",
+        "chapter": "第三章",
+        "stem": "中国特色社会主义制度的最大优势是：",
         "options": [
           {
             "key": "A",
@@ -1708,14 +1491,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-61",
+        "id": "single-52",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "中国共产党是最高：C",
+        "chapter": "第三章",
+        "stem": "中国共产党是最高：",
         "options": [
           {
             "key": "A",
@@ -1736,14 +1519,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-62",
+        "id": "single-53",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "坚持党中央集中统一领导是：A",
+        "chapter": "第三章",
+        "stem": "坚持党中央集中统一领导是：",
         "options": [
           {
             "key": "A",
@@ -1764,14 +1547,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-63",
+        "id": "single-54",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "中国共产党领导的根本优势具有：C",
+        "chapter": "第三章",
+        "stem": "中国共产党领导的根本优势具有：",
         "options": [
           {
             "key": "A",
@@ -1792,14 +1575,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-64",
+        "id": "single-55",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "坚持和加强党的全面领导，使党的政治领导力、思想引领力、群众组织力和什么显著增强？B",
+        "chapter": "第三章",
+        "stem": "坚持和加强党的全面领导，使党的政治领导力、思想引领力、群众组织力和什么显著增强？",
         "options": [
           {
             "key": "A",
@@ -1820,14 +1603,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-65",
+        "id": "single-56",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "马克思主义政党第一位的能力是：A",
+        "chapter": "第三章",
+        "stem": "马克思主义政党第一位的能力是：",
         "options": [
           {
             "key": "A",
@@ -1848,14 +1631,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-66",
+        "id": "single-57",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "“党政军民学，东西南北中”，强调的是：A",
+        "chapter": "第三章",
+        "stem": "“党政军民学，东西南北中”，强调的是：",
         "options": [
           {
             "key": "A",
@@ -1876,14 +1659,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-67",
+        "id": "single-58",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "党的领导是全面的、系统的、：C",
+        "chapter": "第三章",
+        "stem": "党的领导是全面的、系统的、：",
         "options": [
           {
             "key": "A",
@@ -1904,14 +1687,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-68",
+        "id": "single-59",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "党的领导的最高原则是：B",
+        "chapter": "第三章",
+        "stem": "党的领导的最高原则是：",
         "options": [
           {
             "key": "A",
@@ -1932,14 +1715,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-69",
+        "id": "single-60",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "维护党中央权威和集中统一领导，最关键的是：C",
+        "chapter": "第三章",
+        "stem": "维护党中央权威和集中统一领导，最关键的是：",
         "options": [
           {
             "key": "A",
@@ -1960,14 +1743,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-70",
+        "id": "single-61",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "维护党中央权威和集中统一领导，同坚持党的民主集中制是：B",
+        "chapter": "第三章",
+        "stem": "维护党中央权威和集中统一领导，同坚持党的民主集中制是：",
         "options": [
           {
             "key": "A",
@@ -1988,14 +1771,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-71",
+        "id": "single-62",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "我国的根本领导制度是：C",
+        "chapter": "第三章",
+        "stem": "我国的根本领导制度是：",
         "options": [
           {
             "key": "A",
@@ -2016,14 +1799,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-72",
+        "id": "single-63",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "全面加强党的领导大大提高了全党的政治判断力、政治领悟力和：A",
+        "chapter": "第三章",
+        "stem": "全面加强党的领导大大提高了全党的政治判断力、政治领悟力和：",
         "options": [
           {
             "key": "A",
@@ -2044,1693 +1827,13 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-73",
+        "id": "single-64",
         "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "全面建设社会主义现代化国家的出发点和落脚点是（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "实现经济高速增长"
-          },
-          {
-            "key": "B",
-            "text": "让人民生活越过越好"
-          },
-          {
-            "key": "C",
-            "text": "扩大对外开放水平"
-          },
-          {
-            "key": "D",
-            "text": "提高国际竞争力"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-74",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "社会主义生产的根本目的在于（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "扩大生产规模"
-          },
-          {
-            "key": "B",
-            "text": "增加财政收入"
-          },
-          {
-            "key": "C",
-            "text": "增进民生福祉"
-          },
-          {
-            "key": "D",
-            "text": "提升出口能力"
-          }
-        ],
-        "answer": "C",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-75",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "促进共同富裕的基础性制度是（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "分配制度"
-          },
-          {
-            "key": "B",
-            "text": "户籍制度"
-          },
-          {
-            "key": "C",
-            "text": "金融制度"
-          },
-          {
-            "key": "D",
-            "text": "监察制度"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-76",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "最大的民生工程、民心工程、根基工程是（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "教育"
-          },
-          {
-            "key": "B",
-            "text": "就业"
-          },
-          {
-            "key": "C",
-            "text": "医疗"
-          },
-          {
-            "key": "D",
-            "text": "住房"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-77",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "党的十九大进一步提出打造的社会治理格局是（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "共商共建共享"
-          },
-          {
-            "key": "B",
-            "text": "共建共治共享"
-          },
-          {
-            "key": "C",
-            "text": "共抓共管共享"
-          },
-          {
-            "key": "D",
-            "text": "共治共管共赢"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-78",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "新时代加强和创新社会治理，要求坚持系统治理、依法治理、综合治理和（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "源头治理"
-          },
-          {
-            "key": "B",
-            "text": "末端治理"
-          },
-          {
-            "key": "C",
-            "text": "分散治理"
-          },
-          {
-            "key": "D",
-            "text": "经验治理"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-79",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "下列不属于新时代加强和创新社会治理要求的是（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "系统治理"
-          },
-          {
-            "key": "B",
-            "text": "依法治理"
-          },
-          {
-            "key": "C",
-            "text": "综合治理"
-          },
-          {
-            "key": "D",
-            "text": "粗放治理"
-          }
-        ],
-        "answer": "D",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-80",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "生态环境问题归根到底是（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "技术水平问题"
-          },
-          {
-            "key": "B",
-            "text": "经济发展方式和生活方式问题"
-          },
-          {
-            "key": "C",
-            "text": "资源储量问题"
-          },
-          {
-            "key": "D",
-            "text": "城市规模问题"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-81",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "“绿水青山就是金山银山”阐明的是（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "经济发展与生态环境保护之间的关系"
-          },
-          {
-            "key": "B",
-            "text": "城市建设与人口增长之间的关系"
-          },
-          {
-            "key": "C",
-            "text": "科技创新与教育发展之间的关系"
-          },
-          {
-            "key": "D",
-            "text": "文化建设与旅游开发之间的关系"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-82",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "良好的生态环境是最公平的公共产品，是最普惠的（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "经济资源"
-          },
-          {
-            "key": "B",
-            "text": "民生福祉"
-          },
-          {
-            "key": "C",
-            "text": "社会资本"
-          },
-          {
-            "key": "D",
-            "text": "发展红利"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-83",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "建设美丽中国，是全面建设社会主义现代化国家的（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "根本制度"
-          },
-          {
-            "key": "B",
-            "text": "重要目标"
-          },
-          {
-            "key": "C",
-            "text": "唯一任务"
-          },
-          {
-            "key": "D",
-            "text": "基本路线"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-84",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "绿色发展，就其要义来讲，是要解决好（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "人与自然和谐共生问题"
-          },
-          {
-            "key": "B",
-            "text": "城乡发展速度问题"
-          },
-          {
-            "key": "C",
-            "text": "区域人口流动问题"
-          },
-          {
-            "key": "D",
-            "text": "产业结构单一问题"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-85",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "生态文明建设的重中之重是（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "工程建设"
-          },
-          {
-            "key": "B",
-            "text": "制度建设"
-          },
-          {
-            "key": "C",
-            "text": "指标建设"
-          },
-          {
-            "key": "D",
-            "text": "宣传建设"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-86",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "下列关于良好生态环境的表述，正确的是（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "是最公平的公共产品"
-          },
-          {
-            "key": "B",
-            "text": "只属于少数地区的福利"
-          },
-          {
-            "key": "C",
-            "text": "与民生福祉无关"
-          },
-          {
-            "key": "D",
-            "text": "主要取决于资源进口"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-87",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "“绿水青山就是金山银山”理念强调，发展经济必须正确处理（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "经济发展与生态环境保护的关系"
-          },
-          {
-            "key": "B",
-            "text": "财政收入与货币政策的关系"
-          },
-          {
-            "key": "C",
-            "text": "国内市场与国际市场的关系"
-          },
-          {
-            "key": "D",
-            "text": "传统产业与新兴产业的关系"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-88",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "总体国家安全观以（ ）为宗旨。",
-        "options": [
-          {
-            "key": "A",
-            "text": "经济安全"
-          },
-          {
-            "key": "B",
-            "text": "人民安全"
-          },
-          {
-            "key": "C",
-            "text": "军事安全"
-          },
-          {
-            "key": "D",
-            "text": "科技安全"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-89",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "总体国家安全观以（ ）为根本。",
-        "options": [
-          {
-            "key": "A",
-            "text": "政治安全"
-          },
-          {
-            "key": "B",
-            "text": "文化安全"
-          },
-          {
-            "key": "C",
-            "text": "社会安全"
-          },
-          {
-            "key": "D",
-            "text": "生态安全"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-90",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "总体国家安全观以（ ）为基础。",
-        "options": [
-          {
-            "key": "A",
-            "text": "军事安全"
-          },
-          {
-            "key": "B",
-            "text": "经济安全"
-          },
-          {
-            "key": "C",
-            "text": "网络安全"
-          },
-          {
-            "key": "D",
-            "text": "资源安全"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-91",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "维护国家安全要贯穿党和国家工作（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "经济领域全过程"
-          },
-          {
-            "key": "B",
-            "text": "重点地区全过程"
-          },
-          {
-            "key": "C",
-            "text": "各方面全过程"
-          },
-          {
-            "key": "D",
-            "text": "基层治理全过程"
-          }
-        ],
-        "answer": "C",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-92",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "国家安全的根本是（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "政治安全"
-          },
-          {
-            "key": "B",
-            "text": "粮食安全"
-          },
-          {
-            "key": "C",
-            "text": "文化安全"
-          },
-          {
-            "key": "D",
-            "text": "生态安全"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-93",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "政治安全涉及国家主权、政权、制度和（ ）的稳固。",
-        "options": [
-          {
-            "key": "A",
-            "text": "资源供给"
-          },
-          {
-            "key": "B",
-            "text": "意识形态"
-          },
-          {
-            "key": "C",
-            "text": "市场价格"
-          },
-          {
-            "key": "D",
-            "text": "产业链条"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-94",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "构建统筹各领域安全的新安全格局，维护重点领域国家安全是（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "主阵地、主战场"
-          },
-          {
-            "key": "B",
-            "text": "总目标、总任务"
-          },
-          {
-            "key": "C",
-            "text": "出发点、落脚点"
-          },
-          {
-            "key": "D",
-            "text": "生命线、幸福线"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-95",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "平安是老百姓解决温饱后的第一需求，是极重要的民生，也是（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "最基本的发展环境"
-          },
-          {
-            "key": "B",
-            "text": "最高层次的文化需求"
-          },
-          {
-            "key": "C",
-            "text": "最主要的经济指标"
-          },
-          {
-            "key": "D",
-            "text": "最核心的外交目标"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-96",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "党在新时代的强军目标是建设一支听党指挥、能打胜仗、（ ）的人民军队。",
-        "options": [
-          {
-            "key": "A",
-            "text": "装备先进"
-          },
-          {
-            "key": "B",
-            "text": "规模庞大"
-          },
-          {
-            "key": "C",
-            "text": "作风优良"
-          },
-          {
-            "key": "D",
-            "text": "纪律松弛"
-          }
-        ],
-        "answer": "C",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-97",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "党在新时代的强军目标要求把人民军队建设成为（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "地区一流军队"
-          },
-          {
-            "key": "B",
-            "text": "世界一流军队"
-          },
-          {
-            "key": "C",
-            "text": "经济建设主力军"
-          },
-          {
-            "key": "D",
-            "text": "国际贸易保障队"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-98",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "党的十九大提出，确保到2020年基本实现（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "机械化"
-          },
-          {
-            "key": "B",
-            "text": "现代化"
-          },
-          {
-            "key": "C",
-            "text": "智能化"
-          },
-          {
-            "key": "D",
-            "text": "全球化"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-99",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "党的十九大提出，力争到2035年基本实现（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "全面建成世界一流军队"
-          },
-          {
-            "key": "B",
-            "text": "国防和军队现代化"
-          },
-          {
-            "key": "C",
-            "text": "军队完全信息化"
-          },
-          {
-            "key": "D",
-            "text": "军民融合全球化"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-100",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "党的十九大提出，到本世纪中叶把人民军队全面建成（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "现代化经济力量"
-          },
-          {
-            "key": "B",
-            "text": "世界一流军队"
-          },
-          {
-            "key": "C",
-            "text": "地区安全组织"
-          },
-          {
-            "key": "D",
-            "text": "科技创新平台"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-101",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "坚持党对人民军队绝对领导的根本制度和根本实现形式是（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "军委主席负责制"
-          },
-          {
-            "key": "B",
-            "text": "行政首长负责制"
-          },
-          {
-            "key": "C",
-            "text": "地方党委负责制"
-          },
-          {
-            "key": "D",
-            "text": "部门分工负责制"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-102",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "有效履行人民军队根本职能、提高军队建设质量和效益，必须把（ ）作为唯一的根本的标准。",
-        "options": [
-          {
-            "key": "A",
-            "text": "装备数量"
-          },
-          {
-            "key": "B",
-            "text": "战斗力"
-          },
-          {
-            "key": "C",
-            "text": "人员规模"
-          },
-          {
-            "key": "D",
-            "text": "训练时间"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-103",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "“一国两制”包含了中华文化中的哪一理念？",
-        "options": [
-          {
-            "key": "A",
-            "text": "仁爱理念"
-          },
-          {
-            "key": "B",
-            "text": "和合理念"
-          },
-          {
-            "key": "C",
-            "text": "民本理念"
-          },
-          {
-            "key": "D",
-            "text": "诚信理念"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-104",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "“一国两制”体现了怎样的思维方式？",
-        "options": [
-          {
-            "key": "A",
-            "text": "绝对统一、排除差异"
-          },
-          {
-            "key": "B",
-            "text": "尊重差异、求同存异"
-          },
-          {
-            "key": "C",
-            "text": "先破后立、重点突破"
-          },
-          {
-            "key": "D",
-            "text": "自立自强、独立自主"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-105",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "“一国两制”是中华民族为世界什么作出的新贡献？",
-        "options": [
-          {
-            "key": "A",
-            "text": "经济增长与技术革新"
-          },
-          {
-            "key": "B",
-            "text": "文化交流与文明互鉴"
-          },
-          {
-            "key": "C",
-            "text": "和平与发展"
-          },
-          {
-            "key": "D",
-            "text": "安全治理与制度竞争"
-          }
-        ],
-        "answer": "C",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-106",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "坚持“一国两制”，必须坚持中央全面管治权和什么相统一？",
-        "options": [
-          {
-            "key": "A",
-            "text": "地方完全自治权"
-          },
-          {
-            "key": "B",
-            "text": "特别行政区高度自治权"
-          },
-          {
-            "key": "C",
-            "text": "区域经济管理权"
-          },
-          {
-            "key": "D",
-            "text": "基层社会治理权"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-107",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "我国是单一制国家，中央对包括香港、澳门特别行政区在内的所有地方行政区域拥有什么权力？",
-        "options": [
-          {
-            "key": "A",
-            "text": "部分指导权"
-          },
-          {
-            "key": "B",
-            "text": "外交协商权"
-          },
-          {
-            "key": "C",
-            "text": "全面管治权"
-          },
-          {
-            "key": "D",
-            "text": "临时监督权"
-          }
-        ],
-        "answer": "C",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-108",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "特别行政区管治权必须牢牢掌握在谁手中？",
-        "options": [
-          {
-            "key": "A",
-            "text": "投资者"
-          },
-          {
-            "key": "B",
-            "text": "爱国者"
-          },
-          {
-            "key": "C",
-            "text": "外国机构"
-          },
-          {
-            "key": "D",
-            "text": "地方社团"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-109",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "“爱国者治港”“爱国者治澳”这一原则，事关国家主权、安全、发展利益，也事关香港、澳门的什么？",
-        "options": [
-          {
-            "key": "A",
-            "text": "短期经济增长"
-          },
-          {
-            "key": "B",
-            "text": "长期繁荣稳定"
-          },
-          {
-            "key": "C",
-            "text": "文化产业升级"
-          },
-          {
-            "key": "D",
-            "text": "城市规划调整"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-110",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "推进祖国统一的历史方位是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "在改革开放进程中推进祖国统一"
-          },
-          {
-            "key": "B",
-            "text": "在全球治理进程中推进祖国统一"
-          },
-          {
-            "key": "C",
-            "text": "在中华民族伟大复兴进程中推进祖国统一"
-          },
-          {
-            "key": "D",
-            "text": "在区域协调发展进程中推进祖国统一"
-          }
-        ],
-        "answer": "C",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-111",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "中国特色大国外交建立在正确的历史观、大局观和什么基础之上？",
-        "options": [
-          {
-            "key": "A",
-            "text": "角色观"
-          },
-          {
-            "key": "B",
-            "text": "消费观"
-          },
-          {
-            "key": "C",
-            "text": "生态观"
-          },
-          {
-            "key": "D",
-            "text": "人才观"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-112",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "中国特色大国外交牢牢把握的主线是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "扩大贸易、提升产能"
-          },
-          {
-            "key": "B",
-            "text": "服务民族复兴、促进人类进步"
-          },
-          {
-            "key": "C",
-            "text": "发展科技、培养人才"
-          },
-          {
-            "key": "D",
-            "text": "深化改革、扩大开放"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-113",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "中国特色大国外交全面推进，什么成为引领时代潮流和人类前进方向的鲜明旗帜？",
-        "options": [
-          {
-            "key": "A",
-            "text": "全球发展伙伴关系"
-          },
-          {
-            "key": "B",
-            "text": "构建人类命运共同体"
-          },
-          {
-            "key": "C",
-            "text": "区域经济一体化"
-          },
-          {
-            "key": "D",
-            "text": "国际科技合作"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-114",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "我国对外工作的出发点和落脚点是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "维护国家主权、安全、发展利益"
-          },
-          {
-            "key": "B",
-            "text": "扩大对外投资规模"
-          },
-          {
-            "key": "C",
-            "text": "提升国际市场占有率"
-          },
-          {
-            "key": "D",
-            "text": "推动文化产品输出"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-115",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "我国外交的神圣使命是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "发展新型消费"
-          },
-          {
-            "key": "B",
-            "text": "维护国家主权、安全、发展利益"
-          },
-          {
-            "key": "C",
-            "text": "扩大地方外事活动"
-          },
-          {
-            "key": "D",
-            "text": "提高企业国际竞争力"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-116",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "下列哪一组属于全人类共同价值？",
-        "options": [
-          {
-            "key": "A",
-            "text": "和平、发展、公平、正义、民主、自由"
-          },
-          {
-            "key": "B",
-            "text": "富强、民主、文明、和谐、美丽、幸福"
-          },
-          {
-            "key": "C",
-            "text": "创新、协调、绿色、开放、共享"
-          },
-          {
-            "key": "D",
-            "text": "爱国、敬业、诚信、友善、法治、公正"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-117",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "多边主义符合各国人民利益，是维护和平、促进发展的什么？",
-        "options": [
-          {
-            "key": "A",
-            "text": "根本制度"
-          },
-          {
-            "key": "B",
-            "text": "有效路径"
-          },
-          {
-            "key": "C",
-            "text": "唯一标准"
-          },
-          {
-            "key": "D",
-            "text": "基本国策"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-118",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "我国要坚定维护的国际体系是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "以世界银行为核心的国际体系"
-          },
-          {
-            "key": "B",
-            "text": "以联合国为核心的国际体系"
-          },
-          {
-            "key": "C",
-            "text": "以区域组织为核心的国际体系"
-          },
-          {
-            "key": "D",
-            "text": "以跨国公司为核心的国际体系"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-119",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "我国要坚定维护的国际秩序是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "以国际法为基础的国际秩序"
-          },
-          {
-            "key": "B",
-            "text": "以军事同盟为基础的国际秩序"
-          },
-          {
-            "key": "C",
-            "text": "以单边规则为基础的国际秩序"
-          },
-          {
-            "key": "D",
-            "text": "以贸易壁垒为基础的国际秩序"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-120",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "中国特色大国外交的基础中，“三观”不包括下列哪一项？",
-        "options": [
-          {
-            "key": "A",
-            "text": "历史观"
-          },
-          {
-            "key": "B",
-            "text": "大局观"
-          },
-          {
-            "key": "C",
-            "text": "角色观"
-          },
-          {
-            "key": "D",
-            "text": "消费观"
-          }
-        ],
-        "answer": "D",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-121",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "构建人类命运共同体的地位是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "中华优秀传统文化的唯一内容"
-          },
-          {
-            "key": "B",
-            "text": "引领时代潮流和人类前进方向的鲜明旗帜"
-          },
-          {
-            "key": "C",
-            "text": "社会主义市场经济的基本制度"
-          },
-          {
-            "key": "D",
-            "text": "国家治理体系的全部内容"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-122",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "关于维护国家主权、安全、发展利益，下列说法正确的是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "只是经济工作的目标"
-          },
-          {
-            "key": "B",
-            "text": "是我国对外工作的出发点和落脚点"
-          },
-          {
-            "key": "C",
-            "text": "只适用于国防建设领域"
-          },
-          {
-            "key": "D",
-            "text": "与外交工作没有直接关系"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-123",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "把党的建设作为一项伟大工程来推进，是我们党的：",
-        "options": [
-          {
-            "key": "A",
-            "text": "一大创举"
-          },
-          {
-            "key": "B",
-            "text": "一般经验"
-          },
-          {
-            "key": "C",
-            "text": "临时安排"
-          },
-          {
-            "key": "D",
-            "text": "经济任务"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-124",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "党的建设中应当摆在首位的是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "思想建设"
-          },
-          {
-            "key": "B",
-            "text": "组织建设"
-          },
-          {
-            "key": "C",
-            "text": "政治建设"
-          },
-          {
-            "key": "D",
-            "text": "作风建设"
-          }
-        ],
-        "answer": "C",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-125",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "团结统一是党的生命，是党的什么所在？",
-        "options": [
-          {
-            "key": "A",
-            "text": "制度所在"
-          },
-          {
-            "key": "B",
-            "text": "力量所在"
-          },
-          {
-            "key": "C",
-            "text": "目标所在"
-          },
-          {
-            "key": "D",
-            "text": "路线所在"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-126",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "深入推进全面从严治党，必须把什么作为基础性建设？",
-        "options": [
-          {
-            "key": "A",
-            "text": "制度建设"
-          },
-          {
-            "key": "B",
-            "text": "文化建设"
-          },
-          {
-            "key": "C",
-            "text": "思想建设"
-          },
-          {
-            "key": "D",
-            "text": "纪律建设"
-          }
-        ],
-        "answer": "C",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-127",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "作风问题的核心是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "党同人民群众的关系问题"
-          },
-          {
-            "key": "B",
-            "text": "经济增长速度问题"
-          },
-          {
-            "key": "C",
-            "text": "社会分配方式问题"
-          },
-          {
-            "key": "D",
-            "text": "国际交往方式问题"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-128",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "“把权力关进制度的笼子里”强调的是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "削弱制度建设"
-          },
-          {
-            "key": "B",
-            "text": "加强制度制约和监督权力"
-          },
-          {
-            "key": "C",
-            "text": "扩大个人自由裁量"
-          },
-          {
-            "key": "D",
-            "text": "减少监督程序"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-129",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "反腐倡廉的核心是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "宣传教育和文化活动"
-          },
-          {
-            "key": "B",
-            "text": "制度制约和监督权力"
-          },
-          {
-            "key": "C",
-            "text": "经济建设和产业发展"
-          },
-          {
-            "key": "D",
-            "text": "扩大行政审批权限"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-130",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "新时代坚持和发展中国特色社会主义，是一场艰巨而伟大的：",
-        "options": [
-          {
-            "key": "A",
-            "text": "经济改革"
-          },
-          {
-            "key": "B",
-            "text": "科技革命"
-          },
-          {
-            "key": "C",
-            "text": "社会革命"
-          },
-          {
-            "key": "D",
-            "text": "文化运动"
-          }
-        ],
-        "answer": "C",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-131",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "下列关于团结统一的说法正确的是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "团结统一是党的生命，是党的力量所在"
-          },
-          {
-            "key": "B",
-            "text": "团结统一只属于基层治理要求"
-          },
-          {
-            "key": "C",
-            "text": "团结统一是短期工作方法"
-          },
-          {
-            "key": "D",
-            "text": "团结统一与党的建设无关"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-132",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "全面从严治党中，思想建设的地位是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "临时性建设"
-          },
-          {
-            "key": "B",
-            "text": "基础性建设"
-          },
-          {
-            "key": "C",
-            "text": "辅助性工作"
-          },
-          {
-            "key": "D",
-            "text": "外部性条件"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-133",
-        "type": "single",
-        "chapter": "第四五六章",
+        "chapter": "第四章",
         "stem": "人民性是马克思主义的什么？",
         "options": [
           {
@@ -3752,13 +1855,13 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-134",
+        "id": "single-65",
         "type": "single",
-        "chapter": "第四五六章",
+        "chapter": "第四章",
         "stem": "坚持以人民为中心，体现了哪一基本原理？",
         "options": [
           {
@@ -3780,13 +1883,13 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-135",
+        "id": "single-66",
         "type": "single",
-        "chapter": "第四五六章",
+        "chapter": "第四章",
         "stem": "人民立场是中国共产党的什么？",
         "options": [
           {
@@ -3808,14 +1911,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-136",
+        "id": "single-67",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "中国共产党区别于其他政党的显著标志是",
+        "chapter": "第四章",
+        "stem": "中国共产党区别于其他政党的显著标志是：",
         "options": [
           {
             "key": "A",
@@ -3836,14 +1939,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-137",
+        "id": "single-68",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "坚持人民立场，就要始终牢记党的",
+        "chapter": "第四章",
+        "stem": "坚持人民立场，就要始终牢记党的：",
         "options": [
           {
             "key": "A",
@@ -3864,13 +1967,13 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-138",
+        "id": "single-69",
         "type": "single",
-        "chapter": "第四五六章",
+        "chapter": "第四章",
         "stem": "人民对美好生活的向往就是党的",
         "options": [
           {
@@ -3892,14 +1995,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-139",
+        "id": "single-70",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "我们党做好一切工作的价值取向和根本标准是",
+        "chapter": "第四章",
+        "stem": "我们党做好一切工作的价值取向和根本标准是：",
         "options": [
           {
             "key": "A",
@@ -3920,14 +2023,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-140",
+        "id": "single-71",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "群众路线是我们党的生命线和",
+        "chapter": "第四章",
+        "stem": "群众路线是我们党的生命线和：",
         "options": [
           {
             "key": "A",
@@ -3948,14 +2051,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-141",
+        "id": "single-72",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "共同富裕是中国特色社会主义的本质要求，也是中国式现代化的",
+        "chapter": "第四章",
+        "stem": "共同富裕是中国特色社会主义的本质要求，也是中国式现代化的：",
         "options": [
           {
             "key": "A",
@@ -3976,14 +2079,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-142",
+        "id": "single-73",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "改革开放是决定当代中国命运的",
+        "chapter": "第五章",
+        "stem": "改革开放是决定当代中国命运的：",
         "options": [
           {
             "key": "A",
@@ -4004,14 +2107,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-143",
+        "id": "single-74",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "改革开放也是决定实现“两个一百年”奋斗目标、实现中华民族伟大复兴的",
+        "chapter": "第五章",
+        "stem": "改革开放也是决定实现“两个一百年”奋斗目标、实现中华民族伟大复兴的：",
         "options": [
           {
             "key": "A",
@@ -4032,14 +2135,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-144",
+        "id": "single-75",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "新时代全面深化改革开放，就其艰巨性、复杂性和系统性来说，是一场",
+        "chapter": "第五章",
+        "stem": "新时代全面深化改革开放，就其艰巨性、复杂性和系统性来说，是一场：",
         "options": [
           {
             "key": "A",
@@ -4060,14 +2163,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-145",
+        "id": "single-76",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "社会主义改革开放的出发点和落脚点是为了更好实现和维护",
+        "chapter": "第五章",
+        "stem": "社会主义改革开放的出发点和落脚点是为了更好实现和维护：",
         "options": [
           {
             "key": "A",
@@ -4088,14 +2191,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-146",
+        "id": "single-77",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "改革的方向立场和原则之一是必须有利于进一步解放思想、进一步解放和发展社会生产力、进一步解放和增强",
+        "chapter": "第五章",
+        "stem": "改革的方向立场和原则之一是必须有利于进一步解放思想、进一步解放和发展社会生产力、进一步解放和增强：",
         "options": [
           {
             "key": "A",
@@ -4116,14 +2219,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-147",
+        "id": "single-78",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "全面深化改革总目标是完善和发展中国特色社会主义制度，推进",
+        "chapter": "第五章",
+        "stem": "全面深化改革总目标是完善和发展中国特色社会主义制度，推进：",
         "options": [
           {
             "key": "A",
@@ -4144,13 +2247,13 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-148",
+        "id": "single-79",
         "type": "single",
-        "chapter": "第四五六章",
+        "chapter": "第五章",
         "stem": "国家治理体系和治理能力是一个国家制度和什么的集中体现？",
         "options": [
           {
@@ -4172,13 +2275,13 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-149",
+        "id": "single-80",
         "type": "single",
-        "chapter": "第四五六章",
+        "chapter": "第五章",
         "stem": "要把新时代改革推向前进，必须加强什么，以利于提高改革的科学性和协调性？",
         "options": [
           {
@@ -4200,14 +2303,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-150",
+        "id": "single-81",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "高质量发展是新时代我国经济社会发展的鲜明主题，也是全面建设社会主义现代化国家的",
+        "chapter": "第六章",
+        "stem": "高质量发展是新时代我国经济社会发展的鲜明主题，也是全面建设社会主义现代化国家的：",
         "options": [
           {
             "key": "A",
@@ -4228,14 +2331,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-151",
+        "id": "single-82",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "新发展理念的内容是创新、协调、绿色、开放",
+        "chapter": "第六章",
+        "stem": "新发展理念的内容是创新、协调、绿色、开放、：",
         "options": [
           {
             "key": "A",
@@ -4256,13 +2359,13 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-152",
+        "id": "single-83",
         "type": "single",
-        "chapter": "第四五六章",
+        "chapter": "第六章",
         "stem": "高质量发展是全面建设社会主义现代化国家的首要任务，是遵循什么规律发展的必然要求？",
         "options": [
           {
@@ -4284,14 +2387,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-153",
+        "id": "single-84",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "公有制经济包括国有经济、集体经济，还包括混合所有制经济中的",
+        "chapter": "第六章",
+        "stem": "公有制经济包括国有经济、集体经济，还包括混合所有制经济中的：",
         "options": [
           {
             "key": "A",
@@ -4312,13 +2415,13 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-154",
+        "id": "single-85",
         "type": "single",
-        "chapter": "第四五六章",
+        "chapter": "第六章",
         "stem": "非公有制经济不包括下列哪一项？",
         "options": [
           {
@@ -4340,14 +2443,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-155",
+        "id": "single-86",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "我国分配制度坚持",
+        "chapter": "第六章",
+        "stem": "我国分配制度坚持：",
         "options": [
           {
             "key": "A",
@@ -4368,14 +2471,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-156",
+        "id": "single-87",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "构建高水平社会主义市场经济体制，关键是要处理好",
+        "chapter": "第六章",
+        "stem": "构建高水平社会主义市场经济体制，关键是要处理好：",
         "options": [
           {
             "key": "A",
@@ -4396,14 +2499,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-157",
+        "id": "single-88",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "在资源配置中起决定性作用的是",
+        "chapter": "第六章",
+        "stem": "在资源配置中起决定性作用的是：",
         "options": [
           {
             "key": "A",
@@ -4424,14 +2527,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-158",
+        "id": "single-89",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "在社会主义市场经济体制下，资本是带动各类生产要素集聚配置的",
+        "chapter": "第六章",
+        "stem": "在社会主义市场经济体制下，资本是带动各类生产要素集聚配置的：",
         "options": [
           {
             "key": "A",
@@ -4452,14 +2555,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-159",
+        "id": "single-90",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "构建新发展格局最本质的特征是实现",
+        "chapter": "第六章",
+        "stem": "构建新发展格局最本质的特征是实现：",
         "options": [
           {
             "key": "A",
@@ -4480,14 +2583,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-160",
+        "id": "single-91",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "新发展理念是实现高质量发展的",
+        "chapter": "第六章",
+        "stem": "新发展理念是实现高质量发展的：",
         "options": [
           {
             "key": "A",
@@ -4508,14 +2611,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-161",
+        "id": "single-92",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "贯彻新发展理念是关系我国发展全局的一场",
+        "chapter": "第六章",
+        "stem": "贯彻新发展理念是关系我国发展全局的一场：",
         "options": [
           {
             "key": "A",
@@ -4536,14 +2639,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-162",
+        "id": "single-93",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "公有制经济和非公有制经济都是社会主义市场经济的重要组成部分，都是我国经济社会发展的",
+        "chapter": "第六章",
+        "stem": "公有制经济和非公有制经济都是社会主义市场经济的重要组成部分，都是我国经济社会发展的：",
         "options": [
           {
             "key": "A",
@@ -4564,13 +2667,2533 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-94",
+        "type": "single",
+        "chapter": "第七章",
+        "stem": "教育、科技、人才是全面建设社会主义现代化国家的什么支撑？",
+        "options": [
+          {
+            "key": "A",
+            "text": "一般性、辅助性支撑"
+          },
+          {
+            "key": "B",
+            "text": "基础性、战略性支撑"
+          },
+          {
+            "key": "C",
+            "text": "阶段性、临时性支撑"
+          },
+          {
+            "key": "D",
+            "text": "区域性、局部性支撑"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-95",
+        "type": "single",
+        "chapter": "第七章",
+        "stem": "全面建设社会主义现代化国家，必须坚持科技是第一生产力、人才是第一资源、什么是第一动力？",
+        "options": [
+          {
+            "key": "A",
+            "text": "改革"
+          },
+          {
+            "key": "B",
+            "text": "开放"
+          },
+          {
+            "key": "C",
+            "text": "创新"
+          },
+          {
+            "key": "D",
+            "text": "文化"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-96",
+        "type": "single",
+        "chapter": "第七章",
+        "stem": "育人的根本在于：",
+        "options": [
+          {
+            "key": "A",
+            "text": "立德"
+          },
+          {
+            "key": "B",
+            "text": "立功"
+          },
+          {
+            "key": "C",
+            "text": "立言"
+          },
+          {
+            "key": "D",
+            "text": "立业"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-97",
+        "type": "single",
+        "chapter": "第七章",
+        "stem": "关键核心技术被称为：",
+        "options": [
+          {
+            "key": "A",
+            "text": "国之根基"
+          },
+          {
+            "key": "B",
+            "text": "国之重器"
+          },
+          {
+            "key": "C",
+            "text": "国之门户"
+          },
+          {
+            "key": "D",
+            "text": "国之财富"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-98",
+        "type": "single",
+        "chapter": "第七章",
+        "stem": "只有把最关键最核心的技术掌握在自己手中，才能从根本上保障国家经济安全、国防安全和什么安全？",
+        "options": [
+          {
+            "key": "A",
+            "text": "其他安全"
+          },
+          {
+            "key": "B",
+            "text": "文化安全"
+          },
+          {
+            "key": "C",
+            "text": "交通安全"
+          },
+          {
+            "key": "D",
+            "text": "生态安全"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-99",
+        "type": "single",
+        "chapter": "第七章",
+        "stem": "人才是实现民族振兴、赢得国际竞争主动的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "一般资源"
+          },
+          {
+            "key": "B",
+            "text": "战略资源"
+          },
+          {
+            "key": "C",
+            "text": "物质基础"
+          },
+          {
+            "key": "D",
+            "text": "制度保障"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-100",
+        "type": "single",
+        "chapter": "第七章",
+        "stem": "加快教育强国，必须落实什么根本任务？",
+        "options": [
+          {
+            "key": "A",
+            "text": "提高升学率"
+          },
+          {
+            "key": "B",
+            "text": "扩大教育规模"
+          },
+          {
+            "key": "C",
+            "text": "立德树人"
+          },
+          {
+            "key": "D",
+            "text": "发展职业教育"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-101",
+        "type": "single",
+        "chapter": "第八章",
+        "stem": "人民民主是社会主义的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "根本任务"
+          },
+          {
+            "key": "B",
+            "text": "生命"
+          },
+          {
+            "key": "C",
+            "text": "重要资源"
+          },
+          {
+            "key": "D",
+            "text": "发展目标"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-102",
+        "type": "single",
+        "chapter": "第八章",
+        "stem": "全过程人民民主是社会主义民主政治的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "一般特征"
+          },
+          {
+            "key": "B",
+            "text": "本质属性"
+          },
+          {
+            "key": "C",
+            "text": "基本形式"
+          },
+          {
+            "key": "D",
+            "text": "组织原则"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-103",
+        "type": "single",
+        "chapter": "第八章",
+        "stem": "人民民主建立在什么基础之上？",
+        "options": [
+          {
+            "key": "A",
+            "text": "社会主义经济基础"
+          },
+          {
+            "key": "B",
+            "text": "资本主义经济基础"
+          },
+          {
+            "key": "C",
+            "text": "小农经济基础"
+          },
+          {
+            "key": "D",
+            "text": "私有制经济基础"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-104",
+        "type": "single",
+        "chapter": "第八章",
+        "stem": "人民民主体现了社会主义国家的性质，反映了什么的本质要求？",
+        "options": [
+          {
+            "key": "A",
+            "text": "市场经济"
+          },
+          {
+            "key": "B",
+            "text": "社会主义制度"
+          },
+          {
+            "key": "C",
+            "text": "国际关系"
+          },
+          {
+            "key": "D",
+            "text": "文化建设"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-105",
+        "type": "single",
+        "chapter": "第八章",
+        "stem": "全过程人民民主是最广泛、最真实、最什么的民主？",
+        "options": [
+          {
+            "key": "A",
+            "text": "最直接"
+          },
+          {
+            "key": "B",
+            "text": "最管用"
+          },
+          {
+            "key": "C",
+            "text": "最普遍"
+          },
+          {
+            "key": "D",
+            "text": "最复杂"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-106",
+        "type": "single",
+        "chapter": "第八章",
+        "stem": "统一战线是中国共产党夺取革命、建设、改革事业胜利的重要法宝，也是实现什么的重要法宝？",
+        "options": [
+          {
+            "key": "A",
+            "text": "共同富裕"
+          },
+          {
+            "key": "B",
+            "text": "生态文明"
+          },
+          {
+            "key": "C",
+            "text": "中华民族伟大复兴"
+          },
+          {
+            "key": "D",
+            "text": "高质量发展"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-107",
+        "type": "single",
+        "chapter": "第九章",
+        "stem": "全面依法治国是坚持和发展中国特色社会主义的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "本质要求和重要保障"
+          },
+          {
+            "key": "B",
+            "text": "主要矛盾和核心问题"
+          },
+          {
+            "key": "C",
+            "text": "根本任务和最终目标"
+          },
+          {
+            "key": "D",
+            "text": "基本路线和中心工作"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-108",
+        "type": "single",
+        "chapter": "第九章",
+        "stem": "全面推进依法治国的总抓手是建设：",
+        "options": [
+          {
+            "key": "A",
+            "text": "社会主义民主政治体系"
+          },
+          {
+            "key": "B",
+            "text": "中国特色社会主义法治体系"
+          },
+          {
+            "key": "C",
+            "text": "社会主义市场经济体系"
+          },
+          {
+            "key": "D",
+            "text": "国家安全体系"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-109",
+        "type": "single",
+        "chapter": "第九章",
+        "stem": "把党内法规体系纳入中国特色社会主义法治体系，是我国法治区别于其他国家法治的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "基本条件"
+          },
+          {
+            "key": "B",
+            "text": "鲜明特征"
+          },
+          {
+            "key": "C",
+            "text": "临时措施"
+          },
+          {
+            "key": "D",
+            "text": "主要矛盾"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-110",
+        "type": "single",
+        "chapter": "第九章",
+        "stem": "法治中国建设的三大支柱是法治国家、法治政府和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "法治市场"
+          },
+          {
+            "key": "B",
+            "text": "法治社会"
+          },
+          {
+            "key": "C",
+            "text": "法治文化"
+          },
+          {
+            "key": "D",
+            "text": "法治机关"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-111",
+        "type": "single",
+        "chapter": "第九章",
+        "stem": "法治国家、法治政府、法治社会三者之间的关系是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "相互割裂、各自独立"
+          },
+          {
+            "key": "B",
+            "text": "相互联系、内在统一"
+          },
+          {
+            "key": "C",
+            "text": "互不影响、并列存在"
+          },
+          {
+            "key": "D",
+            "text": "先后替代、逐步取消"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-112",
+        "type": "single",
+        "chapter": "第九章",
+        "stem": "维护社会公平正义的最后一道防线是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "公正司法"
+          },
+          {
+            "key": "B",
+            "text": "严格执法"
+          },
+          {
+            "key": "C",
+            "text": "科学立法"
+          },
+          {
+            "key": "D",
+            "text": "全民守法"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-113",
+        "type": "single",
+        "chapter": "第九章",
+        "stem": "“严格公正司法”强调，司法工作的核心价值之一是维护：",
+        "options": [
+          {
+            "key": "A",
+            "text": "经济增长速度"
+          },
+          {
+            "key": "B",
+            "text": "社会公平正义"
+          },
+          {
+            "key": "C",
+            "text": "企业经营效率"
+          },
+          {
+            "key": "D",
+            "text": "地方发展利益"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-114",
+        "type": "single",
+        "chapter": "第十章",
+        "stem": "文化是一个国家、一个民族的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "经济基础"
+          },
+          {
+            "key": "B",
+            "text": "灵魂"
+          },
+          {
+            "key": "C",
+            "text": "制度保障"
+          },
+          {
+            "key": "D",
+            "text": "发展速度"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-115",
+        "type": "single",
+        "chapter": "第十章",
+        "stem": "党带领人民在伟大斗争中孕育的革命文化和社会主义先进文化，是我们坚定什么的坚强基石？",
+        "options": [
+          {
+            "key": "A",
+            "text": "道路自信"
+          },
+          {
+            "key": "B",
+            "text": "理论自信"
+          },
+          {
+            "key": "C",
+            "text": "文化自信"
+          },
+          {
+            "key": "D",
+            "text": "制度自信"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-116",
+        "type": "single",
+        "chapter": "第十章",
+        "stem": "文化的生命所在、文化的本质特征是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "创新创造"
+          },
+          {
+            "key": "B",
+            "text": "对外传播"
+          },
+          {
+            "key": "C",
+            "text": "传统保存"
+          },
+          {
+            "key": "D",
+            "text": "产业经营"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-117",
+        "type": "single",
+        "chapter": "第十章",
+        "stem": "新闻舆论工作的根本原则是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "市场原则"
+          },
+          {
+            "key": "B",
+            "text": "党性原则"
+          },
+          {
+            "key": "C",
+            "text": "技术原则"
+          },
+          {
+            "key": "D",
+            "text": "效率原则"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-118",
+        "type": "single",
+        "chapter": "第十章",
+        "stem": "在新的起点上继续推动文化繁荣、建设文化强国、建设中华民族现代文明，是新时代新的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "经济任务"
+          },
+          {
+            "key": "B",
+            "text": "文化使命"
+          },
+          {
+            "key": "C",
+            "text": "政治路线"
+          },
+          {
+            "key": "D",
+            "text": "社会目标"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-119",
+        "type": "single",
+        "chapter": "第十章",
+        "stem": "下列哪一项不属于中华文明突出特征？",
+        "options": [
+          {
+            "key": "A",
+            "text": "连续性"
+          },
+          {
+            "key": "B",
+            "text": "创新性"
+          },
+          {
+            "key": "C",
+            "text": "排他性"
+          },
+          {
+            "key": "D",
+            "text": "和平性"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-120",
+        "type": "single",
+        "chapter": "第十章",
+        "stem": "中华文明的突出特征包括连续性、创新性、统一性、包容性和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "竞争性"
+          },
+          {
+            "key": "B",
+            "text": "和平性"
+          },
+          {
+            "key": "C",
+            "text": "封闭性"
+          },
+          {
+            "key": "D",
+            "text": "单一性"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-121",
+        "type": "single",
+        "chapter": "第十章",
+        "stem": "文化软实力集中体现了一个国家基于文化而具有的凝聚力和生命力，以及由此产生的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "吸引力和影响力"
+          },
+          {
+            "key": "B",
+            "text": "控制力和命令力"
+          },
+          {
+            "key": "C",
+            "text": "生产力和消费力"
+          },
+          {
+            "key": "D",
+            "text": "组织力和执行力"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-122",
+        "type": "single",
+        "chapter": "第十章",
+        "stem": "一个国家的文化软实力，从根本上说，取决于其核心价值观的生命力、凝聚力和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "约束力"
+          },
+          {
+            "key": "B",
+            "text": "感召力"
+          },
+          {
+            "key": "C",
+            "text": "管理力"
+          },
+          {
+            "key": "D",
+            "text": "竞争力"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-123",
+        "type": "single",
+        "chapter": "第十章",
+        "stem": "建设社会主义文化强国，必须深刻认识文化对于国家和民族发展的重要作用，因为文化关系到国家和民族的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "灵魂"
+          },
+          {
+            "key": "B",
+            "text": "人口规模"
+          },
+          {
+            "key": "C",
+            "text": "地理位置"
+          },
+          {
+            "key": "D",
+            "text": "自然资源"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-124",
+        "type": "single",
+        "chapter": "第十一章",
+        "stem": "全面建设社会主义现代化国家的出发点和落脚点是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "实现经济高速增长"
+          },
+          {
+            "key": "B",
+            "text": "让人民生活越过越好"
+          },
+          {
+            "key": "C",
+            "text": "扩大对外开放水平"
+          },
+          {
+            "key": "D",
+            "text": "提高国际竞争力"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-125",
+        "type": "single",
+        "chapter": "第十一章",
+        "stem": "社会主义生产的根本目的在于（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "扩大生产规模"
+          },
+          {
+            "key": "B",
+            "text": "增加财政收入"
+          },
+          {
+            "key": "C",
+            "text": "增进民生福祉"
+          },
+          {
+            "key": "D",
+            "text": "提升出口能力"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-126",
+        "type": "single",
+        "chapter": "第十一章",
+        "stem": "促进共同富裕的基础性制度是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "分配制度"
+          },
+          {
+            "key": "B",
+            "text": "户籍制度"
+          },
+          {
+            "key": "C",
+            "text": "金融制度"
+          },
+          {
+            "key": "D",
+            "text": "监察制度"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-127",
+        "type": "single",
+        "chapter": "第十一章",
+        "stem": "最大的民生工程、民心工程、根基工程是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "教育"
+          },
+          {
+            "key": "B",
+            "text": "就业"
+          },
+          {
+            "key": "C",
+            "text": "医疗"
+          },
+          {
+            "key": "D",
+            "text": "住房"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-128",
+        "type": "single",
+        "chapter": "第十一章",
+        "stem": "党的十九大进一步提出打造的社会治理格局是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "共商共建共享"
+          },
+          {
+            "key": "B",
+            "text": "共建共治共享"
+          },
+          {
+            "key": "C",
+            "text": "共抓共管共享"
+          },
+          {
+            "key": "D",
+            "text": "共治共管共赢"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-129",
+        "type": "single",
+        "chapter": "第十一章",
+        "stem": "新时代加强和创新社会治理，要求坚持系统治理、依法治理、综合治理和（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "源头治理"
+          },
+          {
+            "key": "B",
+            "text": "末端治理"
+          },
+          {
+            "key": "C",
+            "text": "分散治理"
+          },
+          {
+            "key": "D",
+            "text": "经验治理"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-130",
+        "type": "single",
+        "chapter": "第十一章",
+        "stem": "下列不属于新时代加强和创新社会治理要求的是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "系统治理"
+          },
+          {
+            "key": "B",
+            "text": "依法治理"
+          },
+          {
+            "key": "C",
+            "text": "综合治理"
+          },
+          {
+            "key": "D",
+            "text": "粗放治理"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-131",
+        "type": "single",
+        "chapter": "第十二章",
+        "stem": "生态环境问题归根到底是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "技术水平问题"
+          },
+          {
+            "key": "B",
+            "text": "经济发展方式和生活方式问题"
+          },
+          {
+            "key": "C",
+            "text": "资源储量问题"
+          },
+          {
+            "key": "D",
+            "text": "城市规模问题"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-132",
+        "type": "single",
+        "chapter": "第十二章",
+        "stem": "“绿水青山就是金山银山”阐明的是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "经济发展与生态环境保护之间的关系"
+          },
+          {
+            "key": "B",
+            "text": "城市建设与人口增长之间的关系"
+          },
+          {
+            "key": "C",
+            "text": "科技创新与教育发展之间的关系"
+          },
+          {
+            "key": "D",
+            "text": "文化建设与旅游开发之间的关系"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-133",
+        "type": "single",
+        "chapter": "第十二章",
+        "stem": "良好的生态环境是最公平的公共产品，是最普惠的（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "经济资源"
+          },
+          {
+            "key": "B",
+            "text": "民生福祉"
+          },
+          {
+            "key": "C",
+            "text": "社会资本"
+          },
+          {
+            "key": "D",
+            "text": "发展红利"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-134",
+        "type": "single",
+        "chapter": "第十二章",
+        "stem": "建设美丽中国，是全面建设社会主义现代化国家的（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "根本制度"
+          },
+          {
+            "key": "B",
+            "text": "重要目标"
+          },
+          {
+            "key": "C",
+            "text": "唯一任务"
+          },
+          {
+            "key": "D",
+            "text": "基本路线"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-135",
+        "type": "single",
+        "chapter": "第十二章",
+        "stem": "绿色发展，就其要义来讲，是要解决好（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "人与自然和谐共生问题"
+          },
+          {
+            "key": "B",
+            "text": "城乡发展速度问题"
+          },
+          {
+            "key": "C",
+            "text": "区域人口流动问题"
+          },
+          {
+            "key": "D",
+            "text": "产业结构单一问题"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-136",
+        "type": "single",
+        "chapter": "第十二章",
+        "stem": "生态文明建设的重中之重是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "工程建设"
+          },
+          {
+            "key": "B",
+            "text": "制度建设"
+          },
+          {
+            "key": "C",
+            "text": "指标建设"
+          },
+          {
+            "key": "D",
+            "text": "宣传建设"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-137",
+        "type": "single",
+        "chapter": "第十二章",
+        "stem": "下列关于良好生态环境的表述，正确的是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "是最公平的公共产品"
+          },
+          {
+            "key": "B",
+            "text": "只属于少数地区的福利"
+          },
+          {
+            "key": "C",
+            "text": "与民生福祉无关"
+          },
+          {
+            "key": "D",
+            "text": "主要取决于资源进口"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-138",
+        "type": "single",
+        "chapter": "第十二章",
+        "stem": "“绿水青山就是金山银山”理念强调，发展经济必须正确处理（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "经济发展与生态环境保护的关系"
+          },
+          {
+            "key": "B",
+            "text": "财政收入与货币政策的关系"
+          },
+          {
+            "key": "C",
+            "text": "国内市场与国际市场的关系"
+          },
+          {
+            "key": "D",
+            "text": "传统产业与新兴产业的关系"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-139",
+        "type": "single",
+        "chapter": "第十三章",
+        "stem": "总体国家安全观以（ ）为宗旨。",
+        "options": [
+          {
+            "key": "A",
+            "text": "经济安全"
+          },
+          {
+            "key": "B",
+            "text": "人民安全"
+          },
+          {
+            "key": "C",
+            "text": "军事安全"
+          },
+          {
+            "key": "D",
+            "text": "科技安全"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-140",
+        "type": "single",
+        "chapter": "第十三章",
+        "stem": "总体国家安全观以（ ）为根本。",
+        "options": [
+          {
+            "key": "A",
+            "text": "政治安全"
+          },
+          {
+            "key": "B",
+            "text": "文化安全"
+          },
+          {
+            "key": "C",
+            "text": "社会安全"
+          },
+          {
+            "key": "D",
+            "text": "生态安全"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-141",
+        "type": "single",
+        "chapter": "第十三章",
+        "stem": "总体国家安全观以（ ）为基础。",
+        "options": [
+          {
+            "key": "A",
+            "text": "军事安全"
+          },
+          {
+            "key": "B",
+            "text": "经济安全"
+          },
+          {
+            "key": "C",
+            "text": "网络安全"
+          },
+          {
+            "key": "D",
+            "text": "资源安全"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-142",
+        "type": "single",
+        "chapter": "第十三章",
+        "stem": "维护国家安全要贯穿党和国家工作（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "经济领域全过程"
+          },
+          {
+            "key": "B",
+            "text": "重点地区全过程"
+          },
+          {
+            "key": "C",
+            "text": "各方面全过程"
+          },
+          {
+            "key": "D",
+            "text": "基层治理全过程"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-143",
+        "type": "single",
+        "chapter": "第十三章",
+        "stem": "国家安全的根本是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "政治安全"
+          },
+          {
+            "key": "B",
+            "text": "粮食安全"
+          },
+          {
+            "key": "C",
+            "text": "文化安全"
+          },
+          {
+            "key": "D",
+            "text": "生态安全"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-144",
+        "type": "single",
+        "chapter": "第十三章",
+        "stem": "政治安全涉及国家主权、政权、制度和（ ）的稳固。",
+        "options": [
+          {
+            "key": "A",
+            "text": "资源供给"
+          },
+          {
+            "key": "B",
+            "text": "意识形态"
+          },
+          {
+            "key": "C",
+            "text": "市场价格"
+          },
+          {
+            "key": "D",
+            "text": "产业链条"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-145",
+        "type": "single",
+        "chapter": "第十三章",
+        "stem": "构建统筹各领域安全的新安全格局，维护重点领域国家安全是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "主阵地、主战场"
+          },
+          {
+            "key": "B",
+            "text": "总目标、总任务"
+          },
+          {
+            "key": "C",
+            "text": "出发点、落脚点"
+          },
+          {
+            "key": "D",
+            "text": "生命线、幸福线"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-146",
+        "type": "single",
+        "chapter": "第十三章",
+        "stem": "平安是老百姓解决温饱后的第一需求，是极重要的民生，也是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "最基本的发展环境"
+          },
+          {
+            "key": "B",
+            "text": "最高层次的文化需求"
+          },
+          {
+            "key": "C",
+            "text": "最主要的经济指标"
+          },
+          {
+            "key": "D",
+            "text": "最核心的外交目标"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-147",
+        "type": "single",
+        "chapter": "第十四章",
+        "stem": "党在新时代的强军目标是建设一支听党指挥、能打胜仗、（ ）的人民军队。",
+        "options": [
+          {
+            "key": "A",
+            "text": "装备先进"
+          },
+          {
+            "key": "B",
+            "text": "规模庞大"
+          },
+          {
+            "key": "C",
+            "text": "作风优良"
+          },
+          {
+            "key": "D",
+            "text": "纪律松弛"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-148",
+        "type": "single",
+        "chapter": "第十四章",
+        "stem": "党在新时代的强军目标要求把人民军队建设成为（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "地区一流军队"
+          },
+          {
+            "key": "B",
+            "text": "世界一流军队"
+          },
+          {
+            "key": "C",
+            "text": "经济建设主力军"
+          },
+          {
+            "key": "D",
+            "text": "国际贸易保障队"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-149",
+        "type": "single",
+        "chapter": "第十四章",
+        "stem": "党的十九大提出，确保到2020年基本实现（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "机械化"
+          },
+          {
+            "key": "B",
+            "text": "现代化"
+          },
+          {
+            "key": "C",
+            "text": "智能化"
+          },
+          {
+            "key": "D",
+            "text": "全球化"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-150",
+        "type": "single",
+        "chapter": "第十四章",
+        "stem": "党的十九大提出，力争到2035年基本实现（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "全面建成世界一流军队"
+          },
+          {
+            "key": "B",
+            "text": "国防和军队现代化"
+          },
+          {
+            "key": "C",
+            "text": "军队完全信息化"
+          },
+          {
+            "key": "D",
+            "text": "军民融合全球化"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-151",
+        "type": "single",
+        "chapter": "第十四章",
+        "stem": "党的十九大提出，到本世纪中叶把人民军队全面建成（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "现代化经济力量"
+          },
+          {
+            "key": "B",
+            "text": "世界一流军队"
+          },
+          {
+            "key": "C",
+            "text": "地区安全组织"
+          },
+          {
+            "key": "D",
+            "text": "科技创新平台"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-152",
+        "type": "single",
+        "chapter": "第十四章",
+        "stem": "坚持党对人民军队绝对领导的根本制度和根本实现形式是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "军委主席负责制"
+          },
+          {
+            "key": "B",
+            "text": "行政首长负责制"
+          },
+          {
+            "key": "C",
+            "text": "地方党委负责制"
+          },
+          {
+            "key": "D",
+            "text": "部门分工负责制"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-153",
+        "type": "single",
+        "chapter": "第十四章",
+        "stem": "有效履行人民军队根本职能、提高军队建设质量和效益，必须把（ ）作为唯一的根本的标准。",
+        "options": [
+          {
+            "key": "A",
+            "text": "装备数量"
+          },
+          {
+            "key": "B",
+            "text": "战斗力"
+          },
+          {
+            "key": "C",
+            "text": "人员规模"
+          },
+          {
+            "key": "D",
+            "text": "训练时间"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-154",
+        "type": "single",
+        "chapter": "第十五章",
+        "stem": "“一国两制”包含了中华文化中的哪一理念？",
+        "options": [
+          {
+            "key": "A",
+            "text": "仁爱理念"
+          },
+          {
+            "key": "B",
+            "text": "和合理念"
+          },
+          {
+            "key": "C",
+            "text": "民本理念"
+          },
+          {
+            "key": "D",
+            "text": "诚信理念"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-155",
+        "type": "single",
+        "chapter": "第十五章",
+        "stem": "“一国两制”体现了怎样的思维方式？",
+        "options": [
+          {
+            "key": "A",
+            "text": "绝对统一、排除差异"
+          },
+          {
+            "key": "B",
+            "text": "尊重差异、求同存异"
+          },
+          {
+            "key": "C",
+            "text": "先破后立、重点突破"
+          },
+          {
+            "key": "D",
+            "text": "自立自强、独立自主"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-156",
+        "type": "single",
+        "chapter": "第十五章",
+        "stem": "“一国两制”是中华民族为世界什么作出的新贡献？",
+        "options": [
+          {
+            "key": "A",
+            "text": "经济增长与技术革新"
+          },
+          {
+            "key": "B",
+            "text": "文化交流与文明互鉴"
+          },
+          {
+            "key": "C",
+            "text": "和平与发展"
+          },
+          {
+            "key": "D",
+            "text": "安全治理与制度竞争"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-157",
+        "type": "single",
+        "chapter": "第十五章",
+        "stem": "坚持“一国两制”，必须坚持中央全面管治权和什么相统一？",
+        "options": [
+          {
+            "key": "A",
+            "text": "地方完全自治权"
+          },
+          {
+            "key": "B",
+            "text": "特别行政区高度自治权"
+          },
+          {
+            "key": "C",
+            "text": "区域经济管理权"
+          },
+          {
+            "key": "D",
+            "text": "基层社会治理权"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-158",
+        "type": "single",
+        "chapter": "第十五章",
+        "stem": "我国是单一制国家，中央对包括香港、澳门特别行政区在内的所有地方行政区域拥有什么权力？",
+        "options": [
+          {
+            "key": "A",
+            "text": "部分指导权"
+          },
+          {
+            "key": "B",
+            "text": "外交协商权"
+          },
+          {
+            "key": "C",
+            "text": "全面管治权"
+          },
+          {
+            "key": "D",
+            "text": "临时监督权"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-159",
+        "type": "single",
+        "chapter": "第十五章",
+        "stem": "特别行政区管治权必须牢牢掌握在谁手中？",
+        "options": [
+          {
+            "key": "A",
+            "text": "投资者"
+          },
+          {
+            "key": "B",
+            "text": "爱国者"
+          },
+          {
+            "key": "C",
+            "text": "外国机构"
+          },
+          {
+            "key": "D",
+            "text": "地方社团"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-160",
+        "type": "single",
+        "chapter": "第十五章",
+        "stem": "“爱国者治港”“爱国者治澳”这一原则，事关国家主权、安全、发展利益，也事关香港、澳门的什么？",
+        "options": [
+          {
+            "key": "A",
+            "text": "短期经济增长"
+          },
+          {
+            "key": "B",
+            "text": "长期繁荣稳定"
+          },
+          {
+            "key": "C",
+            "text": "文化产业升级"
+          },
+          {
+            "key": "D",
+            "text": "城市规划调整"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-161",
+        "type": "single",
+        "chapter": "第十五章",
+        "stem": "推进祖国统一的历史方位是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "在改革开放进程中推进祖国统一"
+          },
+          {
+            "key": "B",
+            "text": "在全球治理进程中推进祖国统一"
+          },
+          {
+            "key": "C",
+            "text": "在中华民族伟大复兴进程中推进祖国统一"
+          },
+          {
+            "key": "D",
+            "text": "在区域协调发展进程中推进祖国统一"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-162",
+        "type": "single",
+        "chapter": "第十六章",
+        "stem": "中国特色大国外交建立在正确的历史观、大局观和什么基础之上？",
+        "options": [
+          {
+            "key": "A",
+            "text": "角色观"
+          },
+          {
+            "key": "B",
+            "text": "消费观"
+          },
+          {
+            "key": "C",
+            "text": "生态观"
+          },
+          {
+            "key": "D",
+            "text": "人才观"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
         ]
       },
       {
         "id": "single-163",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "第十六章",
+        "stem": "中国特色大国外交牢牢把握的主线是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "扩大贸易、提升产能"
+          },
+          {
+            "key": "B",
+            "text": "服务民族复兴、促进人类进步"
+          },
+          {
+            "key": "C",
+            "text": "发展科技、培养人才"
+          },
+          {
+            "key": "D",
+            "text": "深化改革、扩大开放"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-164",
+        "type": "single",
+        "chapter": "第十六章",
+        "stem": "中国特色大国外交全面推进，什么成为引领时代潮流和人类前进方向的鲜明旗帜？",
+        "options": [
+          {
+            "key": "A",
+            "text": "全球发展伙伴关系"
+          },
+          {
+            "key": "B",
+            "text": "构建人类命运共同体"
+          },
+          {
+            "key": "C",
+            "text": "区域经济一体化"
+          },
+          {
+            "key": "D",
+            "text": "国际科技合作"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-165",
+        "type": "single",
+        "chapter": "第十六章",
+        "stem": "我国对外工作的出发点和落脚点是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "维护国家主权、安全、发展利益"
+          },
+          {
+            "key": "B",
+            "text": "扩大对外投资规模"
+          },
+          {
+            "key": "C",
+            "text": "提升国际市场占有率"
+          },
+          {
+            "key": "D",
+            "text": "推动文化产品输出"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-166",
+        "type": "single",
+        "chapter": "第十六章",
+        "stem": "我国外交的神圣使命是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "发展新型消费"
+          },
+          {
+            "key": "B",
+            "text": "维护国家主权、安全、发展利益"
+          },
+          {
+            "key": "C",
+            "text": "扩大地方外事活动"
+          },
+          {
+            "key": "D",
+            "text": "提高企业国际竞争力"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-167",
+        "type": "single",
+        "chapter": "第十六章",
+        "stem": "下列哪一组属于全人类共同价值？",
+        "options": [
+          {
+            "key": "A",
+            "text": "和平、发展、公平、正义、民主、自由"
+          },
+          {
+            "key": "B",
+            "text": "富强、民主、文明、和谐、美丽、幸福"
+          },
+          {
+            "key": "C",
+            "text": "创新、协调、绿色、开放、共享"
+          },
+          {
+            "key": "D",
+            "text": "爱国、敬业、诚信、友善、法治、公正"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-168",
+        "type": "single",
+        "chapter": "第十六章",
+        "stem": "多边主义符合各国人民利益，是维护和平、促进发展的什么？",
+        "options": [
+          {
+            "key": "A",
+            "text": "根本制度"
+          },
+          {
+            "key": "B",
+            "text": "有效路径"
+          },
+          {
+            "key": "C",
+            "text": "唯一标准"
+          },
+          {
+            "key": "D",
+            "text": "基本国策"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-169",
+        "type": "single",
+        "chapter": "第十六章",
+        "stem": "我国要坚定维护的国际体系是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "以世界银行为核心的国际体系"
+          },
+          {
+            "key": "B",
+            "text": "以联合国为核心的国际体系"
+          },
+          {
+            "key": "C",
+            "text": "以区域组织为核心的国际体系"
+          },
+          {
+            "key": "D",
+            "text": "以跨国公司为核心的国际体系"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-170",
+        "type": "single",
+        "chapter": "第十六章",
+        "stem": "我国要坚定维护的国际秩序是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "以国际法为基础的国际秩序"
+          },
+          {
+            "key": "B",
+            "text": "以军事同盟为基础的国际秩序"
+          },
+          {
+            "key": "C",
+            "text": "以单边规则为基础的国际秩序"
+          },
+          {
+            "key": "D",
+            "text": "以贸易壁垒为基础的国际秩序"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-171",
+        "type": "single",
+        "chapter": "第十六章",
+        "stem": "中国特色大国外交的基础中，“三观”不包括下列哪一项？",
+        "options": [
+          {
+            "key": "A",
+            "text": "历史观"
+          },
+          {
+            "key": "B",
+            "text": "大局观"
+          },
+          {
+            "key": "C",
+            "text": "角色观"
+          },
+          {
+            "key": "D",
+            "text": "消费观"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-172",
+        "type": "single",
+        "chapter": "第十六章",
+        "stem": "构建人类命运共同体的地位是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "中华优秀传统文化的唯一内容"
+          },
+          {
+            "key": "B",
+            "text": "引领时代潮流和人类前进方向的鲜明旗帜"
+          },
+          {
+            "key": "C",
+            "text": "社会主义市场经济的基本制度"
+          },
+          {
+            "key": "D",
+            "text": "国家治理体系的全部内容"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-173",
+        "type": "single",
+        "chapter": "第十六章",
+        "stem": "关于维护国家主权、安全、发展利益，下列说法正确的是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "只是经济工作的目标"
+          },
+          {
+            "key": "B",
+            "text": "是我国对外工作的出发点和落脚点"
+          },
+          {
+            "key": "C",
+            "text": "只适用于国防建设领域"
+          },
+          {
+            "key": "D",
+            "text": "与外交工作没有直接关系"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-174",
+        "type": "single",
+        "chapter": "第十七章",
+        "stem": "把党的建设作为一项伟大工程来推进，是我们党的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "一大创举"
+          },
+          {
+            "key": "B",
+            "text": "一般经验"
+          },
+          {
+            "key": "C",
+            "text": "临时安排"
+          },
+          {
+            "key": "D",
+            "text": "经济任务"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-175",
+        "type": "single",
+        "chapter": "第十七章",
+        "stem": "党的建设中应当摆在首位的是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "思想建设"
+          },
+          {
+            "key": "B",
+            "text": "组织建设"
+          },
+          {
+            "key": "C",
+            "text": "政治建设"
+          },
+          {
+            "key": "D",
+            "text": "作风建设"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-176",
+        "type": "single",
+        "chapter": "第十七章",
+        "stem": "团结统一是党的生命，是党的什么所在？",
+        "options": [
+          {
+            "key": "A",
+            "text": "制度所在"
+          },
+          {
+            "key": "B",
+            "text": "力量所在"
+          },
+          {
+            "key": "C",
+            "text": "目标所在"
+          },
+          {
+            "key": "D",
+            "text": "路线所在"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-177",
+        "type": "single",
+        "chapter": "第十七章",
+        "stem": "深入推进全面从严治党，必须把什么作为基础性建设？",
+        "options": [
+          {
+            "key": "A",
+            "text": "制度建设"
+          },
+          {
+            "key": "B",
+            "text": "文化建设"
+          },
+          {
+            "key": "C",
+            "text": "思想建设"
+          },
+          {
+            "key": "D",
+            "text": "纪律建设"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-178",
+        "type": "single",
+        "chapter": "第十七章",
+        "stem": "作风问题的核心是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "党同人民群众的关系问题"
+          },
+          {
+            "key": "B",
+            "text": "经济增长速度问题"
+          },
+          {
+            "key": "C",
+            "text": "社会分配方式问题"
+          },
+          {
+            "key": "D",
+            "text": "国际交往方式问题"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-179",
+        "type": "single",
+        "chapter": "第十七章",
+        "stem": "“把权力关进制度的笼子里”强调的是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "削弱制度建设"
+          },
+          {
+            "key": "B",
+            "text": "加强制度制约和监督权力"
+          },
+          {
+            "key": "C",
+            "text": "扩大个人自由裁量"
+          },
+          {
+            "key": "D",
+            "text": "减少监督程序"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-180",
+        "type": "single",
+        "chapter": "第十七章",
+        "stem": "反腐倡廉的核心是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "宣传教育和文化活动"
+          },
+          {
+            "key": "B",
+            "text": "制度制约和监督权力"
+          },
+          {
+            "key": "C",
+            "text": "经济建设和产业发展"
+          },
+          {
+            "key": "D",
+            "text": "扩大行政审批权限"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-181",
+        "type": "single",
+        "chapter": "第十七章",
+        "stem": "新时代坚持和发展中国特色社会主义，是一场艰巨而伟大的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "经济改革"
+          },
+          {
+            "key": "B",
+            "text": "科技革命"
+          },
+          {
+            "key": "C",
+            "text": "社会革命"
+          },
+          {
+            "key": "D",
+            "text": "文化运动"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-182",
+        "type": "single",
+        "chapter": "第十七章",
+        "stem": "下列关于团结统一的说法正确的是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "团结统一是党的生命，是党的力量所在"
+          },
+          {
+            "key": "B",
+            "text": "团结统一只属于基层治理要求"
+          },
+          {
+            "key": "C",
+            "text": "团结统一是短期工作方法"
+          },
+          {
+            "key": "D",
+            "text": "团结统一与党的建设无关"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-183",
+        "type": "single",
+        "chapter": "第十七章",
+        "stem": "全面从严治党中，思想建设的地位是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "临时性建设"
+          },
+          {
+            "key": "B",
+            "text": "基础性建设"
+          },
+          {
+            "key": "C",
+            "text": "辅助性工作"
+          },
+          {
+            "key": "D",
+            "text": "外部性条件"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-184",
+        "type": "single",
+        "chapter": "综合练习一",
         "stem": "习近平新时代中国特色社会主义思想实现了马克思主义中国化时代化的什么成果？",
         "options": [
           {
@@ -4596,9 +5219,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-164",
+        "id": "single-185",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "党的十八大以来，中国特色社会主义进入了什么历史方位？",
         "options": [
           {
@@ -4624,9 +5247,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-165",
+        "id": "single-186",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "当代中国正在经历我国历史上最为广泛而深刻的什么？",
         "options": [
           {
@@ -4652,9 +5275,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-166",
+        "id": "single-187",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "世界百年未有之大变局加速演进，文档中概括的发展趋势是：",
         "options": [
           {
@@ -4680,9 +5303,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-167",
+        "id": "single-188",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "实现中华民族伟大复兴是近代以来中国人民的共同梦想，也是中国共产党的：",
         "options": [
           {
@@ -4708,9 +5331,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-168",
+        "id": "single-189",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "中国共产党自我革命开辟了什么？",
         "options": [
           {
@@ -4736,9 +5359,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-169",
+        "id": "single-190",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "习近平新时代中国特色社会主义思想的主要创立者是：",
         "options": [
           {
@@ -4764,9 +5387,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-170",
+        "id": "single-191",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "“六个必须坚持”主要体现的是习近平新时代中国特色社会主义思想的：",
         "options": [
           {
@@ -4792,9 +5415,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-171",
+        "id": "single-192",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "关系党的事业兴衰成败第一位的问题是：",
         "options": [
           {
@@ -4820,9 +5443,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-172",
+        "id": "single-193",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "实现中华民族伟大复兴的正确道路是：",
         "options": [
           {
@@ -4848,9 +5471,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-173",
+        "id": "single-194",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "中国共产党人思考的基本问题是：",
         "options": [
           {
@@ -4876,9 +5499,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-174",
+        "id": "single-195",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "中国特色社会主义不是从天上掉下来的，而是在长期实践、探索、革命和文明传承中得来的。这说明中国特色社会主义具有：",
         "options": [
           {
@@ -4904,9 +5527,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-175",
+        "id": "single-196",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "中国特色社会主义是科学社会主义理论逻辑和什么的辩证统一？",
         "options": [
           {
@@ -4932,9 +5555,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-176",
+        "id": "single-197",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "新时代坚持和发展中国特色社会主义，必须坚定道路自信、理论自信、制度自信和：",
         "options": [
           {
@@ -4960,9 +5583,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-177",
+        "id": "single-198",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "坚定“四个自信”的理论支撑和根本依据是：",
         "options": [
           {
@@ -4988,9 +5611,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-178",
+        "id": "single-199",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "中国特色社会主义最本质的特征是：",
         "options": [
           {
@@ -5016,9 +5639,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-179",
+        "id": "single-200",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "说到底，道路自信、理论自信、制度自信最终要坚定的是：",
         "options": [
           {
@@ -5044,9 +5667,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-180",
+        "id": "single-201",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "中国特色社会主义进入新时代，意味着中华民族迎来了从站起来、富起来到什么的伟大飞跃？",
         "options": [
           {
@@ -5072,9 +5695,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-181",
+        "id": "single-202",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "新时代我国社会主要矛盾是人民日益增长的美好生活需要和什么之间的矛盾？",
         "options": [
           {
@@ -5100,9 +5723,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-182",
+        "id": "single-203",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "我国仍处于并将长期处于社会主义初级阶段的基本国情：",
         "options": [
           {
@@ -5128,9 +5751,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-183",
+        "id": "single-204",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "习近平首次提出“中国梦”的时间和场合是：",
         "options": [
           {
@@ -5156,9 +5779,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-184",
+        "id": "single-205",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "实现中华民族伟大复兴的中国梦，本质是国家富强、民族振兴和：",
         "options": [
           {
@@ -5184,9 +5807,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-185",
+        "id": "single-206",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "全面建成小康社会中，“小康”讲的是：",
         "options": [
           {
@@ -5212,9 +5835,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-186",
+        "id": "single-207",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "全面建成小康社会中，“全面”讲的是发展的平衡性、协调性和：",
         "options": [
           {
@@ -5240,9 +5863,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-187",
+        "id": "single-208",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "我国实现第一个百年奋斗目标、全面建成小康社会的时间是：",
         "options": [
           {
@@ -5268,9 +5891,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-188",
+        "id": "single-209",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "全面建成社会主义现代化强国总的战略安排第一步是：",
         "options": [
           {
@@ -5296,9 +5919,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-189",
+        "id": "single-210",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "中国特色社会主义最本质的特征、中国特色社会主义制度的最大优势都是：",
         "options": [
           {
@@ -5324,9 +5947,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-190",
+        "id": "single-211",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "坚持党中央集中统一领导是党的领导的：",
         "options": [
           {
@@ -5352,9 +5975,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-191",
+        "id": "single-212",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "党政军民学，东西南北中，谁是领导一切的？",
         "options": [
           {
@@ -5380,9 +6003,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-192",
+        "id": "single-213",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "马克思主义政党第一位的能力是：",
         "options": [
           {
@@ -5408,9 +6031,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-193",
+        "id": "single-214",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "党的领导是全面的、系统的和：",
         "options": [
           {
@@ -5436,9 +6059,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-194",
+        "id": "single-215",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "维护党中央权威和集中统一领导，最关键的是坚决维护习近平同志党中央的核心、全党的：",
         "options": [
           {
@@ -5464,9 +6087,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-195",
+        "id": "single-216",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "我国的根本领导制度是：",
         "options": [
           {
@@ -5492,9 +6115,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-196",
+        "id": "single-217",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "马克思主义的本质属性和鲜明品格是：",
         "options": [
           {
@@ -5520,9 +6143,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-197",
+        "id": "single-218",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "坚持以人民为中心体现了哪一基本原理？",
         "options": [
           {
@@ -5548,9 +6171,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-198",
+        "id": "single-219",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "中国共产党的根本政治立场是：",
         "options": [
           {
@@ -5576,9 +6199,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-199",
+        "id": "single-220",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "党的奋斗目标是：",
         "options": [
           {
@@ -5604,9 +6227,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-200",
+        "id": "single-221",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "群众路线是我们党的生命线和：",
         "options": [
           {
@@ -5632,9 +6255,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-201",
+        "id": "single-222",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "决定当代中国命运的关键一招是：",
         "options": [
           {
@@ -5660,9 +6283,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-202",
+        "id": "single-223",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "新时代全面深化改革开放，从艰巨性、复杂性、系统性来看，是一场：",
         "options": [
           {
@@ -5688,9 +6311,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-203",
+        "id": "single-224",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "社会主义改革开放的出发点和落脚点是：",
         "options": [
           {
@@ -5716,9 +6339,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-204",
+        "id": "single-225",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "改革的方向、立场和原则之一是必须有利于进一步解放和发展：",
         "options": [
           {
@@ -5744,9 +6367,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-205",
+        "id": "single-226",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "全面深化改革总目标是完善和发展中国特色社会主义制度、推进国家治理体系和治理能力：",
         "options": [
           {
@@ -5772,9 +6395,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-206",
+        "id": "single-227",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "新时代我国经济社会发展的鲜明主题是：",
         "options": [
           {
@@ -5800,9 +6423,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-207",
+        "id": "single-228",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "全面建设社会主义现代化国家的首要任务是：",
         "options": [
           {
@@ -5828,9 +6451,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-208",
+        "id": "single-229",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "新发展理念包括创新、协调、绿色、开放和：",
         "options": [
           {
@@ -5856,9 +6479,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-209",
+        "id": "single-230",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "公有制经济包括国有经济和集体经济，还包括混合所有制经济中的：",
         "options": [
           {
@@ -5884,9 +6507,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-210",
+        "id": "single-231",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "我国分配制度是坚持按劳分配为主体、什么并存？",
         "options": [
           {
@@ -5912,9 +6535,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-211",
+        "id": "single-232",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "构建新发展格局最本质的特征是实现高水平的：",
         "options": [
           {
@@ -5940,9 +6563,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-212",
+        "id": "single-233",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "全面建设社会主义现代化国家的基础性、战略性支撑是：",
         "options": [
           {
@@ -5968,9 +6591,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-213",
+        "id": "single-234",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "必须坚持科技是第一生产力、人才是第一资源、创新是第一：",
         "options": [
           {
@@ -5996,9 +6619,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-214",
+        "id": "single-235",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "育人的根本在于：",
         "options": [
           {
@@ -6024,9 +6647,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-215",
+        "id": "single-236",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "社会主义的生命是：",
         "options": [
           {
@@ -6052,9 +6675,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-216",
+        "id": "single-237",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "全过程人民民主是社会主义民主政治的：",
         "options": [
           {
@@ -6080,9 +6703,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-217",
+        "id": "single-238",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "全面依法治国是坚持和发展中国特色社会主义的本质要求和：",
         "options": [
           {
@@ -6108,9 +6731,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-218",
+        "id": "single-239",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "全面推进依法治国的总抓手是建设中国特色社会主义：",
         "options": [
           {
@@ -6136,9 +6759,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-219",
+        "id": "single-240",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "维护社会公平正义的最后一道防线是：",
         "options": [
           {
@@ -6164,9 +6787,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-220",
+        "id": "single-241",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "一个国家、一个民族的灵魂是：",
         "options": [
           {
@@ -6192,9 +6815,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-221",
+        "id": "single-242",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "我们坚定文化自信的坚强基石是革命文化和：",
         "options": [
           {
@@ -6220,9 +6843,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-222",
+        "id": "single-243",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "文化的生命所在和本质特征是：",
         "options": [
           {
@@ -6248,9 +6871,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-223",
+        "id": "single-244",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "新闻舆论工作的根本原则是：",
         "options": [
           {
@@ -6276,9 +6899,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-224",
+        "id": "single-245",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "新时代新的文化使命是在新的起点上继续推动文化繁荣、建设文化强国、建设：",
         "options": [
           {
@@ -6304,9 +6927,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-225",
+        "id": "single-246",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "全面建设社会主义现代化国家的出发点和落脚点是：",
         "options": [
           {
@@ -6332,9 +6955,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-226",
+        "id": "single-247",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "促进共同富裕的基础性制度是：",
         "options": [
           {
@@ -6360,9 +6983,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-227",
+        "id": "single-248",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "最大的民生工程、民心工程、根基工程是：",
         "options": [
           {
@@ -6388,9 +7011,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-228",
+        "id": "single-249",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "生态环境问题归根到底是经济发展方式和什么问题？",
         "options": [
           {
@@ -6416,9 +7039,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-229",
+        "id": "single-250",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "绿色发展，就其要义来讲，是要解决好什么问题？",
         "options": [
           {
@@ -6444,9 +7067,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-230",
+        "id": "single-251",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "总体国家安全观以人民安全为宗旨，以政治安全为根本，以什么为基础？",
         "options": [
           {
@@ -6472,9 +7095,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-231",
+        "id": "single-252",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "国家安全的根本是：",
         "options": [
           {
@@ -6500,9 +7123,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-232",
+        "id": "single-253",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "党在新时代的强军目标是建设一支听党指挥、能打胜仗、作风优良的人民军队，把人民军队建设成为：",
         "options": [
           {
@@ -6528,9 +7151,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-233",
+        "id": "single-254",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "坚持党对人民军队绝对领导的根本制度和根本实现形式是：",
         "options": [
           {
@@ -6556,9 +7179,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-234",
+        "id": "single-255",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "“一国两制”体现的思维方式是：",
         "options": [
           {
@@ -6584,9 +7207,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-235",
+        "id": "single-256",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "我国是单一制国家，中央对包括香港、澳门特别行政区在内的所有地方行政区域拥有：",
         "options": [
           {
@@ -6612,9 +7235,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-236",
+        "id": "single-257",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "中国特色大国外交建立在正确的历史观、大局观和什么基础之上？",
         "options": [
           {
@@ -6640,9 +7263,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-237",
+        "id": "single-258",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "中国特色大国外交牢牢把握的主线是服务民族复兴、促进：",
         "options": [
           {
@@ -6668,9 +7291,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-238",
+        "id": "single-259",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "成为引领时代潮流和人类前进方向鲜明旗帜的是：",
         "options": [
           {
@@ -6696,9 +7319,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-239",
+        "id": "single-260",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "我国对外工作的出发点和落脚点是维护国家主权、安全和：",
         "options": [
           {
@@ -6724,9 +7347,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-240",
+        "id": "single-261",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "新时代全面从严治党强调，把党的什么建设摆在首位？",
         "options": [
           {
@@ -6752,9 +7375,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-241",
+        "id": "single-262",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "深入推进全面从严治党，必须把什么作为基础性建设？",
         "options": [
           {
@@ -6780,9 +7403,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-242",
+        "id": "single-263",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "反腐倡廉的核心是制度制约和监督：",
         "options": [
           {
@@ -6806,13 +7429,2253 @@ window.QUESTION_BANK = {
         "sources": [
           "综合知识点练习题_无章节提示版(1).docx"
         ]
+      },
+      {
+        "id": "single-284",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "习近平新时代中国特色社会主义思想是在坚持把马克思主义基本原理同中国具体实际相结合、同什么相结合中创立的？",
+        "options": [
+          {
+            "key": "A",
+            "text": "中华优秀传统文化"
+          },
+          {
+            "key": "B",
+            "text": "西方政治制度"
+          },
+          {
+            "key": "C",
+            "text": "世界流行文化"
+          },
+          {
+            "key": "D",
+            "text": "古代宗法秩序"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-285",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "党的十九大把习近平新时代中国特色社会主义思想写入党章的时间是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "2012年11月"
+          },
+          {
+            "key": "B",
+            "text": "2021年7月"
+          },
+          {
+            "key": "C",
+            "text": "2018年3月"
+          },
+          {
+            "key": "D",
+            "text": "2017年10月"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-286",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "把习近平新时代中国特色社会主义思想载入宪法的是哪次会议通过的宪法修正案？",
+        "options": [
+          {
+            "key": "A",
+            "text": "党的十九大"
+          },
+          {
+            "key": "B",
+            "text": "党的十八大"
+          },
+          {
+            "key": "C",
+            "text": "十三届全国人大一次会议"
+          },
+          {
+            "key": "D",
+            "text": "十四届全国人大一次会议"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-287",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "习近平新时代中国特色社会主义思想是当代中国马克思主义、二十一世纪马克思主义，是中华文化和什么的时代精华？",
+        "options": [
+          {
+            "key": "A",
+            "text": "中国地理"
+          },
+          {
+            "key": "B",
+            "text": "中国经济"
+          },
+          {
+            "key": "C",
+            "text": "中国精神"
+          },
+          {
+            "key": "D",
+            "text": "中国市场"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-288",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "新时代党和国家事业取得历史性成就、发生历史性变革的决定性因素是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "五个统筹"
+          },
+          {
+            "key": "B",
+            "text": "两个确立"
+          },
+          {
+            "key": "C",
+            "text": "三大改造"
+          },
+          {
+            "key": "D",
+            "text": "四项基本原则"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-289",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国特色社会主义是在改革开放多少多年的伟大实践中得来的？",
+        "options": [
+          {
+            "key": "A",
+            "text": "20多年"
+          },
+          {
+            "key": "B",
+            "text": "60多年"
+          },
+          {
+            "key": "C",
+            "text": "40多年"
+          },
+          {
+            "key": "D",
+            "text": "30多年"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-290",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国特色社会主义是在新中国成立多少多年的持续探索中得来的？",
+        "options": [
+          {
+            "key": "A",
+            "text": "70多年"
+          },
+          {
+            "key": "B",
+            "text": "90多年"
+          },
+          {
+            "key": "C",
+            "text": "30多年"
+          },
+          {
+            "key": "D",
+            "text": "50多年"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-291",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国特色社会主义是在中国共产党领导人民进行伟大社会革命多少多年的实践中得来的？",
+        "options": [
+          {
+            "key": "A",
+            "text": "200多年"
+          },
+          {
+            "key": "B",
+            "text": "40多年"
+          },
+          {
+            "key": "C",
+            "text": "100多年"
+          },
+          {
+            "key": "D",
+            "text": "70多年"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-292",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国特色社会主义是在对中华文明多少多年的传承发展中得来的？",
+        "options": [
+          {
+            "key": "A",
+            "text": "5000多年"
+          },
+          {
+            "key": "B",
+            "text": "3000多年"
+          },
+          {
+            "key": "C",
+            "text": "1000多年"
+          },
+          {
+            "key": "D",
+            "text": "500多年"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-293",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "新时代的伟大变革在党史、新中国史、改革开放史、社会主义发展史和什么上具有里程碑意义？",
+        "options": [
+          {
+            "key": "A",
+            "text": "世界殖民史"
+          },
+          {
+            "key": "B",
+            "text": "地方商业史"
+          },
+          {
+            "key": "C",
+            "text": "自然演化史"
+          },
+          {
+            "key": "D",
+            "text": "中华民族发展史"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-294",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "新时代坚持和发展中国特色社会主义要全面贯彻党的基本理论、基本路线和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "基本价格"
+          },
+          {
+            "key": "B",
+            "text": "基本消费"
+          },
+          {
+            "key": "C",
+            "text": "基本预算"
+          },
+          {
+            "key": "D",
+            "text": "基本方略"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-295",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "党的基本理论是坚持和发展中国特色社会主义的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "行动指南"
+          },
+          {
+            "key": "B",
+            "text": "地方经验"
+          },
+          {
+            "key": "C",
+            "text": "临时口号"
+          },
+          {
+            "key": "D",
+            "text": "行业规范"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-296",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "党的基本路线是国家的生命线、人民的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "观光线"
+          },
+          {
+            "key": "B",
+            "text": "消费线"
+          },
+          {
+            "key": "C",
+            "text": "幸福线"
+          },
+          {
+            "key": "D",
+            "text": "生产线"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-297",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "“五位一体”总体布局包括经济建设、政治建设、文化建设、社会建设和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "单一市场建设"
+          },
+          {
+            "key": "B",
+            "text": "生态文明建设"
+          },
+          {
+            "key": "C",
+            "text": "娱乐产业建设"
+          },
+          {
+            "key": "D",
+            "text": "城市广告建设"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-298",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "“四个全面”战略布局中，居于目标引领地位的是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "全面扩大地方审批"
+          },
+          {
+            "key": "B",
+            "text": "全面建设社会主义现代化国家"
+          },
+          {
+            "key": "C",
+            "text": "全面取消制度约束"
+          },
+          {
+            "key": "D",
+            "text": "全面发展单一产业"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-299",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国共产党为什么能，中国特色社会主义为什么好，归根到底是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "马克思主义行，中国化时代化的马克思主义行"
+          },
+          {
+            "key": "B",
+            "text": "地域广"
+          },
+          {
+            "key": "C",
+            "text": "资源多"
+          },
+          {
+            "key": "D",
+            "text": "人口多"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-300",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国式现代化是中国共产党领导的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "资本主义现代化"
+          },
+          {
+            "key": "B",
+            "text": "殖民式现代化"
+          },
+          {
+            "key": "C",
+            "text": "封闭式现代化"
+          },
+          {
+            "key": "D",
+            "text": "社会主义现代化"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-301",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国式现代化既有各国现代化的共同特征，更有基于自己国情的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "短期安排"
+          },
+          {
+            "key": "B",
+            "text": "中国特色"
+          },
+          {
+            "key": "C",
+            "text": "行业偏好"
+          },
+          {
+            "key": "D",
+            "text": "外国模板"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-302",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国式现代化区别于西方现代化的显著标志是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "市场规模扩大"
+          },
+          {
+            "key": "B",
+            "text": "人口规模巨大"
+          },
+          {
+            "key": "C",
+            "text": "全体人民共同富裕"
+          },
+          {
+            "key": "D",
+            "text": "城市数量增加"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-303",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国式现代化是物质文明和什么相协调的现代化？",
+        "options": [
+          {
+            "key": "A",
+            "text": "商业文明"
+          },
+          {
+            "key": "B",
+            "text": "消费文明"
+          },
+          {
+            "key": "C",
+            "text": "精神文明"
+          },
+          {
+            "key": "D",
+            "text": "交通文明"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-304",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国式现代化是人与自然什么的现代化？",
+        "options": [
+          {
+            "key": "A",
+            "text": "相互隔绝"
+          },
+          {
+            "key": "B",
+            "text": "完全对立"
+          },
+          {
+            "key": "C",
+            "text": "彼此替代"
+          },
+          {
+            "key": "D",
+            "text": "和谐共生"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-305",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国式现代化的本质要求之一是发展全过程人民民主、丰富人民精神世界，并实现：",
+        "options": [
+          {
+            "key": "A",
+            "text": "单一速度增长"
+          },
+          {
+            "key": "B",
+            "text": "少数人先占有"
+          },
+          {
+            "key": "C",
+            "text": "全体人民共同富裕"
+          },
+          {
+            "key": "D",
+            "text": "区域封闭发展"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-306",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国式现代化创造了人类文明新形态，打破了哪一迷思？",
+        "options": [
+          {
+            "key": "A",
+            "text": "治理=市场化"
+          },
+          {
+            "key": "B",
+            "text": "现代化=西方化"
+          },
+          {
+            "key": "C",
+            "text": "文化=娱乐化"
+          },
+          {
+            "key": "D",
+            "text": "安全=军事化"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-307",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "推进中国式现代化，要正确处理顶层设计与什么的关系？",
+        "options": [
+          {
+            "key": "A",
+            "text": "行业宣传"
+          },
+          {
+            "key": "B",
+            "text": "实践探索"
+          },
+          {
+            "key": "C",
+            "text": "临时口号"
+          },
+          {
+            "key": "D",
+            "text": "个人偏好"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-308",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "推进中国式现代化，要正确处理守正与什么的关系？",
+        "options": [
+          {
+            "key": "A",
+            "text": "创新"
+          },
+          {
+            "key": "B",
+            "text": "停滞"
+          },
+          {
+            "key": "C",
+            "text": "封闭"
+          },
+          {
+            "key": "D",
+            "text": "复古"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-309",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "推进中国式现代化，要正确处理效率与什么的关系？",
+        "options": [
+          {
+            "key": "A",
+            "text": "排斥"
+          },
+          {
+            "key": "B",
+            "text": "形式"
+          },
+          {
+            "key": "C",
+            "text": "垄断"
+          },
+          {
+            "key": "D",
+            "text": "公平"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-310",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "推进中国式现代化，要正确处理活力与什么的关系？",
+        "options": [
+          {
+            "key": "A",
+            "text": "秩序"
+          },
+          {
+            "key": "B",
+            "text": "混乱"
+          },
+          {
+            "key": "C",
+            "text": "孤立"
+          },
+          {
+            "key": "D",
+            "text": "保守"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-311",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "推进中国式现代化，要正确处理自立自强与什么的关系？",
+        "options": [
+          {
+            "key": "A",
+            "text": "单边依赖"
+          },
+          {
+            "key": "B",
+            "text": "完全排外"
+          },
+          {
+            "key": "C",
+            "text": "闭关自守"
+          },
+          {
+            "key": "D",
+            "text": "对外开放"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-312",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国共产党领导是带有统领性的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "局部优势"
+          },
+          {
+            "key": "B",
+            "text": "根本优势"
+          },
+          {
+            "key": "C",
+            "text": "技术优势"
+          },
+          {
+            "key": "D",
+            "text": "自然优势"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-313",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "党政军民学，东西南北中，党是领导一切的，是最高的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "政治领导力量"
+          },
+          {
+            "key": "B",
+            "text": "行业协会"
+          },
+          {
+            "key": "C",
+            "text": "经济组织"
+          },
+          {
+            "key": "D",
+            "text": "市场主体"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-314",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "党中央集中统一领导是党的领导的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "临时原则"
+          },
+          {
+            "key": "B",
+            "text": "地区原则"
+          },
+          {
+            "key": "C",
+            "text": "商业原则"
+          },
+          {
+            "key": "D",
+            "text": "最高原则"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-315",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "维护党中央权威和集中统一领导，同坚持党的民主集中制是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "完全一致的"
+          },
+          {
+            "key": "B",
+            "text": "互不相关的"
+          },
+          {
+            "key": "C",
+            "text": "只在地方适用的"
+          },
+          {
+            "key": "D",
+            "text": "完全矛盾的"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-316",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "全面加强党的领导大大提高了全党的政治判断力、政治领悟力和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "娱乐影响力"
+          },
+          {
+            "key": "B",
+            "text": "政治执行力"
+          },
+          {
+            "key": "C",
+            "text": "广告传播力"
+          },
+          {
+            "key": "D",
+            "text": "价格控制力"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-317",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "党中央集中统一领导是党保持团结统一和强大战斗力、不断取得胜利的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "关键所在"
+          },
+          {
+            "key": "B",
+            "text": "次要因素"
+          },
+          {
+            "key": "C",
+            "text": "临时措施"
+          },
+          {
+            "key": "D",
+            "text": "外部条件"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-318",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "坚持人民立场，就要始终牢记党的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "广告和宣传"
+          },
+          {
+            "key": "B",
+            "text": "收入和规模"
+          },
+          {
+            "key": "C",
+            "text": "初心和使命"
+          },
+          {
+            "key": "D",
+            "text": "形式和流程"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-319",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "坚持人民立场，就要始终保持党同人民群众的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "形式往来"
+          },
+          {
+            "key": "B",
+            "text": "距离感"
+          },
+          {
+            "key": "C",
+            "text": "管理隔阂"
+          },
+          {
+            "key": "D",
+            "text": "血肉联系"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-320",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "坚持人民立场，就要热爱人民、尊重人民和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "替代人民"
+          },
+          {
+            "key": "B",
+            "text": "远离人民"
+          },
+          {
+            "key": "C",
+            "text": "俯视人民"
+          },
+          {
+            "key": "D",
+            "text": "敬畏人民"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-321",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "共同富裕是中国特色社会主义的本质要求，也是中国式现代化的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "临时任务"
+          },
+          {
+            "key": "B",
+            "text": "外在装饰"
+          },
+          {
+            "key": "C",
+            "text": "区域政策"
+          },
+          {
+            "key": "D",
+            "text": "重要特征"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-322",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "唯物史观强调，人民是历史的创造者，是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "真正的英雄"
+          },
+          {
+            "key": "B",
+            "text": "少数人的工具"
+          },
+          {
+            "key": "C",
+            "text": "被动的旁观者"
+          },
+          {
+            "key": "D",
+            "text": "历史的附属品"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-323",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "改革的方向、立场和原则要求，必须有利于进一步解放思想、解放和发展社会生产力、解放和增强：",
+        "options": [
+          {
+            "key": "A",
+            "text": "行政层级"
+          },
+          {
+            "key": "B",
+            "text": "形式主义"
+          },
+          {
+            "key": "C",
+            "text": "封闭机制"
+          },
+          {
+            "key": "D",
+            "text": "社会活力"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-324",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "国家治理体系和治理能力是一个国家制度和什么的集中体现？",
+        "options": [
+          {
+            "key": "A",
+            "text": "制度执行能力"
+          },
+          {
+            "key": "B",
+            "text": "资源储量"
+          },
+          {
+            "key": "C",
+            "text": "广告能力"
+          },
+          {
+            "key": "D",
+            "text": "消费能力"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-325",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "改革开放永无止境，是社会基本矛盾运动规律的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "偶然现象"
+          },
+          {
+            "key": "B",
+            "text": "外部装饰"
+          },
+          {
+            "key": "C",
+            "text": "深刻反映"
+          },
+          {
+            "key": "D",
+            "text": "短期变化"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-326",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "新时代把改革推向前进，必须加强顶层设计，以利于提高改革的科学性和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "封闭性"
+          },
+          {
+            "key": "B",
+            "text": "协调性"
+          },
+          {
+            "key": "C",
+            "text": "随意性"
+          },
+          {
+            "key": "D",
+            "text": "重复性"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-327",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "新发展理念是实现高质量发展的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "行业宣传"
+          },
+          {
+            "key": "B",
+            "text": "临时口号"
+          },
+          {
+            "key": "C",
+            "text": "统计方法"
+          },
+          {
+            "key": "D",
+            "text": "指导原则"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-328",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "贯彻新发展理念是关系我国发展全局的一场：",
+        "options": [
+          {
+            "key": "A",
+            "text": "临时安排"
+          },
+          {
+            "key": "B",
+            "text": "深刻变革"
+          },
+          {
+            "key": "C",
+            "text": "局部试验"
+          },
+          {
+            "key": "D",
+            "text": "简单活动"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-329",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "非公有制经济包括个体经济、私营经济、港澳台投资经济、外商投资经济以及混合所有制经济中的非国有成分和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "非集体成分"
+          },
+          {
+            "key": "B",
+            "text": "集体成分"
+          },
+          {
+            "key": "C",
+            "text": "公共预算"
+          },
+          {
+            "key": "D",
+            "text": "国有成分"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-330",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "构建高水平社会主义市场经济体制，关键是处理好政府和什么的关系？",
+        "options": [
+          {
+            "key": "A",
+            "text": "市场"
+          },
+          {
+            "key": "B",
+            "text": "天气"
+          },
+          {
+            "key": "C",
+            "text": "个人爱好"
+          },
+          {
+            "key": "D",
+            "text": "广告"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-331",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "在资源配置中起决定性作用的是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "娱乐"
+          },
+          {
+            "key": "B",
+            "text": "市场"
+          },
+          {
+            "key": "C",
+            "text": "习惯"
+          },
+          {
+            "key": "D",
+            "text": "口号"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-332",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "在社会主义市场经济体制下，资本是带动各类生产要素集聚配置的重要：",
+        "options": [
+          {
+            "key": "A",
+            "text": "纽带"
+          },
+          {
+            "key": "B",
+            "text": "障碍"
+          },
+          {
+            "key": "C",
+            "text": "装饰"
+          },
+          {
+            "key": "D",
+            "text": "口号"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-333",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "公有制经济和非公有制经济都是社会主义市场经济的重要组成部分，都是我国经济社会发展的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "重要基础"
+          },
+          {
+            "key": "B",
+            "text": "无关因素"
+          },
+          {
+            "key": "C",
+            "text": "外部负担"
+          },
+          {
+            "key": "D",
+            "text": "临时补充"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-334",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "加快教育强国，必须落实立德树人的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "临时任务"
+          },
+          {
+            "key": "B",
+            "text": "营销任务"
+          },
+          {
+            "key": "C",
+            "text": "消费任务"
+          },
+          {
+            "key": "D",
+            "text": "根本任务"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-335",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "关键核心技术是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "地方口号"
+          },
+          {
+            "key": "B",
+            "text": "短期热点"
+          },
+          {
+            "key": "C",
+            "text": "普通商品"
+          },
+          {
+            "key": "D",
+            "text": "国之重器"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-336",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "人才是实现民族振兴、赢得国际竞争主动的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "消费资源"
+          },
+          {
+            "key": "B",
+            "text": "战略资源"
+          },
+          {
+            "key": "C",
+            "text": "附属资源"
+          },
+          {
+            "key": "D",
+            "text": "临时资源"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-337",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "人民民主建立在社会主义经济基础之上，体现了社会主义国家的性质，是一种：",
+        "options": [
+          {
+            "key": "A",
+            "text": "形式化民主"
+          },
+          {
+            "key": "B",
+            "text": "资本垄断民主"
+          },
+          {
+            "key": "C",
+            "text": "旧式贵族民主"
+          },
+          {
+            "key": "D",
+            "text": "新型的社会主义民主"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-338",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "统一战线是中国共产党夺取革命、建设、改革事业胜利的重要法宝，也是实现什么的重要法宝？",
+        "options": [
+          {
+            "key": "A",
+            "text": "短期经济宣传"
+          },
+          {
+            "key": "B",
+            "text": "中华民族伟大复兴"
+          },
+          {
+            "key": "C",
+            "text": "单一行业发展"
+          },
+          {
+            "key": "D",
+            "text": "地方商业扩张"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-339",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "把党内法规体系纳入中国特色社会主义法治体系，是我国法治区别于其他国家法治的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "普通流程"
+          },
+          {
+            "key": "B",
+            "text": "外在形式"
+          },
+          {
+            "key": "C",
+            "text": "临时做法"
+          },
+          {
+            "key": "D",
+            "text": "鲜明特征"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-340",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "法治中国建设的三大支柱是法治国家、法治政府和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "法治社会"
+          },
+          {
+            "key": "B",
+            "text": "法治市场"
+          },
+          {
+            "key": "C",
+            "text": "法治企业"
+          },
+          {
+            "key": "D",
+            "text": "法治行业"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-341",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "文化软实力集中体现一个国家基于文化而具有的凝聚力和生命力，以及由此产生的吸引力和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "生产力"
+          },
+          {
+            "key": "B",
+            "text": "影响力"
+          },
+          {
+            "key": "C",
+            "text": "运输力"
+          },
+          {
+            "key": "D",
+            "text": "价格力"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-342",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "一个国家的文化软实力，从根本上说，取决于其核心价值观的生命力、凝聚力和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "装饰力"
+          },
+          {
+            "key": "B",
+            "text": "流量"
+          },
+          {
+            "key": "C",
+            "text": "感召力"
+          },
+          {
+            "key": "D",
+            "text": "消费力"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-343",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中华文明的突出特征包括连续性、创新性、统一性、包容性和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "短暂性"
+          },
+          {
+            "key": "B",
+            "text": "和平性"
+          },
+          {
+            "key": "C",
+            "text": "排他性"
+          },
+          {
+            "key": "D",
+            "text": "封闭性"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-344",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "社会主义社会是人民当家作主的社会，这决定了社会主义生产要以什么为根本目的？",
+        "options": [
+          {
+            "key": "A",
+            "text": "制造社会隔阂"
+          },
+          {
+            "key": "B",
+            "text": "追求少数人利益"
+          },
+          {
+            "key": "C",
+            "text": "增进民生福祉"
+          },
+          {
+            "key": "D",
+            "text": "扩大形式宣传"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-345",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "党的十九大进一步提出打造怎样的社会治理格局？",
+        "options": [
+          {
+            "key": "A",
+            "text": "分散封闭治理"
+          },
+          {
+            "key": "B",
+            "text": "共建共治共享"
+          },
+          {
+            "key": "C",
+            "text": "单一市场治理"
+          },
+          {
+            "key": "D",
+            "text": "单向命令管理"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-346",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "新时代加强和创新社会治理，要求坚持系统治理、依法治理、综合治理和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "单点治理"
+          },
+          {
+            "key": "B",
+            "text": "源头治理"
+          },
+          {
+            "key": "C",
+            "text": "表面治理"
+          },
+          {
+            "key": "D",
+            "text": "临时治理"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-347",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "“绿水青山就是金山银山”理念阐明了经济发展与什么之间的关系？",
+        "options": [
+          {
+            "key": "A",
+            "text": "生态环境保护"
+          },
+          {
+            "key": "B",
+            "text": "短期消费增长"
+          },
+          {
+            "key": "C",
+            "text": "城市外观建设"
+          },
+          {
+            "key": "D",
+            "text": "商业广告投放"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-348",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "良好的生态环境是最公平的公共产品，是最普惠的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "娱乐项目"
+          },
+          {
+            "key": "B",
+            "text": "商业资源"
+          },
+          {
+            "key": "C",
+            "text": "民生福祉"
+          },
+          {
+            "key": "D",
+            "text": "管理工具"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-349",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "建设美丽中国，是全面建设社会主义现代化国家的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "重要目标"
+          },
+          {
+            "key": "B",
+            "text": "外在包装"
+          },
+          {
+            "key": "C",
+            "text": "临时活动"
+          },
+          {
+            "key": "D",
+            "text": "局部口号"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-350",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "生态文明建设必须把什么作为重中之重？",
+        "options": [
+          {
+            "key": "A",
+            "text": "短期检查"
+          },
+          {
+            "key": "B",
+            "text": "制度建设"
+          },
+          {
+            "key": "C",
+            "text": "临时活动"
+          },
+          {
+            "key": "D",
+            "text": "口号宣传"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-351",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "统筹维护国家安全和塑造国家安全，着力解决国家安全工作什么的问题？",
+        "options": [
+          {
+            "key": "A",
+            "text": "过于充分"
+          },
+          {
+            "key": "B",
+            "text": "不平衡不充分"
+          },
+          {
+            "key": "C",
+            "text": "只和经济有关"
+          },
+          {
+            "key": "D",
+            "text": "完全无风险"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-352",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "维护国家安全要贯穿党和国家工作的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "短期阶段"
+          },
+          {
+            "key": "B",
+            "text": "各方面全过程"
+          },
+          {
+            "key": "C",
+            "text": "经济领域局部"
+          },
+          {
+            "key": "D",
+            "text": "少数环节"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-353",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "政治安全涉及国家主权、政权、制度和什么的稳固？",
+        "options": [
+          {
+            "key": "A",
+            "text": "意识形态"
+          },
+          {
+            "key": "B",
+            "text": "消费习惯"
+          },
+          {
+            "key": "C",
+            "text": "交通方式"
+          },
+          {
+            "key": "D",
+            "text": "娱乐产业"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-354",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "构建统筹各领域安全的新安全格局，维护重点领域国家安全是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "外部事务"
+          },
+          {
+            "key": "B",
+            "text": "临时选项"
+          },
+          {
+            "key": "C",
+            "text": "普通辅助项"
+          },
+          {
+            "key": "D",
+            "text": "主阵地、主战场"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-355",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "平安是老百姓解决温饱后的第一需求，也是最基本的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "娱乐环境"
+          },
+          {
+            "key": "B",
+            "text": "行业指标"
+          },
+          {
+            "key": "C",
+            "text": "消费场景"
+          },
+          {
+            "key": "D",
+            "text": "发展环境"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-356",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "党的十九大提出，确保到2020年基本实现机械化，信息化建设取得重大进展，什么有大的提升？",
+        "options": [
+          {
+            "key": "A",
+            "text": "战略能力"
+          },
+          {
+            "key": "B",
+            "text": "消费能力"
+          },
+          {
+            "key": "C",
+            "text": "广告能力"
+          },
+          {
+            "key": "D",
+            "text": "旅游能力"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-357",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "党的十九大提出，力争到2035年基本实现：",
+        "options": [
+          {
+            "key": "A",
+            "text": "文化产业完全市场化"
+          },
+          {
+            "key": "B",
+            "text": "社会治理单一化"
+          },
+          {
+            "key": "C",
+            "text": "农业完全机械化"
+          },
+          {
+            "key": "D",
+            "text": "国防和军队现代化"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-358",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "“一国两制”包含中华文化中的什么理念？",
+        "options": [
+          {
+            "key": "A",
+            "text": "对抗理念"
+          },
+          {
+            "key": "B",
+            "text": "和合理念"
+          },
+          {
+            "key": "C",
+            "text": "封闭理念"
+          },
+          {
+            "key": "D",
+            "text": "排斥理念"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-359",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "坚持在中华民族伟大复兴进程中推进祖国统一，这是统一的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "历史方位"
+          },
+          {
+            "key": "B",
+            "text": "地区偏好"
+          },
+          {
+            "key": "C",
+            "text": "商业方向"
+          },
+          {
+            "key": "D",
+            "text": "临时安排"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-360",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国外交强调坚定维护以联合国为核心的国际体系、以什么为基础的国际秩序？",
+        "options": [
+          {
+            "key": "A",
+            "text": "国际法"
+          },
+          {
+            "key": "B",
+            "text": "单边规则"
+          },
+          {
+            "key": "C",
+            "text": "强权政治"
+          },
+          {
+            "key": "D",
+            "text": "地区习惯"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-361",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "把党的建设作为一项伟大工程来推进，是我们党的一大：",
+        "options": [
+          {
+            "key": "A",
+            "text": "让步"
+          },
+          {
+            "key": "B",
+            "text": "负担"
+          },
+          {
+            "key": "C",
+            "text": "装饰"
+          },
+          {
+            "key": "D",
+            "text": "创举"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-362",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "团结统一是党的生命，是党的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "力量所在"
+          },
+          {
+            "key": "B",
+            "text": "形式所在"
+          },
+          {
+            "key": "C",
+            "text": "市场所在"
+          },
+          {
+            "key": "D",
+            "text": "口号所在"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-363",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "作风问题核心是党同什么的关系问题？",
+        "options": [
+          {
+            "key": "A",
+            "text": "人民群众"
+          },
+          {
+            "key": "B",
+            "text": "自然资源"
+          },
+          {
+            "key": "C",
+            "text": "企业品牌"
+          },
+          {
+            "key": "D",
+            "text": "市场价格"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
       }
     ],
     "multiple": [
       {
-        "id": "multiple-243",
+        "id": "multiple-264",
         "type": "multiple",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "习近平新时代中国特色社会主义思想回答的重大时代课题包括：",
         "options": [
           {
@@ -6838,9 +9701,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-244",
+        "id": "multiple-265",
         "type": "multiple",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "新时代坚持和发展中国特色社会主义必须坚定的“四个自信”包括：",
         "options": [
           {
@@ -6866,9 +9729,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-245",
+        "id": "multiple-266",
         "type": "multiple",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "中国式现代化的中国特色包括：",
         "options": [
           {
@@ -6894,9 +9757,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-246",
+        "id": "multiple-267",
         "type": "multiple",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "坚持和加强党的全面领导，使党的哪些能力显著增强？",
         "options": [
           {
@@ -6922,9 +9785,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-247",
+        "id": "multiple-268",
         "type": "multiple",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "改革的方向、立场和原则要求必须有利于进一步：",
         "options": [
           {
@@ -6950,9 +9813,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-248",
+        "id": "multiple-269",
         "type": "multiple",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "公有制经济包括：",
         "options": [
           {
@@ -6978,9 +9841,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-249",
+        "id": "multiple-270",
         "type": "multiple",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "全过程人民民主是：",
         "options": [
           {
@@ -7006,9 +9869,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-250",
+        "id": "multiple-271",
         "type": "multiple",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "中华文明的突出特征包括：",
         "options": [
           {
@@ -7034,9 +9897,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-251",
+        "id": "multiple-272",
         "type": "multiple",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "总体国家安全观的核心表述包括：",
         "options": [
           {
@@ -7062,9 +9925,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-252",
+        "id": "multiple-273",
         "type": "multiple",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "关于全面从严治党，下列表述正确的有：",
         "options": [
           {
@@ -7090,7 +9953,287 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-263",
+        "id": "multiple-364",
+        "type": "multiple",
+        "chapter": "综合练习二",
+        "stem": "中国式现代化的本质要求包括：",
+        "options": [
+          {
+            "key": "A",
+            "text": "坚持中国特色社会主义"
+          },
+          {
+            "key": "B",
+            "text": "发展全过程人民民主"
+          },
+          {
+            "key": "C",
+            "text": "实现高质量发展"
+          },
+          {
+            "key": "D",
+            "text": "照搬西方现代化道路"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "multiple-365",
+        "type": "multiple",
+        "chapter": "综合练习二",
+        "stem": "推进中国式现代化需要正确处理的重大关系包括：",
+        "options": [
+          {
+            "key": "A",
+            "text": "顶层设计与实践探索"
+          },
+          {
+            "key": "B",
+            "text": "封闭与停滞"
+          },
+          {
+            "key": "C",
+            "text": "战略与策略"
+          },
+          {
+            "key": "D",
+            "text": "活力与秩序"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "multiple-366",
+        "type": "multiple",
+        "chapter": "综合练习二",
+        "stem": "新时代坚持和发展中国特色社会主义要统筹推进和协调推进的布局包括：",
+        "options": [
+          {
+            "key": "A",
+            "text": "五位一体总体布局"
+          },
+          {
+            "key": "B",
+            "text": "地方行业布局"
+          },
+          {
+            "key": "C",
+            "text": "四个全面战略布局"
+          },
+          {
+            "key": "D",
+            "text": "短期宣传布局"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "multiple-367",
+        "type": "multiple",
+        "chapter": "综合练习二",
+        "stem": "坚持人民立场，需要做到：",
+        "options": [
+          {
+            "key": "A",
+            "text": "热爱人民、尊重人民、敬畏人民"
+          },
+          {
+            "key": "B",
+            "text": "以形式主义代替实际工作"
+          },
+          {
+            "key": "C",
+            "text": "始终牢记党的初心和使命"
+          },
+          {
+            "key": "D",
+            "text": "脱离群众进行治理"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "multiple-368",
+        "type": "multiple",
+        "chapter": "综合练习二",
+        "stem": "非公有制经济包括：",
+        "options": [
+          {
+            "key": "A",
+            "text": "个体经济"
+          },
+          {
+            "key": "B",
+            "text": "港澳台投资经济"
+          },
+          {
+            "key": "C",
+            "text": "私营经济"
+          },
+          {
+            "key": "D",
+            "text": "混合所有制经济中的非国有成分和非集体成分"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "multiple-369",
+        "type": "multiple",
+        "chapter": "综合练习二",
+        "stem": "法治中国建设的三大支柱包括：",
+        "options": [
+          {
+            "key": "A",
+            "text": "法治国家"
+          },
+          {
+            "key": "B",
+            "text": "法治广告"
+          },
+          {
+            "key": "C",
+            "text": "法治价格"
+          },
+          {
+            "key": "D",
+            "text": "法治政府"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "multiple-370",
+        "type": "multiple",
+        "chapter": "综合练习二",
+        "stem": "中华文明的突出特征包括：",
+        "options": [
+          {
+            "key": "A",
+            "text": "统一性"
+          },
+          {
+            "key": "B",
+            "text": "包容性"
+          },
+          {
+            "key": "C",
+            "text": "创新性"
+          },
+          {
+            "key": "D",
+            "text": "连续性"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "multiple-371",
+        "type": "multiple",
+        "chapter": "综合练习二",
+        "stem": "新时代加强和创新社会治理，要求坚持：",
+        "options": [
+          {
+            "key": "A",
+            "text": "依法治理"
+          },
+          {
+            "key": "B",
+            "text": "系统治理"
+          },
+          {
+            "key": "C",
+            "text": "随意治理"
+          },
+          {
+            "key": "D",
+            "text": "源头治理"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "multiple-372",
+        "type": "multiple",
+        "chapter": "综合练习二",
+        "stem": "政治安全涉及哪些方面的稳固？",
+        "options": [
+          {
+            "key": "A",
+            "text": "制度"
+          },
+          {
+            "key": "B",
+            "text": "娱乐消费偏好"
+          },
+          {
+            "key": "C",
+            "text": "意识形态"
+          },
+          {
+            "key": "D",
+            "text": "政权"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "multiple-373",
+        "type": "multiple",
+        "chapter": "综合练习二",
+        "stem": "全人类共同价值包括：",
+        "options": [
+          {
+            "key": "A",
+            "text": "和平"
+          },
+          {
+            "key": "B",
+            "text": "正义"
+          },
+          {
+            "key": "C",
+            "text": "民主、自由"
+          },
+          {
+            "key": "D",
+            "text": "公平"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "multiple-384",
         "type": "multiple",
         "chapter": "导论",
         "stem": "习近平新时代中国特色社会主义思想的主要内容，可以概括为哪些方面？",
@@ -7118,7 +10261,7 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-264",
+        "id": "multiple-385",
         "type": "multiple",
         "chapter": "第一章",
         "stem": "中国式现代化的鲜明特征包括哪些？",
@@ -7146,7 +10289,7 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-265",
+        "id": "multiple-386",
         "type": "multiple",
         "chapter": "第一章",
         "stem": "中国式现代化的本质要求包括哪些？",
@@ -7174,9 +10317,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-266",
+        "id": "multiple-387",
         "type": "multiple",
-        "chapter": "第四五六章",
+        "chapter": "第四章",
         "stem": "坚持人民立场的基本要求包括哪些？",
         "options": [
           {
@@ -7202,9 +10345,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-267",
+        "id": "multiple-388",
         "type": "multiple",
-        "chapter": "第四五六章",
+        "chapter": "第五章",
         "stem": "全面深化改革总目标的核心表述包括哪些？",
         "options": [
           {
@@ -7230,9 +10373,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-268",
+        "id": "multiple-389",
         "type": "multiple",
-        "chapter": "第七到十章",
+        "chapter": "第六章",
         "stem": "新发展理念包括哪些内容？",
         "options": [
           {
@@ -7258,9 +10401,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-269",
+        "id": "multiple-390",
         "type": "multiple",
-        "chapter": "第七到十章",
+        "chapter": "第六章",
         "stem": "公有制经济包括哪些成分？",
         "options": [
           {
@@ -7286,9 +10429,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-270",
+        "id": "multiple-391",
         "type": "multiple",
-        "chapter": "第七到十章",
+        "chapter": "第七章",
         "stem": "教育、科技、人才被定位为什么？",
         "options": [
           {
@@ -7314,9 +10457,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-271",
+        "id": "multiple-392",
         "type": "multiple",
-        "chapter": "第七到十章",
+        "chapter": "第八章",
         "stem": "全过程人民民主的相关表述，正确的有哪些？",
         "options": [
           {
@@ -7342,9 +10485,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-272",
+        "id": "multiple-393",
         "type": "multiple",
-        "chapter": "第十一到十四章",
+        "chapter": "第十章",
         "stem": "中华文明的突出特性包括哪些？",
         "options": [
           {
@@ -7370,9 +10513,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-273",
+        "id": "multiple-394",
         "type": "multiple",
-        "chapter": "第十一到十四章",
+        "chapter": "第十三章",
         "stem": "总体国家安全观强调哪些原则？",
         "options": [
           {
@@ -7398,9 +10541,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-274",
+        "id": "multiple-395",
         "type": "multiple",
-        "chapter": "第十五到十七章",
+        "chapter": "第十四章",
         "stem": "新时代党的强军目标包括哪些内容？",
         "options": [
           {
@@ -7426,9 +10569,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-275",
+        "id": "multiple-396",
         "type": "multiple",
-        "chapter": "第十五到十七章",
+        "chapter": "第十七章",
         "stem": "全面从严治党的相关表述，正确的有哪些？",
         "options": [
           {
@@ -7456,9 +10599,9 @@ window.QUESTION_BANK = {
     ],
     "judge": [
       {
-        "id": "judge-253",
+        "id": "judge-274",
         "type": "judge",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "坚定道路自信，就是坚信中国特色社会主义道路是我国实现社会主义现代化、创造人民美好生活的必由之路。（    ）",
         "options": [],
         "answer": "正确",
@@ -7467,9 +10610,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-254",
+        "id": "judge-275",
         "type": "judge",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "让群众满意是我们党做好一切工作的价值取向和根本标准。（    ）",
         "options": [],
         "answer": "正确",
@@ -7478,9 +10621,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-255",
+        "id": "judge-276",
         "type": "judge",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "构建高水平社会主义市场经济体制，关键是使政府完全取代市场配置资源。（    ）",
         "options": [],
         "answer": "错误",
@@ -7489,9 +10632,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-256",
+        "id": "judge-277",
         "type": "judge",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "关键核心技术是国之重器，只有把最关键最核心的技术掌握在自己手中，才能从根本上保障国家经济安全、国防安全和其他安全。（    ）",
         "options": [],
         "answer": "正确",
@@ -7500,9 +10643,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-257",
+        "id": "judge-278",
         "type": "judge",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "公正司法是维护社会公平正义的最后一道防线。（    ）",
         "options": [],
         "answer": "正确",
@@ -7511,9 +10654,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-258",
+        "id": "judge-279",
         "type": "judge",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "新时代加强和创新社会治理，要求坚持系统治理、依法治理、综合治理、源头治理。（    ）",
         "options": [],
         "answer": "正确",
@@ -7522,9 +10665,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-259",
+        "id": "judge-280",
         "type": "judge",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "建设美丽中国，是全面建设社会主义现代化国家的重要目标。（    ）",
         "options": [],
         "answer": "正确",
@@ -7533,9 +10676,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-260",
+        "id": "judge-281",
         "type": "judge",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "把战斗力作为唯一的根本的标准，是有效履行人民军队根本职能的要求。（    ）",
         "options": [],
         "answer": "正确",
@@ -7544,9 +10687,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-261",
+        "id": "judge-282",
         "type": "judge",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "始终坚持“爱国者治港”“爱国者治澳”，是事关国家主权、安全、发展利益和香港、澳门长期繁荣稳定的根本原则。（    ）",
         "options": [],
         "answer": "正确",
@@ -7555,9 +10698,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-262",
+        "id": "judge-283",
         "type": "judge",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "多边主义不符合各国人民利益，不是维护和平、促进发展的有效路径。（    ）",
         "options": [],
         "answer": "错误",
@@ -7566,7 +10709,117 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-276",
+        "id": "judge-374",
+        "type": "judge",
+        "chapter": "综合练习二",
+        "stem": "2018年3月，十三届全国人大一次会议通过的宪法修正案，把习近平新时代中国特色社会主义思想载入宪法。（    ）",
+        "options": [],
+        "answer": "正确",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "judge-375",
+        "type": "judge",
+        "chapter": "综合练习二",
+        "stem": "中国特色社会主义进入新时代后，我国处于社会主义初级阶段的基本国情已经发生根本改变。（    ）",
+        "options": [],
+        "answer": "错误",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "judge-376",
+        "type": "judge",
+        "chapter": "综合练习二",
+        "stem": "中国式现代化是走和平发展道路的现代化。（    ）",
+        "options": [],
+        "answer": "正确",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "judge-377",
+        "type": "judge",
+        "chapter": "综合练习二",
+        "stem": "维护党中央权威和集中统一领导，同坚持党的民主集中制是完全一致的。（    ）",
+        "options": [],
+        "answer": "正确",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "judge-378",
+        "type": "judge",
+        "chapter": "综合练习二",
+        "stem": "国家治理体系和治理能力只是经济发展水平的集中体现，与制度执行能力无关。（    ）",
+        "options": [],
+        "answer": "错误",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "judge-379",
+        "type": "judge",
+        "chapter": "综合练习二",
+        "stem": "在社会主义市场经济体制下，资本是带动各类生产要素集聚配置的重要纽带。（    ）",
+        "options": [],
+        "answer": "正确",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "judge-380",
+        "type": "judge",
+        "chapter": "综合练习二",
+        "stem": "把党内法规体系纳入中国特色社会主义法治体系，是我国法治区别于其他国家法治的鲜明特征。（    ）",
+        "options": [],
+        "answer": "正确",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "judge-381",
+        "type": "judge",
+        "chapter": "综合练习二",
+        "stem": "生态文明建设只需要加强宣传，不需要把制度建设作为重中之重。（    ）",
+        "options": [],
+        "answer": "错误",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "judge-382",
+        "type": "judge",
+        "chapter": "综合练习二",
+        "stem": "中央对包括香港、澳门特别行政区在内的所有地方行政区域拥有全面管治权。（    ）",
+        "options": [],
+        "answer": "正确",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "judge-383",
+        "type": "judge",
+        "chapter": "综合练习二",
+        "stem": "新时代坚持和发展中国特色社会主义，是一场艰巨而伟大的社会革命。（    ）",
+        "options": [],
+        "answer": "正确",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "judge-397",
         "type": "judge",
         "chapter": "导论",
         "stem": "2017年10月党的十九大把习近平新时代中国特色社会主义思想写入党章，2018年3月又载入宪法。",
@@ -7577,7 +10830,7 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-277",
+        "id": "judge-398",
         "type": "judge",
         "chapter": "导论",
         "stem": "文化自信是更基础、更广泛、更深厚的自信。",
@@ -7588,7 +10841,7 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-278",
+        "id": "judge-399",
         "type": "judge",
         "chapter": "第一章",
         "stem": "新时代我国社会主要矛盾发生变化，说明我国已经不再处于社会主义初级阶段。",
@@ -7599,9 +10852,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-279",
+        "id": "judge-400",
         "type": "judge",
-        "chapter": "第四五六章",
+        "chapter": "第五章",
         "stem": "改革开放是决定当代中国命运的关键一招。",
         "options": [],
         "answer": "正确",
@@ -7610,9 +10863,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-280",
+        "id": "judge-401",
         "type": "judge",
-        "chapter": "第四五六章",
+        "chapter": "第五章",
         "stem": "国家治理体系和治理能力，是一个国家制度和制度执行能力的集中体现。",
         "options": [],
         "answer": "正确",
@@ -7621,9 +10874,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-281",
+        "id": "judge-402",
         "type": "judge",
-        "chapter": "第七到十章",
+        "chapter": "第六章",
         "stem": "高质量发展是全面建设社会主义现代化国家的首要任务。",
         "options": [],
         "answer": "正确",
@@ -7632,9 +10885,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-282",
+        "id": "judge-403",
         "type": "judge",
-        "chapter": "第七到十章",
+        "chapter": "第七章",
         "stem": "教育、科技、人才只是经济工作的辅助条件，不属于现代化建设的战略性支撑。",
         "options": [],
         "answer": "错误",
@@ -7643,9 +10896,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-283",
+        "id": "judge-404",
         "type": "judge",
-        "chapter": "第七到十章",
+        "chapter": "第九章",
         "stem": "公正司法是维护社会公平正义的最后一道防线。",
         "options": [],
         "answer": "正确",
@@ -7654,9 +10907,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-284",
+        "id": "judge-405",
         "type": "judge",
-        "chapter": "第十一到十四章",
+        "chapter": "第十二章",
         "stem": "良好生态环境是最公平的公共产品，是最普惠的民生福祉。",
         "options": [],
         "answer": "正确",
@@ -7665,9 +10918,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-285",
+        "id": "judge-406",
         "type": "judge",
-        "chapter": "第十一到十四章",
+        "chapter": "第十三章",
         "stem": "政治安全是国家安全的根本。",
         "options": [],
         "answer": "正确",
@@ -7676,9 +10929,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-286",
+        "id": "judge-407",
         "type": "judge",
-        "chapter": "第十五到十七章",
+        "chapter": "第十四章",
         "stem": "军委主席负责制是坚持党对人民军队绝对领导的根本制度和根本实现形式。",
         "options": [],
         "answer": "正确",
@@ -7687,9 +10940,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-287",
+        "id": "judge-408",
         "type": "judge",
-        "chapter": "第十五到十七章",
+        "chapter": "第十六章",
         "stem": "多边主义不符合各国人民利益，不是维护和平、促进发展的有效路径。",
         "options": [],
         "answer": "错误",
@@ -7698,9 +10951,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-288",
+        "id": "judge-409",
         "type": "judge",
-        "chapter": "第十五到十七章",
+        "chapter": "第十七章",
         "stem": "党的领导是中国特色社会主义最本质的特征，也是中国特色社会主义制度的最大优势。",
         "options": [],
         "answer": "正确",
@@ -7737,7 +10990,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -7765,7 +11018,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -7793,7 +11046,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -7821,7 +11074,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -7849,7 +11102,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -7877,7 +11130,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -7905,7 +11158,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -7933,7 +11186,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -7961,7 +11214,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -7989,7 +11242,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -8017,7 +11270,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -8045,7 +11298,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -8073,7 +11326,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -8101,7 +11354,7 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
@@ -8129,11 +11382,11 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "导论选择题(1).docx"
+          "1.导论选择题(1).docx"
         ]
       },
       {
-        "id": "multiple-263",
+        "id": "multiple-384",
         "type": "multiple",
         "chapter": "导论",
         "stem": "习近平新时代中国特色社会主义思想的主要内容，可以概括为哪些方面？",
@@ -8161,7 +11414,7 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-276",
+        "id": "judge-397",
         "type": "judge",
         "chapter": "导论",
         "stem": "2017年10月党的十九大把习近平新时代中国特色社会主义思想写入党章，2018年3月又载入宪法。",
@@ -8172,7 +11425,7 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-277",
+        "id": "judge-398",
         "type": "judge",
         "chapter": "导论",
         "stem": "文化自信是更基础、更广泛、更深厚的自信。",
@@ -8185,7 +11438,595 @@ window.QUESTION_BANK = {
     ],
     "第一章": [
       {
-        "id": "multiple-264",
+        "id": "single-16",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "道路问题是关系党的事业兴衰成败的什么问题？",
+        "options": [
+          {
+            "key": "A",
+            "text": "一般性问题"
+          },
+          {
+            "key": "B",
+            "text": "第一位的问题"
+          },
+          {
+            "key": "C",
+            "text": "局部性问题"
+          },
+          {
+            "key": "D",
+            "text": "技术性问题"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-17",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "中国特色社会主义是实现中华民族伟大复兴的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "唯一经济模式"
+          },
+          {
+            "key": "B",
+            "text": "正确道路"
+          },
+          {
+            "key": "C",
+            "text": "临时安排"
+          },
+          {
+            "key": "D",
+            "text": "外部经验"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-18",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "中国共产党人思考的基本问题是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "什么是社会主义、怎样建设社会主义"
+          },
+          {
+            "key": "B",
+            "text": "什么是市场经济、怎样发展市场经济"
+          },
+          {
+            "key": "C",
+            "text": "什么是文化自信、怎样坚定文化自信"
+          },
+          {
+            "key": "D",
+            "text": "什么是生态文明、怎样保护生态环境"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-19",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "中国特色社会主义不是从天上掉下来的，而是在长期实践和历史传承中得来的。下列不属于文档列举来源的是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "改革开放40多年的伟大实践"
+          },
+          {
+            "key": "B",
+            "text": "新中国成立70多年的持续探索"
+          },
+          {
+            "key": "C",
+            "text": "世界社会主义500多年的发展历程"
+          },
+          {
+            "key": "D",
+            "text": "资本主义制度自我完善的历史进程"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-20",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "中国特色社会主义是科学社会主义理论逻辑和什么的辩证统一？",
+        "options": [
+          {
+            "key": "A",
+            "text": "世界经济发展逻辑"
+          },
+          {
+            "key": "B",
+            "text": "中国社会发展历史逻辑"
+          },
+          {
+            "key": "C",
+            "text": "资本市场运行逻辑"
+          },
+          {
+            "key": "D",
+            "text": "国际政治斗争逻辑"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-21",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "新时代坚持和发展中国特色社会主义，必须坚定道路自信、理论自信、制度自信和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "发展自信"
+          },
+          {
+            "key": "B",
+            "text": "科技自信"
+          },
+          {
+            "key": "C",
+            "text": "文化自信"
+          },
+          {
+            "key": "D",
+            "text": "国际自信"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-22",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "马克思主义深刻揭示了什么客观规律，这是坚定“四个自信”的理论支撑和根本依据？",
+        "options": [
+          {
+            "key": "A",
+            "text": "社会主义必然代替资本主义"
+          },
+          {
+            "key": "B",
+            "text": "市场经济必然代替计划经济"
+          },
+          {
+            "key": "C",
+            "text": "工业文明必然代替农业文明"
+          },
+          {
+            "key": "D",
+            "text": "区域发展必然完全均衡"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-23",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "中国特色社会主义最本质的特征是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "人民代表大会制度"
+          },
+          {
+            "key": "B",
+            "text": "中国共产党领导"
+          },
+          {
+            "key": "C",
+            "text": "社会主义市场经济"
+          },
+          {
+            "key": "D",
+            "text": "改革开放"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-24",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "坚定道路自信、理论自信、制度自信，说到底是要坚定：",
+        "options": [
+          {
+            "key": "A",
+            "text": "科技自信"
+          },
+          {
+            "key": "B",
+            "text": "文化自信"
+          },
+          {
+            "key": "C",
+            "text": "资源自信"
+          },
+          {
+            "key": "D",
+            "text": "产业自信"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-25",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "关于文化自信，下列说法正确的是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "是更基础、更广泛、更深厚的自信"
+          },
+          {
+            "key": "B",
+            "text": "只属于文化领域，与国家发展无关"
+          },
+          {
+            "key": "C",
+            "text": "是短期形成的阶段性力量"
+          },
+          {
+            "key": "D",
+            "text": "主要来源于外来文化输入"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-26",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "中国特色社会主义进入新时代，意味着近代以来久经磨难的中华民族迎来了从站起来、富起来到什么的伟大飞跃",
+        "options": [
+          {
+            "key": "A",
+            "text": "快起来"
+          },
+          {
+            "key": "B",
+            "text": "强起来"
+          },
+          {
+            "key": "C",
+            "text": "稳起来"
+          },
+          {
+            "key": "D",
+            "text": "富起来"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-27",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "中国特色社会主义进入新时代，是我国社会主要矛盾发生新变化的反映。我国社会主要矛盾是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "人民日益增长的物质文化需要和落后的社会生产之间的矛盾"
+          },
+          {
+            "key": "B",
+            "text": "人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾"
+          },
+          {
+            "key": "C",
+            "text": "经济高速增长和生态环境保护之间的矛盾"
+          },
+          {
+            "key": "D",
+            "text": "城乡发展和区域发展之间的矛盾"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-28",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "进入新时代后，我国仍处于并将长期处于什么阶段的基本国情没有变？",
+        "options": [
+          {
+            "key": "A",
+            "text": "社会主义初级阶段"
+          },
+          {
+            "key": "B",
+            "text": "社会主义高级阶段"
+          },
+          {
+            "key": "C",
+            "text": "资本主义初级阶段"
+          },
+          {
+            "key": "D",
+            "text": "共产主义阶段"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-29",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "新时代的伟大变革，在党史、新中国史、改革开放史、社会主义发展史、中华民族发展史上具有：",
+        "options": [
+          {
+            "key": "A",
+            "text": "过渡性意义"
+          },
+          {
+            "key": "B",
+            "text": "里程碑意义"
+          },
+          {
+            "key": "C",
+            "text": "局部性意义"
+          },
+          {
+            "key": "D",
+            "text": "阶段性意义"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-30",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "新时代坚持和发展中国特色社会主义，要统筹推进“五位一体”总体布局和协调推进什么战略布局？",
+        "options": [
+          {
+            "key": "A",
+            "text": "“三个全面”"
+          },
+          {
+            "key": "B",
+            "text": "“四个全面”"
+          },
+          {
+            "key": "C",
+            "text": "“五个全面”"
+          },
+          {
+            "key": "D",
+            "text": "“六个全面”"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-31",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "党的基本理论是坚持和发展中国特色社会主义的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "行动指南"
+          },
+          {
+            "key": "B",
+            "text": "物质基础"
+          },
+          {
+            "key": "C",
+            "text": "组织形式"
+          },
+          {
+            "key": "D",
+            "text": "技术路线"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-32",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "中国共产党为什么能，中国特色社会主义为什么好，归根到底是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "传统文化行"
+          },
+          {
+            "key": "B",
+            "text": "市场经济行"
+          },
+          {
+            "key": "C",
+            "text": "马克思主义行，是中国化时代化的马克思主义行"
+          },
+          {
+            "key": "D",
+            "text": "西方现代化道路行"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-33",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "党的基本路线是国家的生命线、人民的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "发展线"
+          },
+          {
+            "key": "B",
+            "text": "幸福线"
+          },
+          {
+            "key": "C",
+            "text": "保障线"
+          },
+          {
+            "key": "D",
+            "text": "改革线"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-34",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "“五位一体”总体布局包括经济建设、政治建设、文化建设、社会建设和",
+        "options": [
+          {
+            "key": "A",
+            "text": "法治建设"
+          },
+          {
+            "key": "B",
+            "text": "国防建设"
+          },
+          {
+            "key": "C",
+            "text": "生态文明建设"
+          },
+          {
+            "key": "D",
+            "text": "科技建设"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-35",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "“四个全面”战略布局不包括下列哪一项？",
+        "options": [
+          {
+            "key": "A",
+            "text": "全面建设社会主义现代化国家"
+          },
+          {
+            "key": "B",
+            "text": "全面深化改革"
+          },
+          {
+            "key": "C",
+            "text": "全面依法治国"
+          },
+          {
+            "key": "D",
+            "text": "全面建设社会主义市场经济国家"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-36",
+        "type": "single",
+        "chapter": "第一章",
+        "stem": "坚定道路自信，就是坚信中国特色社会主义道路是我国实现社会主义现代化、创造人民美好生活的必由之路，也是实现什么的必由之路？",
+        "options": [
+          {
+            "key": "A",
+            "text": "中华民族伟大复兴"
+          },
+          {
+            "key": "B",
+            "text": "全球经济一体化"
+          },
+          {
+            "key": "C",
+            "text": "区域协调发展"
+          },
+          {
+            "key": "D",
+            "text": "科技全面领先"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "2.第一章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "multiple-385",
         "type": "multiple",
         "chapter": "第一章",
         "stem": "中国式现代化的鲜明特征包括哪些？",
@@ -8213,7 +12054,7 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-265",
+        "id": "multiple-386",
         "type": "multiple",
         "chapter": "第一章",
         "stem": "中国式现代化的本质要求包括哪些？",
@@ -8241,7 +12082,7 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-278",
+        "id": "judge-399",
         "type": "judge",
         "chapter": "第一章",
         "stem": "新时代我国社会主要矛盾发生变化，说明我国已经不再处于社会主义初级阶段。",
@@ -8252,12 +12093,12 @@ window.QUESTION_BANK = {
         ]
       }
     ],
-    "第二三章": [
+    "第二章": [
       {
-        "id": "single-46",
+        "id": "single-37",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "习近平在2012年11月参观《复兴之路》展览时首次提出的是：B",
+        "chapter": "第二章",
+        "stem": "习近平在2012年11月参观《复兴之路》展览时首次提出的是：",
         "options": [
           {
             "key": "A",
@@ -8278,14 +12119,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-47",
+        "id": "single-38",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "实现中华民族伟大复兴的中国梦，本质是：A",
+        "chapter": "第二章",
+        "stem": "实现中华民族伟大复兴的中国梦，本质是：",
         "options": [
           {
             "key": "A",
@@ -8306,14 +12147,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-48",
+        "id": "single-39",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "全面建成小康社会中，“全面”强调的是发展的：B",
+        "chapter": "第二章",
+        "stem": "全面建成小康社会中，“全面”强调的是发展的",
         "options": [
           {
             "key": "A",
@@ -8334,14 +12175,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-49",
+        "id": "single-40",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "我国实现第一个百年奋斗目标、在中华大地上全面建成小康社会的时间是：C",
+        "chapter": "第二章",
+        "stem": "我国实现第一个百年奋斗目标、在中华大地上全面建成小康社会的时间是：",
         "options": [
           {
             "key": "A",
@@ -8362,14 +12203,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-50",
+        "id": "single-41",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "党的二十大明确，全面建成社会主义现代化强国总的战略安排是分几步走？B",
+        "chapter": "第二章",
+        "stem": "党的二十大明确，全面建成社会主义现代化强国总的战略安排是分几步走？",
         "options": [
           {
             "key": "A",
@@ -8390,14 +12231,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-51",
+        "id": "single-42",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "从2020年到2035年，我国的战略目标是：B",
+        "chapter": "第二章",
+        "stem": "从2020年到2035年，我国的战略目标是：",
         "options": [
           {
             "key": "A",
@@ -8418,14 +12259,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-52",
+        "id": "single-43",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "从2035年到本世纪中叶，我国的战略目标是：C",
+        "chapter": "第二章",
+        "stem": "从2035年到本世纪中叶，我国的战略目标是：",
         "options": [
           {
             "key": "A",
@@ -8446,14 +12287,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-53",
+        "id": "single-44",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "中国式现代化是由谁领导的社会主义现代化？B",
+        "chapter": "第二章",
+        "stem": "中国式现代化是由谁领导的社会主义现代化？",
         "options": [
           {
             "key": "A",
@@ -8474,14 +12315,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-54",
+        "id": "single-45",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "中国式现代化区别于西方现代化的显著标志是：C",
+        "chapter": "第二章",
+        "stem": "中国式现代化区别于西方现代化的显著标志是：",
         "options": [
           {
             "key": "A",
@@ -8502,14 +12343,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-55",
+        "id": "single-46",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "下列不属于中国式现代化中国特色的是：C",
+        "chapter": "第二章",
+        "stem": "下列不属于中国式现代化中国特色的是：",
         "options": [
           {
             "key": "A",
@@ -8530,14 +12371,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-56",
+        "id": "single-47",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "中国式现代化的本质要求不包括：D",
+        "chapter": "第二章",
+        "stem": "中国式现代化的本质要求不包括：",
         "options": [
           {
             "key": "A",
@@ -8558,14 +12399,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "D",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-57",
+        "id": "single-48",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "中国式现代化打破了哪一种迷思？C",
+        "chapter": "第二章",
+        "stem": "中国式现代化打破了哪一种迷思？",
         "options": [
           {
             "key": "A",
@@ -8586,14 +12427,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-58",
+        "id": "single-49",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "推进中国式现代化需要正确处理一系列重大关系，其中包括：A",
+        "chapter": "第二章",
+        "stem": "推进中国式现代化需要正确处理一系列重大关系，其中包括：",
         "options": [
           {
             "key": "A",
@@ -8614,14 +12455,16 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
-      },
+      }
+    ],
+    "第三章": [
       {
-        "id": "single-59",
+        "id": "single-50",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "中国特色社会主义最本质的特征是：A",
+        "chapter": "第三章",
+        "stem": "中国特色社会主义最本质的特征是：",
         "options": [
           {
             "key": "A",
@@ -8642,14 +12485,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-60",
+        "id": "single-51",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "中国特色社会主义制度的最大优势是：B",
+        "chapter": "第三章",
+        "stem": "中国特色社会主义制度的最大优势是：",
         "options": [
           {
             "key": "A",
@@ -8670,14 +12513,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-61",
+        "id": "single-52",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "中国共产党是最高：C",
+        "chapter": "第三章",
+        "stem": "中国共产党是最高：",
         "options": [
           {
             "key": "A",
@@ -8698,14 +12541,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-62",
+        "id": "single-53",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "坚持党中央集中统一领导是：A",
+        "chapter": "第三章",
+        "stem": "坚持党中央集中统一领导是：",
         "options": [
           {
             "key": "A",
@@ -8726,14 +12569,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-63",
+        "id": "single-54",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "中国共产党领导的根本优势具有：C",
+        "chapter": "第三章",
+        "stem": "中国共产党领导的根本优势具有：",
         "options": [
           {
             "key": "A",
@@ -8754,14 +12597,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-64",
+        "id": "single-55",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "坚持和加强党的全面领导，使党的政治领导力、思想引领力、群众组织力和什么显著增强？B",
+        "chapter": "第三章",
+        "stem": "坚持和加强党的全面领导，使党的政治领导力、思想引领力、群众组织力和什么显著增强？",
         "options": [
           {
             "key": "A",
@@ -8782,14 +12625,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-65",
+        "id": "single-56",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "马克思主义政党第一位的能力是：A",
+        "chapter": "第三章",
+        "stem": "马克思主义政党第一位的能力是：",
         "options": [
           {
             "key": "A",
@@ -8810,14 +12653,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-66",
+        "id": "single-57",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "“党政军民学，东西南北中”，强调的是：A",
+        "chapter": "第三章",
+        "stem": "“党政军民学，东西南北中”，强调的是：",
         "options": [
           {
             "key": "A",
@@ -8838,14 +12681,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-67",
+        "id": "single-58",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "党的领导是全面的、系统的、：C",
+        "chapter": "第三章",
+        "stem": "党的领导是全面的、系统的、：",
         "options": [
           {
             "key": "A",
@@ -8866,14 +12709,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-68",
+        "id": "single-59",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "党的领导的最高原则是：B",
+        "chapter": "第三章",
+        "stem": "党的领导的最高原则是：",
         "options": [
           {
             "key": "A",
@@ -8894,14 +12737,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-69",
+        "id": "single-60",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "维护党中央权威和集中统一领导，最关键的是：C",
+        "chapter": "第三章",
+        "stem": "维护党中央权威和集中统一领导，最关键的是：",
         "options": [
           {
             "key": "A",
@@ -8922,14 +12765,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-70",
+        "id": "single-61",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "维护党中央权威和集中统一领导，同坚持党的民主集中制是：B",
+        "chapter": "第三章",
+        "stem": "维护党中央权威和集中统一领导，同坚持党的民主集中制是：",
         "options": [
           {
             "key": "A",
@@ -8950,14 +12793,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-71",
+        "id": "single-62",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "我国的根本领导制度是：C",
+        "chapter": "第三章",
+        "stem": "我国的根本领导制度是：",
         "options": [
           {
             "key": "A",
@@ -8978,14 +12821,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "C",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       },
       {
-        "id": "single-72",
+        "id": "single-63",
         "type": "single",
-        "chapter": "第二三章",
-        "stem": "全面加强党的领导大大提高了全党的政治判断力、政治领悟力和：A",
+        "chapter": "第三章",
+        "stem": "全面加强党的领导大大提高了全党的政治判断力、政治领悟力和：",
         "options": [
           {
             "key": "A",
@@ -9006,15 +12849,15 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "第二、三章选择题(2).docx"
+          "3.第二、三章选择题(3).docx"
         ]
       }
     ],
-    "第四五六章": [
+    "第四章": [
       {
-        "id": "single-133",
+        "id": "single-64",
         "type": "single",
-        "chapter": "第四五六章",
+        "chapter": "第四章",
         "stem": "人民性是马克思主义的什么？",
         "options": [
           {
@@ -9036,13 +12879,13 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-134",
+        "id": "single-65",
         "type": "single",
-        "chapter": "第四五六章",
+        "chapter": "第四章",
         "stem": "坚持以人民为中心，体现了哪一基本原理？",
         "options": [
           {
@@ -9064,13 +12907,13 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-135",
+        "id": "single-66",
         "type": "single",
-        "chapter": "第四五六章",
+        "chapter": "第四章",
         "stem": "人民立场是中国共产党的什么？",
         "options": [
           {
@@ -9092,14 +12935,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-136",
+        "id": "single-67",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "中国共产党区别于其他政党的显著标志是",
+        "chapter": "第四章",
+        "stem": "中国共产党区别于其他政党的显著标志是：",
         "options": [
           {
             "key": "A",
@@ -9120,14 +12963,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-137",
+        "id": "single-68",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "坚持人民立场，就要始终牢记党的",
+        "chapter": "第四章",
+        "stem": "坚持人民立场，就要始终牢记党的：",
         "options": [
           {
             "key": "A",
@@ -9148,13 +12991,13 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-138",
+        "id": "single-69",
         "type": "single",
-        "chapter": "第四五六章",
+        "chapter": "第四章",
         "stem": "人民对美好生活的向往就是党的",
         "options": [
           {
@@ -9176,14 +13019,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-139",
+        "id": "single-70",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "我们党做好一切工作的价值取向和根本标准是",
+        "chapter": "第四章",
+        "stem": "我们党做好一切工作的价值取向和根本标准是：",
         "options": [
           {
             "key": "A",
@@ -9204,14 +13047,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "A",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-140",
+        "id": "single-71",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "群众路线是我们党的生命线和",
+        "chapter": "第四章",
+        "stem": "群众路线是我们党的生命线和：",
         "options": [
           {
             "key": "A",
@@ -9232,14 +13075,14 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-141",
+        "id": "single-72",
         "type": "single",
-        "chapter": "第四五六章",
-        "stem": "共同富裕是中国特色社会主义的本质要求，也是中国式现代化的",
+        "chapter": "第四章",
+        "stem": "共同富裕是中国特色社会主义的本质要求，也是中国式现代化的：",
         "options": [
           {
             "key": "A",
@@ -9260,601 +13103,13 @@ window.QUESTION_BANK = {
         ],
         "answer": "B",
         "sources": [
-          "第四五六章选择题(2).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-142",
-        "type": "single",
-        "chapter": "第四五六章",
-        "stem": "改革开放是决定当代中国命运的",
-        "options": [
-          {
-            "key": "A",
-            "text": "关键一招"
-          },
-          {
-            "key": "B",
-            "text": "根本制度"
-          },
-          {
-            "key": "C",
-            "text": "基本国策"
-          },
-          {
-            "key": "D",
-            "text": "唯一路径"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第四五六章选择题(2).docx"
-        ]
-      },
-      {
-        "id": "single-143",
-        "type": "single",
-        "chapter": "第四五六章",
-        "stem": "改革开放也是决定实现“两个一百年”奋斗目标、实现中华民族伟大复兴的",
-        "options": [
-          {
-            "key": "A",
-            "text": "理论基础"
-          },
-          {
-            "key": "B",
-            "text": "关键一招"
-          },
-          {
-            "key": "C",
-            "text": "制度保障"
-          },
-          {
-            "key": "D",
-            "text": "文化支撑"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第四五六章选择题(2).docx"
-        ]
-      },
-      {
-        "id": "single-144",
-        "type": "single",
-        "chapter": "第四五六章",
-        "stem": "新时代全面深化改革开放，就其艰巨性、复杂性和系统性来说，是一场",
-        "options": [
-          {
-            "key": "A",
-            "text": "深刻的革命"
-          },
-          {
-            "key": "B",
-            "text": "普通的调整"
-          },
-          {
-            "key": "C",
-            "text": "局部的变革"
-          },
-          {
-            "key": "D",
-            "text": "单一的经济改革"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第四五六章选择题(2).docx"
-        ]
-      },
-      {
-        "id": "single-145",
-        "type": "single",
-        "chapter": "第四五六章",
-        "stem": "社会主义改革开放的出发点和落脚点是为了更好实现和维护",
-        "options": [
-          {
-            "key": "A",
-            "text": "国家安全"
-          },
-          {
-            "key": "B",
-            "text": "人民利益"
-          },
-          {
-            "key": "C",
-            "text": "市场活力"
-          },
-          {
-            "key": "D",
-            "text": "国际地位"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第四五六章选择题(2).docx"
-        ]
-      },
-      {
-        "id": "single-146",
-        "type": "single",
-        "chapter": "第四五六章",
-        "stem": "改革的方向立场和原则之一是必须有利于进一步解放思想、进一步解放和发展社会生产力、进一步解放和增强",
-        "options": [
-          {
-            "key": "A",
-            "text": "文化自信"
-          },
-          {
-            "key": "B",
-            "text": "社会活力"
-          },
-          {
-            "key": "C",
-            "text": "科技能力"
-          },
-          {
-            "key": "D",
-            "text": "法治水平"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第四五六章选择题(2).docx"
-        ]
-      },
-      {
-        "id": "single-147",
-        "type": "single",
-        "chapter": "第四五六章",
-        "stem": "全面深化改革总目标是完善和发展中国特色社会主义制度，推进",
-        "options": [
-          {
-            "key": "A",
-            "text": "国家治理体系和治理能力现代化"
-          },
-          {
-            "key": "B",
-            "text": "社会主义文化强国建设"
-          },
-          {
-            "key": "C",
-            "text": "全过程人民民主制度化"
-          },
-          {
-            "key": "D",
-            "text": "生态文明制度改革"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第四五六章选择题(2).docx"
-        ]
-      },
-      {
-        "id": "single-148",
-        "type": "single",
-        "chapter": "第四五六章",
-        "stem": "国家治理体系和治理能力是一个国家制度和什么的集中体现？",
-        "options": [
-          {
-            "key": "A",
-            "text": "文化创新能力"
-          },
-          {
-            "key": "B",
-            "text": "制度执行能力"
-          },
-          {
-            "key": "C",
-            "text": "科技创新能力"
-          },
-          {
-            "key": "D",
-            "text": "国际竞争能力"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第四五六章选择题(2).docx"
-        ]
-      },
-      {
-        "id": "single-149",
-        "type": "single",
-        "chapter": "第四五六章",
-        "stem": "要把新时代改革推向前进，必须加强什么，以利于提高改革的科学性和协调性？",
-        "options": [
-          {
-            "key": "A",
-            "text": "基层探索"
-          },
-          {
-            "key": "B",
-            "text": "顶层设计"
-          },
-          {
-            "key": "C",
-            "text": "对外交流"
-          },
-          {
-            "key": "D",
-            "text": "舆论宣传"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第四五六章选择题(2).docx"
-        ]
-      },
-      {
-        "id": "single-150",
-        "type": "single",
-        "chapter": "第四五六章",
-        "stem": "高质量发展是新时代我国经济社会发展的鲜明主题，也是全面建设社会主义现代化国家的",
-        "options": [
-          {
-            "key": "A",
-            "text": "根本制度"
-          },
-          {
-            "key": "B",
-            "text": "首要任务"
-          },
-          {
-            "key": "C",
-            "text": "基本路线"
-          },
-          {
-            "key": "D",
-            "text": "最终目标"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第四五六章选择题(2).docx"
-        ]
-      },
-      {
-        "id": "single-151",
-        "type": "single",
-        "chapter": "第四五六章",
-        "stem": "新发展理念的内容是创新、协调、绿色、开放",
-        "options": [
-          {
-            "key": "A",
-            "text": "安全"
-          },
-          {
-            "key": "B",
-            "text": "共享"
-          },
-          {
-            "key": "C",
-            "text": "民主"
-          },
-          {
-            "key": "D",
-            "text": "公平"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第四五六章选择题(2).docx"
-        ]
-      },
-      {
-        "id": "single-152",
-        "type": "single",
-        "chapter": "第四五六章",
-        "stem": "高质量发展是全面建设社会主义现代化国家的首要任务，是遵循什么规律发展的必然要求？",
-        "options": [
-          {
-            "key": "A",
-            "text": "经济规律"
-          },
-          {
-            "key": "B",
-            "text": "自然规律"
-          },
-          {
-            "key": "C",
-            "text": "文化规律"
-          },
-          {
-            "key": "D",
-            "text": "教育规律"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第四五六章选择题(2).docx"
-        ]
-      },
-      {
-        "id": "single-153",
-        "type": "single",
-        "chapter": "第四五六章",
-        "stem": "公有制经济包括国有经济、集体经济，还包括混合所有制经济中的",
-        "options": [
-          {
-            "key": "A",
-            "text": "私营成分和外资成分"
-          },
-          {
-            "key": "B",
-            "text": "国有成分和集体成分"
-          },
-          {
-            "key": "C",
-            "text": "个体成分和民营成分"
-          },
-          {
-            "key": "D",
-            "text": "港澳台投资成分"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第四五六章选择题(2).docx"
-        ]
-      },
-      {
-        "id": "single-154",
-        "type": "single",
-        "chapter": "第四五六章",
-        "stem": "非公有制经济不包括下列哪一项？",
-        "options": [
-          {
-            "key": "A",
-            "text": "个体经济"
-          },
-          {
-            "key": "B",
-            "text": "私营经济"
-          },
-          {
-            "key": "C",
-            "text": "国有经济"
-          },
-          {
-            "key": "D",
-            "text": "外商投资经济"
-          }
-        ],
-        "answer": "C",
-        "sources": [
-          "第四五六章选择题(2).docx"
-        ]
-      },
-      {
-        "id": "single-155",
-        "type": "single",
-        "chapter": "第四五六章",
-        "stem": "我国分配制度坚持",
-        "options": [
-          {
-            "key": "A",
-            "text": "按需分配为主体、多种分配方式并存"
-          },
-          {
-            "key": "B",
-            "text": "按劳分配为主体、多种分配方式并存"
-          },
-          {
-            "key": "C",
-            "text": "按资本分配为主体、按劳分配为补充"
-          },
-          {
-            "key": "D",
-            "text": "平均分配为主体、差别分配为补充"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第四五六章选择题(2).docx"
-        ]
-      },
-      {
-        "id": "single-156",
-        "type": "single",
-        "chapter": "第四五六章",
-        "stem": "构建高水平社会主义市场经济体制，关键是要处理好",
-        "options": [
-          {
-            "key": "A",
-            "text": "中央和地方的关系"
-          },
-          {
-            "key": "B",
-            "text": "政府和市场的关系"
-          },
-          {
-            "key": "C",
-            "text": "城市和农村的关系"
-          },
-          {
-            "key": "D",
-            "text": "改革和稳定的关系"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第四五六章选择题(2).docx"
-        ]
-      },
-      {
-        "id": "single-157",
-        "type": "single",
-        "chapter": "第四五六章",
-        "stem": "在资源配置中起决定性作用的是",
-        "options": [
-          {
-            "key": "A",
-            "text": "政府"
-          },
-          {
-            "key": "B",
-            "text": "市场"
-          },
-          {
-            "key": "C",
-            "text": "企业"
-          },
-          {
-            "key": "D",
-            "text": "社会组织"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第四五六章选择题(2).docx"
-        ]
-      },
-      {
-        "id": "single-158",
-        "type": "single",
-        "chapter": "第四五六章",
-        "stem": "在社会主义市场经济体制下，资本是带动各类生产要素集聚配置的",
-        "options": [
-          {
-            "key": "A",
-            "text": "重要纽带"
-          },
-          {
-            "key": "B",
-            "text": "根本目的"
-          },
-          {
-            "key": "C",
-            "text": "唯一标准"
-          },
-          {
-            "key": "D",
-            "text": "政治原则"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第四五六章选择题(2).docx"
-        ]
-      },
-      {
-        "id": "single-159",
-        "type": "single",
-        "chapter": "第四五六章",
-        "stem": "构建新发展格局最本质的特征是实现",
-        "options": [
-          {
-            "key": "A",
-            "text": "高速度增长"
-          },
-          {
-            "key": "B",
-            "text": "高水平的自立自强"
-          },
-          {
-            "key": "C",
-            "text": "高强度投资"
-          },
-          {
-            "key": "D",
-            "text": "高比例出口"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第四五六章选择题(2).docx"
-        ]
-      },
-      {
-        "id": "single-160",
-        "type": "single",
-        "chapter": "第四五六章",
-        "stem": "新发展理念是实现高质量发展的",
-        "options": [
-          {
-            "key": "A",
-            "text": "指导原则"
-          },
-          {
-            "key": "B",
-            "text": "制度基础"
-          },
-          {
-            "key": "C",
-            "text": "根本制度"
-          },
-          {
-            "key": "D",
-            "text": "唯一标准"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第四五六章选择题(2).docx"
-        ]
-      },
-      {
-        "id": "single-161",
-        "type": "single",
-        "chapter": "第四五六章",
-        "stem": "贯彻新发展理念是关系我国发展全局的一场",
-        "options": [
-          {
-            "key": "A",
-            "text": "普通调整"
-          },
-          {
-            "key": "B",
-            "text": "深刻变革"
-          },
-          {
-            "key": "C",
-            "text": "局部改革"
-          },
-          {
-            "key": "D",
-            "text": "技术更新"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第四五六章选择题(2).docx"
-        ]
-      },
-      {
-        "id": "single-162",
-        "type": "single",
-        "chapter": "第四五六章",
-        "stem": "公有制经济和非公有制经济都是社会主义市场经济的重要组成部分，都是我国经济社会发展的",
-        "options": [
-          {
-            "key": "A",
-            "text": "重要基础"
-          },
-          {
-            "key": "B",
-            "text": "根本方向"
-          },
-          {
-            "key": "C",
-            "text": "唯一动力"
-          },
-          {
-            "key": "D",
-            "text": "最高原则"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第四五六章选择题(2).docx"
-        ]
-      },
-      {
-        "id": "multiple-266",
+        "id": "multiple-387",
         "type": "multiple",
-        "chapter": "第四五六章",
+        "chapter": "第四章",
         "stem": "坚持人民立场的基本要求包括哪些？",
         "options": [
           {
@@ -9878,11 +13133,237 @@ window.QUESTION_BANK = {
         "sources": [
           "习思想重点.docx"
         ]
+      }
+    ],
+    "第五章": [
+      {
+        "id": "single-73",
+        "type": "single",
+        "chapter": "第五章",
+        "stem": "改革开放是决定当代中国命运的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "关键一招"
+          },
+          {
+            "key": "B",
+            "text": "根本制度"
+          },
+          {
+            "key": "C",
+            "text": "基本国策"
+          },
+          {
+            "key": "D",
+            "text": "唯一路径"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "4.第四五六章选择题(3).docx"
+        ]
       },
       {
-        "id": "multiple-267",
+        "id": "single-74",
+        "type": "single",
+        "chapter": "第五章",
+        "stem": "改革开放也是决定实现“两个一百年”奋斗目标、实现中华民族伟大复兴的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "理论基础"
+          },
+          {
+            "key": "B",
+            "text": "关键一招"
+          },
+          {
+            "key": "C",
+            "text": "制度保障"
+          },
+          {
+            "key": "D",
+            "text": "文化支撑"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "4.第四五六章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-75",
+        "type": "single",
+        "chapter": "第五章",
+        "stem": "新时代全面深化改革开放，就其艰巨性、复杂性和系统性来说，是一场：",
+        "options": [
+          {
+            "key": "A",
+            "text": "深刻的革命"
+          },
+          {
+            "key": "B",
+            "text": "普通的调整"
+          },
+          {
+            "key": "C",
+            "text": "局部的变革"
+          },
+          {
+            "key": "D",
+            "text": "单一的经济改革"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "4.第四五六章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-76",
+        "type": "single",
+        "chapter": "第五章",
+        "stem": "社会主义改革开放的出发点和落脚点是为了更好实现和维护：",
+        "options": [
+          {
+            "key": "A",
+            "text": "国家安全"
+          },
+          {
+            "key": "B",
+            "text": "人民利益"
+          },
+          {
+            "key": "C",
+            "text": "市场活力"
+          },
+          {
+            "key": "D",
+            "text": "国际地位"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "4.第四五六章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-77",
+        "type": "single",
+        "chapter": "第五章",
+        "stem": "改革的方向立场和原则之一是必须有利于进一步解放思想、进一步解放和发展社会生产力、进一步解放和增强：",
+        "options": [
+          {
+            "key": "A",
+            "text": "文化自信"
+          },
+          {
+            "key": "B",
+            "text": "社会活力"
+          },
+          {
+            "key": "C",
+            "text": "科技能力"
+          },
+          {
+            "key": "D",
+            "text": "法治水平"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "4.第四五六章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-78",
+        "type": "single",
+        "chapter": "第五章",
+        "stem": "全面深化改革总目标是完善和发展中国特色社会主义制度，推进：",
+        "options": [
+          {
+            "key": "A",
+            "text": "国家治理体系和治理能力现代化"
+          },
+          {
+            "key": "B",
+            "text": "社会主义文化强国建设"
+          },
+          {
+            "key": "C",
+            "text": "全过程人民民主制度化"
+          },
+          {
+            "key": "D",
+            "text": "生态文明制度改革"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "4.第四五六章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-79",
+        "type": "single",
+        "chapter": "第五章",
+        "stem": "国家治理体系和治理能力是一个国家制度和什么的集中体现？",
+        "options": [
+          {
+            "key": "A",
+            "text": "文化创新能力"
+          },
+          {
+            "key": "B",
+            "text": "制度执行能力"
+          },
+          {
+            "key": "C",
+            "text": "科技创新能力"
+          },
+          {
+            "key": "D",
+            "text": "国际竞争能力"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "4.第四五六章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-80",
+        "type": "single",
+        "chapter": "第五章",
+        "stem": "要把新时代改革推向前进，必须加强什么，以利于提高改革的科学性和协调性？",
+        "options": [
+          {
+            "key": "A",
+            "text": "基层探索"
+          },
+          {
+            "key": "B",
+            "text": "顶层设计"
+          },
+          {
+            "key": "C",
+            "text": "对外交流"
+          },
+          {
+            "key": "D",
+            "text": "舆论宣传"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "4.第四五六章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "multiple-388",
         "type": "multiple",
-        "chapter": "第四五六章",
+        "chapter": "第五章",
         "stem": "全面深化改革总目标的核心表述包括哪些？",
         "options": [
           {
@@ -9908,9 +13389,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-279",
+        "id": "judge-400",
         "type": "judge",
-        "chapter": "第四五六章",
+        "chapter": "第五章",
         "stem": "改革开放是决定当代中国命运的关键一招。",
         "options": [],
         "answer": "正确",
@@ -9919,9 +13400,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-280",
+        "id": "judge-401",
         "type": "judge",
-        "chapter": "第四五六章",
+        "chapter": "第五章",
         "stem": "国家治理体系和治理能力，是一个国家制度和制度执行能力的集中体现。",
         "options": [],
         "answer": "正确",
@@ -9930,851 +13411,375 @@ window.QUESTION_BANK = {
         ]
       }
     ],
-    "第七到十章": [
+    "第六章": [
       {
-        "id": "single-16",
+        "id": "single-81",
         "type": "single",
-        "chapter": "第七到十章",
-        "stem": "教育、科技、人才是全面建设社会主义现代化国家的什么支撑？",
+        "chapter": "第六章",
+        "stem": "高质量发展是新时代我国经济社会发展的鲜明主题，也是全面建设社会主义现代化国家的：",
         "options": [
           {
             "key": "A",
-            "text": "一般性、辅助性支撑"
+            "text": "根本制度"
           },
           {
             "key": "B",
-            "text": "基础性、战略性支撑"
+            "text": "首要任务"
           },
           {
             "key": "C",
-            "text": "阶段性、临时性支撑"
+            "text": "基本路线"
           },
           {
             "key": "D",
-            "text": "区域性、局部性支撑"
+            "text": "最终目标"
           }
         ],
         "answer": "B",
         "sources": [
-          "第七到十章选择题(1).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-17",
+        "id": "single-82",
         "type": "single",
-        "chapter": "第七到十章",
-        "stem": "全面建设社会主义现代化国家，必须坚持科技是第一生产力、人才是第一资源、什么是第一动力？",
+        "chapter": "第六章",
+        "stem": "新发展理念的内容是创新、协调、绿色、开放、：",
         "options": [
           {
             "key": "A",
-            "text": "改革"
+            "text": "安全"
           },
           {
             "key": "B",
-            "text": "开放"
+            "text": "共享"
           },
           {
             "key": "C",
-            "text": "创新"
+            "text": "民主"
           },
           {
             "key": "D",
-            "text": "文化"
+            "text": "公平"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "4.第四五六章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-83",
+        "type": "single",
+        "chapter": "第六章",
+        "stem": "高质量发展是全面建设社会主义现代化国家的首要任务，是遵循什么规律发展的必然要求？",
+        "options": [
+          {
+            "key": "A",
+            "text": "经济规律"
+          },
+          {
+            "key": "B",
+            "text": "自然规律"
+          },
+          {
+            "key": "C",
+            "text": "文化规律"
+          },
+          {
+            "key": "D",
+            "text": "教育规律"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "4.第四五六章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-84",
+        "type": "single",
+        "chapter": "第六章",
+        "stem": "公有制经济包括国有经济、集体经济，还包括混合所有制经济中的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "私营成分和外资成分"
+          },
+          {
+            "key": "B",
+            "text": "国有成分和集体成分"
+          },
+          {
+            "key": "C",
+            "text": "个体成分和民营成分"
+          },
+          {
+            "key": "D",
+            "text": "港澳台投资成分"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "4.第四五六章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-85",
+        "type": "single",
+        "chapter": "第六章",
+        "stem": "非公有制经济不包括下列哪一项？",
+        "options": [
+          {
+            "key": "A",
+            "text": "个体经济"
+          },
+          {
+            "key": "B",
+            "text": "私营经济"
+          },
+          {
+            "key": "C",
+            "text": "国有经济"
+          },
+          {
+            "key": "D",
+            "text": "外商投资经济"
           }
         ],
         "answer": "C",
         "sources": [
-          "第七到十章选择题(1).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-18",
+        "id": "single-86",
         "type": "single",
-        "chapter": "第七到十章",
-        "stem": "育人的根本在于：",
+        "chapter": "第六章",
+        "stem": "我国分配制度坚持：",
         "options": [
           {
             "key": "A",
-            "text": "立德"
+            "text": "按需分配为主体、多种分配方式并存"
           },
           {
             "key": "B",
-            "text": "立功"
+            "text": "按劳分配为主体、多种分配方式并存"
           },
           {
             "key": "C",
-            "text": "立言"
+            "text": "按资本分配为主体、按劳分配为补充"
           },
           {
             "key": "D",
-            "text": "立业"
+            "text": "平均分配为主体、差别分配为补充"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "4.第四五六章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-87",
+        "type": "single",
+        "chapter": "第六章",
+        "stem": "构建高水平社会主义市场经济体制，关键是要处理好：",
+        "options": [
+          {
+            "key": "A",
+            "text": "中央和地方的关系"
+          },
+          {
+            "key": "B",
+            "text": "政府和市场的关系"
+          },
+          {
+            "key": "C",
+            "text": "城市和农村的关系"
+          },
+          {
+            "key": "D",
+            "text": "改革和稳定的关系"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "4.第四五六章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-88",
+        "type": "single",
+        "chapter": "第六章",
+        "stem": "在资源配置中起决定性作用的是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "政府"
+          },
+          {
+            "key": "B",
+            "text": "市场"
+          },
+          {
+            "key": "C",
+            "text": "企业"
+          },
+          {
+            "key": "D",
+            "text": "社会组织"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "4.第四五六章选择题(3).docx"
+        ]
+      },
+      {
+        "id": "single-89",
+        "type": "single",
+        "chapter": "第六章",
+        "stem": "在社会主义市场经济体制下，资本是带动各类生产要素集聚配置的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "重要纽带"
+          },
+          {
+            "key": "B",
+            "text": "根本目的"
+          },
+          {
+            "key": "C",
+            "text": "唯一标准"
+          },
+          {
+            "key": "D",
+            "text": "政治原则"
           }
         ],
         "answer": "A",
         "sources": [
-          "第七到十章选择题(1).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-19",
+        "id": "single-90",
         "type": "single",
-        "chapter": "第七到十章",
-        "stem": "关键核心技术被称为：",
+        "chapter": "第六章",
+        "stem": "构建新发展格局最本质的特征是实现：",
         "options": [
           {
             "key": "A",
-            "text": "国之根基"
+            "text": "高速度增长"
           },
           {
             "key": "B",
-            "text": "国之重器"
+            "text": "高水平的自立自强"
           },
           {
             "key": "C",
-            "text": "国之门户"
+            "text": "高强度投资"
           },
           {
             "key": "D",
-            "text": "国之财富"
+            "text": "高比例出口"
           }
         ],
         "answer": "B",
         "sources": [
-          "第七到十章选择题(1).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-20",
+        "id": "single-91",
         "type": "single",
-        "chapter": "第七到十章",
-        "stem": "只有把最关键最核心的技术掌握在自己手中，才能从根本上保障国家经济安全、国防安全和什么安全？",
+        "chapter": "第六章",
+        "stem": "新发展理念是实现高质量发展的：",
         "options": [
           {
             "key": "A",
-            "text": "其他安全"
+            "text": "指导原则"
           },
           {
             "key": "B",
-            "text": "文化安全"
+            "text": "制度基础"
           },
           {
             "key": "C",
-            "text": "交通安全"
+            "text": "根本制度"
           },
           {
             "key": "D",
-            "text": "生态安全"
+            "text": "唯一标准"
           }
         ],
         "answer": "A",
         "sources": [
-          "第七到十章选择题(1).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-21",
+        "id": "single-92",
         "type": "single",
-        "chapter": "第七到十章",
-        "stem": "人才是实现民族振兴、赢得国际竞争主动的：",
+        "chapter": "第六章",
+        "stem": "贯彻新发展理念是关系我国发展全局的一场：",
         "options": [
           {
             "key": "A",
-            "text": "一般资源"
+            "text": "普通调整"
           },
           {
             "key": "B",
-            "text": "战略资源"
+            "text": "深刻变革"
           },
           {
             "key": "C",
-            "text": "物质基础"
+            "text": "局部改革"
           },
           {
             "key": "D",
-            "text": "制度保障"
+            "text": "技术更新"
           }
         ],
         "answer": "B",
         "sources": [
-          "第七到十章选择题(1).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-22",
+        "id": "single-93",
         "type": "single",
-        "chapter": "第七到十章",
-        "stem": "加快教育强国，必须落实什么根本任务？",
+        "chapter": "第六章",
+        "stem": "公有制经济和非公有制经济都是社会主义市场经济的重要组成部分，都是我国经济社会发展的：",
         "options": [
           {
             "key": "A",
-            "text": "提高升学率"
+            "text": "重要基础"
           },
           {
             "key": "B",
-            "text": "扩大教育规模"
+            "text": "根本方向"
           },
           {
             "key": "C",
-            "text": "立德树人"
+            "text": "唯一动力"
           },
           {
             "key": "D",
-            "text": "发展职业教育"
-          }
-        ],
-        "answer": "C",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-23",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "人民民主是社会主义的：",
-        "options": [
-          {
-            "key": "A",
-            "text": "根本任务"
-          },
-          {
-            "key": "B",
-            "text": "生命"
-          },
-          {
-            "key": "C",
-            "text": "重要资源"
-          },
-          {
-            "key": "D",
-            "text": "发展目标"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-24",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "全过程人民民主是社会主义民主政治的：",
-        "options": [
-          {
-            "key": "A",
-            "text": "一般特征"
-          },
-          {
-            "key": "B",
-            "text": "本质属性"
-          },
-          {
-            "key": "C",
-            "text": "基本形式"
-          },
-          {
-            "key": "D",
-            "text": "组织原则"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-25",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "人民民主建立在什么基础之上？",
-        "options": [
-          {
-            "key": "A",
-            "text": "社会主义经济基础"
-          },
-          {
-            "key": "B",
-            "text": "资本主义经济基础"
-          },
-          {
-            "key": "C",
-            "text": "小农经济基础"
-          },
-          {
-            "key": "D",
-            "text": "私有制经济基础"
+            "text": "最高原则"
           }
         ],
         "answer": "A",
         "sources": [
-          "第七到十章选择题(1).docx"
+          "4.第四五六章选择题(3).docx"
         ]
       },
       {
-        "id": "single-26",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "人民民主体现了社会主义国家的性质，反映了什么的本质要求？",
-        "options": [
-          {
-            "key": "A",
-            "text": "市场经济"
-          },
-          {
-            "key": "B",
-            "text": "社会主义制度"
-          },
-          {
-            "key": "C",
-            "text": "国际关系"
-          },
-          {
-            "key": "D",
-            "text": "文化建设"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-27",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "全过程人民民主是最广泛、最真实、最什么的民主？",
-        "options": [
-          {
-            "key": "A",
-            "text": "最直接"
-          },
-          {
-            "key": "B",
-            "text": "最管用"
-          },
-          {
-            "key": "C",
-            "text": "最普遍"
-          },
-          {
-            "key": "D",
-            "text": "最复杂"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-28",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "统一战线是中国共产党夺取革命、建设、改革事业胜利的重要法宝，也是实现什么的重要法宝？",
-        "options": [
-          {
-            "key": "A",
-            "text": "共同富裕"
-          },
-          {
-            "key": "B",
-            "text": "生态文明"
-          },
-          {
-            "key": "C",
-            "text": "中华民族伟大复兴"
-          },
-          {
-            "key": "D",
-            "text": "高质量发展"
-          }
-        ],
-        "answer": "C",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-29",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "全面依法治国是坚持和发展中国特色社会主义的：",
-        "options": [
-          {
-            "key": "A",
-            "text": "本质要求和重要保障"
-          },
-          {
-            "key": "B",
-            "text": "主要矛盾和核心问题"
-          },
-          {
-            "key": "C",
-            "text": "根本任务和最终目标"
-          },
-          {
-            "key": "D",
-            "text": "基本路线和中心工作"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-30",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "全面推进依法治国的总抓手是建设：",
-        "options": [
-          {
-            "key": "A",
-            "text": "社会主义民主政治体系"
-          },
-          {
-            "key": "B",
-            "text": "中国特色社会主义法治体系"
-          },
-          {
-            "key": "C",
-            "text": "社会主义市场经济体系"
-          },
-          {
-            "key": "D",
-            "text": "国家安全体系"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-31",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "把党内法规体系纳入中国特色社会主义法治体系，是我国法治区别于其他国家法治的：",
-        "options": [
-          {
-            "key": "A",
-            "text": "基本条件"
-          },
-          {
-            "key": "B",
-            "text": "鲜明特征"
-          },
-          {
-            "key": "C",
-            "text": "临时措施"
-          },
-          {
-            "key": "D",
-            "text": "主要矛盾"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-32",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "法治中国建设的三大支柱是法治国家、法治政府和：",
-        "options": [
-          {
-            "key": "A",
-            "text": "法治市场"
-          },
-          {
-            "key": "B",
-            "text": "法治社会"
-          },
-          {
-            "key": "C",
-            "text": "法治文化"
-          },
-          {
-            "key": "D",
-            "text": "法治机关"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-33",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "法治国家、法治政府、法治社会三者之间的关系是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "相互割裂、各自独立"
-          },
-          {
-            "key": "B",
-            "text": "相互联系、内在统一"
-          },
-          {
-            "key": "C",
-            "text": "互不影响、并列存在"
-          },
-          {
-            "key": "D",
-            "text": "先后替代、逐步取消"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-34",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "维护社会公平正义的最后一道防线是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "公正司法"
-          },
-          {
-            "key": "B",
-            "text": "严格执法"
-          },
-          {
-            "key": "C",
-            "text": "科学立法"
-          },
-          {
-            "key": "D",
-            "text": "全民守法"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-35",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "“严格公正司法”强调，司法工作的核心价值之一是维护：",
-        "options": [
-          {
-            "key": "A",
-            "text": "经济增长速度"
-          },
-          {
-            "key": "B",
-            "text": "社会公平正义"
-          },
-          {
-            "key": "C",
-            "text": "企业经营效率"
-          },
-          {
-            "key": "D",
-            "text": "地方发展利益"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-36",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "文化是一个国家、一个民族的：",
-        "options": [
-          {
-            "key": "A",
-            "text": "经济基础"
-          },
-          {
-            "key": "B",
-            "text": "灵魂"
-          },
-          {
-            "key": "C",
-            "text": "制度保障"
-          },
-          {
-            "key": "D",
-            "text": "发展速度"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-37",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "党带领人民在伟大斗争中孕育的革命文化和社会主义先进文化，是我们坚定什么的坚强基石？",
-        "options": [
-          {
-            "key": "A",
-            "text": "道路自信"
-          },
-          {
-            "key": "B",
-            "text": "理论自信"
-          },
-          {
-            "key": "C",
-            "text": "文化自信"
-          },
-          {
-            "key": "D",
-            "text": "制度自信"
-          }
-        ],
-        "answer": "C",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-38",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "文化的生命所在、文化的本质特征是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "创新创造"
-          },
-          {
-            "key": "B",
-            "text": "对外传播"
-          },
-          {
-            "key": "C",
-            "text": "传统保存"
-          },
-          {
-            "key": "D",
-            "text": "产业经营"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-39",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "新闻舆论工作的根本原则是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "市场原则"
-          },
-          {
-            "key": "B",
-            "text": "党性原则"
-          },
-          {
-            "key": "C",
-            "text": "技术原则"
-          },
-          {
-            "key": "D",
-            "text": "效率原则"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-40",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "在新的起点上继续推动文化繁荣、建设文化强国、建设中华民族现代文明，是新时代新的：",
-        "options": [
-          {
-            "key": "A",
-            "text": "经济任务"
-          },
-          {
-            "key": "B",
-            "text": "文化使命"
-          },
-          {
-            "key": "C",
-            "text": "政治路线"
-          },
-          {
-            "key": "D",
-            "text": "社会目标"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-41",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "下列哪一项不属于中华文明突出特征？",
-        "options": [
-          {
-            "key": "A",
-            "text": "连续性"
-          },
-          {
-            "key": "B",
-            "text": "创新性"
-          },
-          {
-            "key": "C",
-            "text": "排他性"
-          },
-          {
-            "key": "D",
-            "text": "和平性"
-          }
-        ],
-        "answer": "C",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-42",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "中华文明的突出特征包括连续性、创新性、统一性、包容性和：",
-        "options": [
-          {
-            "key": "A",
-            "text": "竞争性"
-          },
-          {
-            "key": "B",
-            "text": "和平性"
-          },
-          {
-            "key": "C",
-            "text": "封闭性"
-          },
-          {
-            "key": "D",
-            "text": "单一性"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-43",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "文化软实力集中体现了一个国家基于文化而具有的凝聚力和生命力，以及由此产生的：",
-        "options": [
-          {
-            "key": "A",
-            "text": "吸引力和影响力"
-          },
-          {
-            "key": "B",
-            "text": "控制力和命令力"
-          },
-          {
-            "key": "C",
-            "text": "生产力和消费力"
-          },
-          {
-            "key": "D",
-            "text": "组织力和执行力"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-44",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "一个国家的文化软实力，从根本上说，取决于其核心价值观的生命力、凝聚力和：",
-        "options": [
-          {
-            "key": "A",
-            "text": "约束力"
-          },
-          {
-            "key": "B",
-            "text": "感召力"
-          },
-          {
-            "key": "C",
-            "text": "管理力"
-          },
-          {
-            "key": "D",
-            "text": "竞争力"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-45",
-        "type": "single",
-        "chapter": "第七到十章",
-        "stem": "建设社会主义文化强国，必须深刻认识文化对于国家和民族发展的重要作用，因为文化关系到国家和民族的：",
-        "options": [
-          {
-            "key": "A",
-            "text": "灵魂"
-          },
-          {
-            "key": "B",
-            "text": "人口规模"
-          },
-          {
-            "key": "C",
-            "text": "地理位置"
-          },
-          {
-            "key": "D",
-            "text": "自然资源"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第七到十章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "multiple-268",
+        "id": "multiple-389",
         "type": "multiple",
-        "chapter": "第七到十章",
+        "chapter": "第六章",
         "stem": "新发展理念包括哪些内容？",
         "options": [
           {
@@ -10800,9 +13805,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-269",
+        "id": "multiple-390",
         "type": "multiple",
-        "chapter": "第七到十章",
+        "chapter": "第六章",
         "stem": "公有制经济包括哪些成分？",
         "options": [
           {
@@ -10828,9 +13833,218 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-270",
+        "id": "judge-402",
+        "type": "judge",
+        "chapter": "第六章",
+        "stem": "高质量发展是全面建设社会主义现代化国家的首要任务。",
+        "options": [],
+        "answer": "正确",
+        "sources": [
+          "习思想重点.docx"
+        ]
+      }
+    ],
+    "第七章": [
+      {
+        "id": "single-94",
+        "type": "single",
+        "chapter": "第七章",
+        "stem": "教育、科技、人才是全面建设社会主义现代化国家的什么支撑？",
+        "options": [
+          {
+            "key": "A",
+            "text": "一般性、辅助性支撑"
+          },
+          {
+            "key": "B",
+            "text": "基础性、战略性支撑"
+          },
+          {
+            "key": "C",
+            "text": "阶段性、临时性支撑"
+          },
+          {
+            "key": "D",
+            "text": "区域性、局部性支撑"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-95",
+        "type": "single",
+        "chapter": "第七章",
+        "stem": "全面建设社会主义现代化国家，必须坚持科技是第一生产力、人才是第一资源、什么是第一动力？",
+        "options": [
+          {
+            "key": "A",
+            "text": "改革"
+          },
+          {
+            "key": "B",
+            "text": "开放"
+          },
+          {
+            "key": "C",
+            "text": "创新"
+          },
+          {
+            "key": "D",
+            "text": "文化"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-96",
+        "type": "single",
+        "chapter": "第七章",
+        "stem": "育人的根本在于：",
+        "options": [
+          {
+            "key": "A",
+            "text": "立德"
+          },
+          {
+            "key": "B",
+            "text": "立功"
+          },
+          {
+            "key": "C",
+            "text": "立言"
+          },
+          {
+            "key": "D",
+            "text": "立业"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-97",
+        "type": "single",
+        "chapter": "第七章",
+        "stem": "关键核心技术被称为：",
+        "options": [
+          {
+            "key": "A",
+            "text": "国之根基"
+          },
+          {
+            "key": "B",
+            "text": "国之重器"
+          },
+          {
+            "key": "C",
+            "text": "国之门户"
+          },
+          {
+            "key": "D",
+            "text": "国之财富"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-98",
+        "type": "single",
+        "chapter": "第七章",
+        "stem": "只有把最关键最核心的技术掌握在自己手中，才能从根本上保障国家经济安全、国防安全和什么安全？",
+        "options": [
+          {
+            "key": "A",
+            "text": "其他安全"
+          },
+          {
+            "key": "B",
+            "text": "文化安全"
+          },
+          {
+            "key": "C",
+            "text": "交通安全"
+          },
+          {
+            "key": "D",
+            "text": "生态安全"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-99",
+        "type": "single",
+        "chapter": "第七章",
+        "stem": "人才是实现民族振兴、赢得国际竞争主动的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "一般资源"
+          },
+          {
+            "key": "B",
+            "text": "战略资源"
+          },
+          {
+            "key": "C",
+            "text": "物质基础"
+          },
+          {
+            "key": "D",
+            "text": "制度保障"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-100",
+        "type": "single",
+        "chapter": "第七章",
+        "stem": "加快教育强国，必须落实什么根本任务？",
+        "options": [
+          {
+            "key": "A",
+            "text": "提高升学率"
+          },
+          {
+            "key": "B",
+            "text": "扩大教育规模"
+          },
+          {
+            "key": "C",
+            "text": "立德树人"
+          },
+          {
+            "key": "D",
+            "text": "发展职业教育"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "multiple-391",
         "type": "multiple",
-        "chapter": "第七到十章",
+        "chapter": "第七章",
         "stem": "教育、科技、人才被定位为什么？",
         "options": [
           {
@@ -10856,9 +14070,190 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-271",
+        "id": "judge-403",
+        "type": "judge",
+        "chapter": "第七章",
+        "stem": "教育、科技、人才只是经济工作的辅助条件，不属于现代化建设的战略性支撑。",
+        "options": [],
+        "answer": "错误",
+        "sources": [
+          "习思想重点.docx"
+        ]
+      }
+    ],
+    "第八章": [
+      {
+        "id": "single-101",
+        "type": "single",
+        "chapter": "第八章",
+        "stem": "人民民主是社会主义的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "根本任务"
+          },
+          {
+            "key": "B",
+            "text": "生命"
+          },
+          {
+            "key": "C",
+            "text": "重要资源"
+          },
+          {
+            "key": "D",
+            "text": "发展目标"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-102",
+        "type": "single",
+        "chapter": "第八章",
+        "stem": "全过程人民民主是社会主义民主政治的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "一般特征"
+          },
+          {
+            "key": "B",
+            "text": "本质属性"
+          },
+          {
+            "key": "C",
+            "text": "基本形式"
+          },
+          {
+            "key": "D",
+            "text": "组织原则"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-103",
+        "type": "single",
+        "chapter": "第八章",
+        "stem": "人民民主建立在什么基础之上？",
+        "options": [
+          {
+            "key": "A",
+            "text": "社会主义经济基础"
+          },
+          {
+            "key": "B",
+            "text": "资本主义经济基础"
+          },
+          {
+            "key": "C",
+            "text": "小农经济基础"
+          },
+          {
+            "key": "D",
+            "text": "私有制经济基础"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-104",
+        "type": "single",
+        "chapter": "第八章",
+        "stem": "人民民主体现了社会主义国家的性质，反映了什么的本质要求？",
+        "options": [
+          {
+            "key": "A",
+            "text": "市场经济"
+          },
+          {
+            "key": "B",
+            "text": "社会主义制度"
+          },
+          {
+            "key": "C",
+            "text": "国际关系"
+          },
+          {
+            "key": "D",
+            "text": "文化建设"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-105",
+        "type": "single",
+        "chapter": "第八章",
+        "stem": "全过程人民民主是最广泛、最真实、最什么的民主？",
+        "options": [
+          {
+            "key": "A",
+            "text": "最直接"
+          },
+          {
+            "key": "B",
+            "text": "最管用"
+          },
+          {
+            "key": "C",
+            "text": "最普遍"
+          },
+          {
+            "key": "D",
+            "text": "最复杂"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-106",
+        "type": "single",
+        "chapter": "第八章",
+        "stem": "统一战线是中国共产党夺取革命、建设、改革事业胜利的重要法宝，也是实现什么的重要法宝？",
+        "options": [
+          {
+            "key": "A",
+            "text": "共同富裕"
+          },
+          {
+            "key": "B",
+            "text": "生态文明"
+          },
+          {
+            "key": "C",
+            "text": "中华民族伟大复兴"
+          },
+          {
+            "key": "D",
+            "text": "高质量发展"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "multiple-392",
         "type": "multiple",
-        "chapter": "第七到十章",
+        "chapter": "第八章",
         "stem": "全过程人民民主的相关表述，正确的有哪些？",
         "options": [
           {
@@ -10882,33 +14277,209 @@ window.QUESTION_BANK = {
         "sources": [
           "习思想重点.docx"
         ]
-      },
+      }
+    ],
+    "第九章": [
       {
-        "id": "judge-281",
-        "type": "judge",
-        "chapter": "第七到十章",
-        "stem": "高质量发展是全面建设社会主义现代化国家的首要任务。",
-        "options": [],
-        "answer": "正确",
+        "id": "single-107",
+        "type": "single",
+        "chapter": "第九章",
+        "stem": "全面依法治国是坚持和发展中国特色社会主义的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "本质要求和重要保障"
+          },
+          {
+            "key": "B",
+            "text": "主要矛盾和核心问题"
+          },
+          {
+            "key": "C",
+            "text": "根本任务和最终目标"
+          },
+          {
+            "key": "D",
+            "text": "基本路线和中心工作"
+          }
+        ],
+        "answer": "A",
         "sources": [
-          "习思想重点.docx"
+          "5.第七到十章选择题(1).docx"
         ]
       },
       {
-        "id": "judge-282",
-        "type": "judge",
-        "chapter": "第七到十章",
-        "stem": "教育、科技、人才只是经济工作的辅助条件，不属于现代化建设的战略性支撑。",
-        "options": [],
-        "answer": "错误",
+        "id": "single-108",
+        "type": "single",
+        "chapter": "第九章",
+        "stem": "全面推进依法治国的总抓手是建设：",
+        "options": [
+          {
+            "key": "A",
+            "text": "社会主义民主政治体系"
+          },
+          {
+            "key": "B",
+            "text": "中国特色社会主义法治体系"
+          },
+          {
+            "key": "C",
+            "text": "社会主义市场经济体系"
+          },
+          {
+            "key": "D",
+            "text": "国家安全体系"
+          }
+        ],
+        "answer": "B",
         "sources": [
-          "习思想重点.docx"
+          "5.第七到十章选择题(1).docx"
         ]
       },
       {
-        "id": "judge-283",
+        "id": "single-109",
+        "type": "single",
+        "chapter": "第九章",
+        "stem": "把党内法规体系纳入中国特色社会主义法治体系，是我国法治区别于其他国家法治的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "基本条件"
+          },
+          {
+            "key": "B",
+            "text": "鲜明特征"
+          },
+          {
+            "key": "C",
+            "text": "临时措施"
+          },
+          {
+            "key": "D",
+            "text": "主要矛盾"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-110",
+        "type": "single",
+        "chapter": "第九章",
+        "stem": "法治中国建设的三大支柱是法治国家、法治政府和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "法治市场"
+          },
+          {
+            "key": "B",
+            "text": "法治社会"
+          },
+          {
+            "key": "C",
+            "text": "法治文化"
+          },
+          {
+            "key": "D",
+            "text": "法治机关"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-111",
+        "type": "single",
+        "chapter": "第九章",
+        "stem": "法治国家、法治政府、法治社会三者之间的关系是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "相互割裂、各自独立"
+          },
+          {
+            "key": "B",
+            "text": "相互联系、内在统一"
+          },
+          {
+            "key": "C",
+            "text": "互不影响、并列存在"
+          },
+          {
+            "key": "D",
+            "text": "先后替代、逐步取消"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-112",
+        "type": "single",
+        "chapter": "第九章",
+        "stem": "维护社会公平正义的最后一道防线是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "公正司法"
+          },
+          {
+            "key": "B",
+            "text": "严格执法"
+          },
+          {
+            "key": "C",
+            "text": "科学立法"
+          },
+          {
+            "key": "D",
+            "text": "全民守法"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-113",
+        "type": "single",
+        "chapter": "第九章",
+        "stem": "“严格公正司法”强调，司法工作的核心价值之一是维护：",
+        "options": [
+          {
+            "key": "A",
+            "text": "经济增长速度"
+          },
+          {
+            "key": "B",
+            "text": "社会公平正义"
+          },
+          {
+            "key": "C",
+            "text": "企业经营效率"
+          },
+          {
+            "key": "D",
+            "text": "地方发展利益"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "judge-404",
         "type": "judge",
-        "chapter": "第七到十章",
+        "chapter": "第九章",
         "stem": "公正司法是维护社会公平正义的最后一道防线。",
         "options": [],
         "answer": "正确",
@@ -10917,851 +14488,291 @@ window.QUESTION_BANK = {
         ]
       }
     ],
-    "第十一到十四章": [
+    "第十章": [
       {
-        "id": "single-73",
+        "id": "single-114",
         "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "全面建设社会主义现代化国家的出发点和落脚点是（ ）。",
+        "chapter": "第十章",
+        "stem": "文化是一个国家、一个民族的：",
         "options": [
           {
             "key": "A",
-            "text": "实现经济高速增长"
+            "text": "经济基础"
           },
           {
             "key": "B",
-            "text": "让人民生活越过越好"
+            "text": "灵魂"
           },
           {
             "key": "C",
-            "text": "扩大对外开放水平"
+            "text": "制度保障"
           },
           {
             "key": "D",
-            "text": "提高国际竞争力"
+            "text": "发展速度"
           }
         ],
         "answer": "B",
         "sources": [
-          "第十一到十四章选择题(1).docx"
+          "5.第七到十章选择题(1).docx"
         ]
       },
       {
-        "id": "single-74",
+        "id": "single-115",
         "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "社会主义生产的根本目的在于（ ）。",
+        "chapter": "第十章",
+        "stem": "党带领人民在伟大斗争中孕育的革命文化和社会主义先进文化，是我们坚定什么的坚强基石？",
         "options": [
           {
             "key": "A",
-            "text": "扩大生产规模"
+            "text": "道路自信"
           },
           {
             "key": "B",
-            "text": "增加财政收入"
+            "text": "理论自信"
           },
           {
             "key": "C",
-            "text": "增进民生福祉"
+            "text": "文化自信"
           },
           {
             "key": "D",
-            "text": "提升出口能力"
+            "text": "制度自信"
           }
         ],
         "answer": "C",
         "sources": [
-          "第十一到十四章选择题(1).docx"
+          "5.第七到十章选择题(1).docx"
         ]
       },
       {
-        "id": "single-75",
+        "id": "single-116",
         "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "促进共同富裕的基础性制度是（ ）。",
+        "chapter": "第十章",
+        "stem": "文化的生命所在、文化的本质特征是：",
         "options": [
           {
             "key": "A",
-            "text": "分配制度"
+            "text": "创新创造"
           },
           {
             "key": "B",
-            "text": "户籍制度"
+            "text": "对外传播"
           },
           {
             "key": "C",
-            "text": "金融制度"
+            "text": "传统保存"
           },
           {
             "key": "D",
-            "text": "监察制度"
+            "text": "产业经营"
           }
         ],
         "answer": "A",
         "sources": [
-          "第十一到十四章选择题(1).docx"
+          "5.第七到十章选择题(1).docx"
         ]
       },
       {
-        "id": "single-76",
+        "id": "single-117",
         "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "最大的民生工程、民心工程、根基工程是（ ）。",
+        "chapter": "第十章",
+        "stem": "新闻舆论工作的根本原则是：",
         "options": [
           {
             "key": "A",
-            "text": "教育"
+            "text": "市场原则"
           },
           {
             "key": "B",
-            "text": "就业"
+            "text": "党性原则"
           },
           {
             "key": "C",
-            "text": "医疗"
+            "text": "技术原则"
           },
           {
             "key": "D",
-            "text": "住房"
+            "text": "效率原则"
           }
         ],
         "answer": "B",
         "sources": [
-          "第十一到十四章选择题(1).docx"
+          "5.第七到十章选择题(1).docx"
         ]
       },
       {
-        "id": "single-77",
+        "id": "single-118",
         "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "党的十九大进一步提出打造的社会治理格局是（ ）。",
+        "chapter": "第十章",
+        "stem": "在新的起点上继续推动文化繁荣、建设文化强国、建设中华民族现代文明，是新时代新的：",
         "options": [
           {
             "key": "A",
-            "text": "共商共建共享"
+            "text": "经济任务"
           },
           {
             "key": "B",
-            "text": "共建共治共享"
+            "text": "文化使命"
           },
           {
             "key": "C",
-            "text": "共抓共管共享"
+            "text": "政治路线"
           },
           {
             "key": "D",
-            "text": "共治共管共赢"
+            "text": "社会目标"
           }
         ],
         "answer": "B",
         "sources": [
-          "第十一到十四章选择题(1).docx"
+          "5.第七到十章选择题(1).docx"
         ]
       },
       {
-        "id": "single-78",
+        "id": "single-119",
         "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "新时代加强和创新社会治理，要求坚持系统治理、依法治理、综合治理和（ ）。",
+        "chapter": "第十章",
+        "stem": "下列哪一项不属于中华文明突出特征？",
         "options": [
           {
             "key": "A",
-            "text": "源头治理"
+            "text": "连续性"
           },
           {
             "key": "B",
-            "text": "末端治理"
+            "text": "创新性"
           },
           {
             "key": "C",
-            "text": "分散治理"
+            "text": "排他性"
           },
           {
             "key": "D",
-            "text": "经验治理"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-79",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "下列不属于新时代加强和创新社会治理要求的是（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "系统治理"
-          },
-          {
-            "key": "B",
-            "text": "依法治理"
-          },
-          {
-            "key": "C",
-            "text": "综合治理"
-          },
-          {
-            "key": "D",
-            "text": "粗放治理"
-          }
-        ],
-        "answer": "D",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-80",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "生态环境问题归根到底是（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "技术水平问题"
-          },
-          {
-            "key": "B",
-            "text": "经济发展方式和生活方式问题"
-          },
-          {
-            "key": "C",
-            "text": "资源储量问题"
-          },
-          {
-            "key": "D",
-            "text": "城市规模问题"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-81",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "“绿水青山就是金山银山”阐明的是（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "经济发展与生态环境保护之间的关系"
-          },
-          {
-            "key": "B",
-            "text": "城市建设与人口增长之间的关系"
-          },
-          {
-            "key": "C",
-            "text": "科技创新与教育发展之间的关系"
-          },
-          {
-            "key": "D",
-            "text": "文化建设与旅游开发之间的关系"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-82",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "良好的生态环境是最公平的公共产品，是最普惠的（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "经济资源"
-          },
-          {
-            "key": "B",
-            "text": "民生福祉"
-          },
-          {
-            "key": "C",
-            "text": "社会资本"
-          },
-          {
-            "key": "D",
-            "text": "发展红利"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-83",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "建设美丽中国，是全面建设社会主义现代化国家的（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "根本制度"
-          },
-          {
-            "key": "B",
-            "text": "重要目标"
-          },
-          {
-            "key": "C",
-            "text": "唯一任务"
-          },
-          {
-            "key": "D",
-            "text": "基本路线"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-84",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "绿色发展，就其要义来讲，是要解决好（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "人与自然和谐共生问题"
-          },
-          {
-            "key": "B",
-            "text": "城乡发展速度问题"
-          },
-          {
-            "key": "C",
-            "text": "区域人口流动问题"
-          },
-          {
-            "key": "D",
-            "text": "产业结构单一问题"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-85",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "生态文明建设的重中之重是（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "工程建设"
-          },
-          {
-            "key": "B",
-            "text": "制度建设"
-          },
-          {
-            "key": "C",
-            "text": "指标建设"
-          },
-          {
-            "key": "D",
-            "text": "宣传建设"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-86",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "下列关于良好生态环境的表述，正确的是（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "是最公平的公共产品"
-          },
-          {
-            "key": "B",
-            "text": "只属于少数地区的福利"
-          },
-          {
-            "key": "C",
-            "text": "与民生福祉无关"
-          },
-          {
-            "key": "D",
-            "text": "主要取决于资源进口"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-87",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "“绿水青山就是金山银山”理念强调，发展经济必须正确处理（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "经济发展与生态环境保护的关系"
-          },
-          {
-            "key": "B",
-            "text": "财政收入与货币政策的关系"
-          },
-          {
-            "key": "C",
-            "text": "国内市场与国际市场的关系"
-          },
-          {
-            "key": "D",
-            "text": "传统产业与新兴产业的关系"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-88",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "总体国家安全观以（ ）为宗旨。",
-        "options": [
-          {
-            "key": "A",
-            "text": "经济安全"
-          },
-          {
-            "key": "B",
-            "text": "人民安全"
-          },
-          {
-            "key": "C",
-            "text": "军事安全"
-          },
-          {
-            "key": "D",
-            "text": "科技安全"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-89",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "总体国家安全观以（ ）为根本。",
-        "options": [
-          {
-            "key": "A",
-            "text": "政治安全"
-          },
-          {
-            "key": "B",
-            "text": "文化安全"
-          },
-          {
-            "key": "C",
-            "text": "社会安全"
-          },
-          {
-            "key": "D",
-            "text": "生态安全"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-90",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "总体国家安全观以（ ）为基础。",
-        "options": [
-          {
-            "key": "A",
-            "text": "军事安全"
-          },
-          {
-            "key": "B",
-            "text": "经济安全"
-          },
-          {
-            "key": "C",
-            "text": "网络安全"
-          },
-          {
-            "key": "D",
-            "text": "资源安全"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-91",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "维护国家安全要贯穿党和国家工作（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "经济领域全过程"
-          },
-          {
-            "key": "B",
-            "text": "重点地区全过程"
-          },
-          {
-            "key": "C",
-            "text": "各方面全过程"
-          },
-          {
-            "key": "D",
-            "text": "基层治理全过程"
+            "text": "和平性"
           }
         ],
         "answer": "C",
         "sources": [
-          "第十一到十四章选择题(1).docx"
+          "5.第七到十章选择题(1).docx"
         ]
       },
       {
-        "id": "single-92",
+        "id": "single-120",
         "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "国家安全的根本是（ ）。",
+        "chapter": "第十章",
+        "stem": "中华文明的突出特征包括连续性、创新性、统一性、包容性和：",
         "options": [
           {
             "key": "A",
-            "text": "政治安全"
+            "text": "竞争性"
           },
           {
             "key": "B",
-            "text": "粮食安全"
+            "text": "和平性"
           },
           {
             "key": "C",
-            "text": "文化安全"
+            "text": "封闭性"
           },
           {
             "key": "D",
-            "text": "生态安全"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-93",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "政治安全涉及国家主权、政权、制度和（ ）的稳固。",
-        "options": [
-          {
-            "key": "A",
-            "text": "资源供给"
-          },
-          {
-            "key": "B",
-            "text": "意识形态"
-          },
-          {
-            "key": "C",
-            "text": "市场价格"
-          },
-          {
-            "key": "D",
-            "text": "产业链条"
+            "text": "单一性"
           }
         ],
         "answer": "B",
         "sources": [
-          "第十一到十四章选择题(1).docx"
+          "5.第七到十章选择题(1).docx"
         ]
       },
       {
-        "id": "single-94",
+        "id": "single-121",
         "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "构建统筹各领域安全的新安全格局，维护重点领域国家安全是（ ）。",
+        "chapter": "第十章",
+        "stem": "文化软实力集中体现了一个国家基于文化而具有的凝聚力和生命力，以及由此产生的：",
         "options": [
           {
             "key": "A",
-            "text": "主阵地、主战场"
+            "text": "吸引力和影响力"
           },
           {
             "key": "B",
-            "text": "总目标、总任务"
+            "text": "控制力和命令力"
           },
           {
             "key": "C",
-            "text": "出发点、落脚点"
+            "text": "生产力和消费力"
           },
           {
             "key": "D",
-            "text": "生命线、幸福线"
+            "text": "组织力和执行力"
           }
         ],
         "answer": "A",
         "sources": [
-          "第十一到十四章选择题(1).docx"
+          "5.第七到十章选择题(1).docx"
         ]
       },
       {
-        "id": "single-95",
+        "id": "single-122",
         "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "平安是老百姓解决温饱后的第一需求，是极重要的民生，也是（ ）。",
+        "chapter": "第十章",
+        "stem": "一个国家的文化软实力，从根本上说，取决于其核心价值观的生命力、凝聚力和：",
         "options": [
           {
             "key": "A",
-            "text": "最基本的发展环境"
+            "text": "约束力"
           },
           {
             "key": "B",
-            "text": "最高层次的文化需求"
+            "text": "感召力"
           },
           {
             "key": "C",
-            "text": "最主要的经济指标"
+            "text": "管理力"
           },
           {
             "key": "D",
-            "text": "最核心的外交目标"
+            "text": "竞争力"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "5.第七到十章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-123",
+        "type": "single",
+        "chapter": "第十章",
+        "stem": "建设社会主义文化强国，必须深刻认识文化对于国家和民族发展的重要作用，因为文化关系到国家和民族的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "灵魂"
+          },
+          {
+            "key": "B",
+            "text": "人口规模"
+          },
+          {
+            "key": "C",
+            "text": "地理位置"
+          },
+          {
+            "key": "D",
+            "text": "自然资源"
           }
         ],
         "answer": "A",
         "sources": [
-          "第十一到十四章选择题(1).docx"
+          "5.第七到十章选择题(1).docx"
         ]
       },
       {
-        "id": "single-96",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "党在新时代的强军目标是建设一支听党指挥、能打胜仗、（ ）的人民军队。",
-        "options": [
-          {
-            "key": "A",
-            "text": "装备先进"
-          },
-          {
-            "key": "B",
-            "text": "规模庞大"
-          },
-          {
-            "key": "C",
-            "text": "作风优良"
-          },
-          {
-            "key": "D",
-            "text": "纪律松弛"
-          }
-        ],
-        "answer": "C",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-97",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "党在新时代的强军目标要求把人民军队建设成为（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "地区一流军队"
-          },
-          {
-            "key": "B",
-            "text": "世界一流军队"
-          },
-          {
-            "key": "C",
-            "text": "经济建设主力军"
-          },
-          {
-            "key": "D",
-            "text": "国际贸易保障队"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-98",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "党的十九大提出，确保到2020年基本实现（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "机械化"
-          },
-          {
-            "key": "B",
-            "text": "现代化"
-          },
-          {
-            "key": "C",
-            "text": "智能化"
-          },
-          {
-            "key": "D",
-            "text": "全球化"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-99",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "党的十九大提出，力争到2035年基本实现（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "全面建成世界一流军队"
-          },
-          {
-            "key": "B",
-            "text": "国防和军队现代化"
-          },
-          {
-            "key": "C",
-            "text": "军队完全信息化"
-          },
-          {
-            "key": "D",
-            "text": "军民融合全球化"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-100",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "党的十九大提出，到本世纪中叶把人民军队全面建成（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "现代化经济力量"
-          },
-          {
-            "key": "B",
-            "text": "世界一流军队"
-          },
-          {
-            "key": "C",
-            "text": "地区安全组织"
-          },
-          {
-            "key": "D",
-            "text": "科技创新平台"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-101",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "坚持党对人民军队绝对领导的根本制度和根本实现形式是（ ）。",
-        "options": [
-          {
-            "key": "A",
-            "text": "军委主席负责制"
-          },
-          {
-            "key": "B",
-            "text": "行政首长负责制"
-          },
-          {
-            "key": "C",
-            "text": "地方党委负责制"
-          },
-          {
-            "key": "D",
-            "text": "部门分工负责制"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "single-102",
-        "type": "single",
-        "chapter": "第十一到十四章",
-        "stem": "有效履行人民军队根本职能、提高军队建设质量和效益，必须把（ ）作为唯一的根本的标准。",
-        "options": [
-          {
-            "key": "A",
-            "text": "装备数量"
-          },
-          {
-            "key": "B",
-            "text": "战斗力"
-          },
-          {
-            "key": "C",
-            "text": "人员规模"
-          },
-          {
-            "key": "D",
-            "text": "训练时间"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十一到十四章选择题(1).docx"
-        ]
-      },
-      {
-        "id": "multiple-272",
+        "id": "multiple-393",
         "type": "multiple",
-        "chapter": "第十一到十四章",
+        "chapter": "第十章",
         "stem": "中华文明的突出特性包括哪些？",
         "options": [
           {
@@ -11785,11 +14796,672 @@ window.QUESTION_BANK = {
         "sources": [
           "习思想重点.docx"
         ]
+      }
+    ],
+    "第十一章": [
+      {
+        "id": "single-124",
+        "type": "single",
+        "chapter": "第十一章",
+        "stem": "全面建设社会主义现代化国家的出发点和落脚点是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "实现经济高速增长"
+          },
+          {
+            "key": "B",
+            "text": "让人民生活越过越好"
+          },
+          {
+            "key": "C",
+            "text": "扩大对外开放水平"
+          },
+          {
+            "key": "D",
+            "text": "提高国际竞争力"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
       },
       {
-        "id": "multiple-273",
+        "id": "single-125",
+        "type": "single",
+        "chapter": "第十一章",
+        "stem": "社会主义生产的根本目的在于（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "扩大生产规模"
+          },
+          {
+            "key": "B",
+            "text": "增加财政收入"
+          },
+          {
+            "key": "C",
+            "text": "增进民生福祉"
+          },
+          {
+            "key": "D",
+            "text": "提升出口能力"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-126",
+        "type": "single",
+        "chapter": "第十一章",
+        "stem": "促进共同富裕的基础性制度是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "分配制度"
+          },
+          {
+            "key": "B",
+            "text": "户籍制度"
+          },
+          {
+            "key": "C",
+            "text": "金融制度"
+          },
+          {
+            "key": "D",
+            "text": "监察制度"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-127",
+        "type": "single",
+        "chapter": "第十一章",
+        "stem": "最大的民生工程、民心工程、根基工程是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "教育"
+          },
+          {
+            "key": "B",
+            "text": "就业"
+          },
+          {
+            "key": "C",
+            "text": "医疗"
+          },
+          {
+            "key": "D",
+            "text": "住房"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-128",
+        "type": "single",
+        "chapter": "第十一章",
+        "stem": "党的十九大进一步提出打造的社会治理格局是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "共商共建共享"
+          },
+          {
+            "key": "B",
+            "text": "共建共治共享"
+          },
+          {
+            "key": "C",
+            "text": "共抓共管共享"
+          },
+          {
+            "key": "D",
+            "text": "共治共管共赢"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-129",
+        "type": "single",
+        "chapter": "第十一章",
+        "stem": "新时代加强和创新社会治理，要求坚持系统治理、依法治理、综合治理和（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "源头治理"
+          },
+          {
+            "key": "B",
+            "text": "末端治理"
+          },
+          {
+            "key": "C",
+            "text": "分散治理"
+          },
+          {
+            "key": "D",
+            "text": "经验治理"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-130",
+        "type": "single",
+        "chapter": "第十一章",
+        "stem": "下列不属于新时代加强和创新社会治理要求的是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "系统治理"
+          },
+          {
+            "key": "B",
+            "text": "依法治理"
+          },
+          {
+            "key": "C",
+            "text": "综合治理"
+          },
+          {
+            "key": "D",
+            "text": "粗放治理"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      }
+    ],
+    "第十二章": [
+      {
+        "id": "single-131",
+        "type": "single",
+        "chapter": "第十二章",
+        "stem": "生态环境问题归根到底是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "技术水平问题"
+          },
+          {
+            "key": "B",
+            "text": "经济发展方式和生活方式问题"
+          },
+          {
+            "key": "C",
+            "text": "资源储量问题"
+          },
+          {
+            "key": "D",
+            "text": "城市规模问题"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-132",
+        "type": "single",
+        "chapter": "第十二章",
+        "stem": "“绿水青山就是金山银山”阐明的是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "经济发展与生态环境保护之间的关系"
+          },
+          {
+            "key": "B",
+            "text": "城市建设与人口增长之间的关系"
+          },
+          {
+            "key": "C",
+            "text": "科技创新与教育发展之间的关系"
+          },
+          {
+            "key": "D",
+            "text": "文化建设与旅游开发之间的关系"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-133",
+        "type": "single",
+        "chapter": "第十二章",
+        "stem": "良好的生态环境是最公平的公共产品，是最普惠的（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "经济资源"
+          },
+          {
+            "key": "B",
+            "text": "民生福祉"
+          },
+          {
+            "key": "C",
+            "text": "社会资本"
+          },
+          {
+            "key": "D",
+            "text": "发展红利"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-134",
+        "type": "single",
+        "chapter": "第十二章",
+        "stem": "建设美丽中国，是全面建设社会主义现代化国家的（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "根本制度"
+          },
+          {
+            "key": "B",
+            "text": "重要目标"
+          },
+          {
+            "key": "C",
+            "text": "唯一任务"
+          },
+          {
+            "key": "D",
+            "text": "基本路线"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-135",
+        "type": "single",
+        "chapter": "第十二章",
+        "stem": "绿色发展，就其要义来讲，是要解决好（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "人与自然和谐共生问题"
+          },
+          {
+            "key": "B",
+            "text": "城乡发展速度问题"
+          },
+          {
+            "key": "C",
+            "text": "区域人口流动问题"
+          },
+          {
+            "key": "D",
+            "text": "产业结构单一问题"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-136",
+        "type": "single",
+        "chapter": "第十二章",
+        "stem": "生态文明建设的重中之重是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "工程建设"
+          },
+          {
+            "key": "B",
+            "text": "制度建设"
+          },
+          {
+            "key": "C",
+            "text": "指标建设"
+          },
+          {
+            "key": "D",
+            "text": "宣传建设"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-137",
+        "type": "single",
+        "chapter": "第十二章",
+        "stem": "下列关于良好生态环境的表述，正确的是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "是最公平的公共产品"
+          },
+          {
+            "key": "B",
+            "text": "只属于少数地区的福利"
+          },
+          {
+            "key": "C",
+            "text": "与民生福祉无关"
+          },
+          {
+            "key": "D",
+            "text": "主要取决于资源进口"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-138",
+        "type": "single",
+        "chapter": "第十二章",
+        "stem": "“绿水青山就是金山银山”理念强调，发展经济必须正确处理（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "经济发展与生态环境保护的关系"
+          },
+          {
+            "key": "B",
+            "text": "财政收入与货币政策的关系"
+          },
+          {
+            "key": "C",
+            "text": "国内市场与国际市场的关系"
+          },
+          {
+            "key": "D",
+            "text": "传统产业与新兴产业的关系"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "judge-405",
+        "type": "judge",
+        "chapter": "第十二章",
+        "stem": "良好生态环境是最公平的公共产品，是最普惠的民生福祉。",
+        "options": [],
+        "answer": "正确",
+        "sources": [
+          "习思想重点.docx"
+        ]
+      }
+    ],
+    "第十三章": [
+      {
+        "id": "single-139",
+        "type": "single",
+        "chapter": "第十三章",
+        "stem": "总体国家安全观以（ ）为宗旨。",
+        "options": [
+          {
+            "key": "A",
+            "text": "经济安全"
+          },
+          {
+            "key": "B",
+            "text": "人民安全"
+          },
+          {
+            "key": "C",
+            "text": "军事安全"
+          },
+          {
+            "key": "D",
+            "text": "科技安全"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-140",
+        "type": "single",
+        "chapter": "第十三章",
+        "stem": "总体国家安全观以（ ）为根本。",
+        "options": [
+          {
+            "key": "A",
+            "text": "政治安全"
+          },
+          {
+            "key": "B",
+            "text": "文化安全"
+          },
+          {
+            "key": "C",
+            "text": "社会安全"
+          },
+          {
+            "key": "D",
+            "text": "生态安全"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-141",
+        "type": "single",
+        "chapter": "第十三章",
+        "stem": "总体国家安全观以（ ）为基础。",
+        "options": [
+          {
+            "key": "A",
+            "text": "军事安全"
+          },
+          {
+            "key": "B",
+            "text": "经济安全"
+          },
+          {
+            "key": "C",
+            "text": "网络安全"
+          },
+          {
+            "key": "D",
+            "text": "资源安全"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-142",
+        "type": "single",
+        "chapter": "第十三章",
+        "stem": "维护国家安全要贯穿党和国家工作（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "经济领域全过程"
+          },
+          {
+            "key": "B",
+            "text": "重点地区全过程"
+          },
+          {
+            "key": "C",
+            "text": "各方面全过程"
+          },
+          {
+            "key": "D",
+            "text": "基层治理全过程"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-143",
+        "type": "single",
+        "chapter": "第十三章",
+        "stem": "国家安全的根本是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "政治安全"
+          },
+          {
+            "key": "B",
+            "text": "粮食安全"
+          },
+          {
+            "key": "C",
+            "text": "文化安全"
+          },
+          {
+            "key": "D",
+            "text": "生态安全"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-144",
+        "type": "single",
+        "chapter": "第十三章",
+        "stem": "政治安全涉及国家主权、政权、制度和（ ）的稳固。",
+        "options": [
+          {
+            "key": "A",
+            "text": "资源供给"
+          },
+          {
+            "key": "B",
+            "text": "意识形态"
+          },
+          {
+            "key": "C",
+            "text": "市场价格"
+          },
+          {
+            "key": "D",
+            "text": "产业链条"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-145",
+        "type": "single",
+        "chapter": "第十三章",
+        "stem": "构建统筹各领域安全的新安全格局，维护重点领域国家安全是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "主阵地、主战场"
+          },
+          {
+            "key": "B",
+            "text": "总目标、总任务"
+          },
+          {
+            "key": "C",
+            "text": "出发点、落脚点"
+          },
+          {
+            "key": "D",
+            "text": "生命线、幸福线"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "single-146",
+        "type": "single",
+        "chapter": "第十三章",
+        "stem": "平安是老百姓解决温饱后的第一需求，是极重要的民生，也是（ ）。",
+        "options": [
+          {
+            "key": "A",
+            "text": "最基本的发展环境"
+          },
+          {
+            "key": "B",
+            "text": "最高层次的文化需求"
+          },
+          {
+            "key": "C",
+            "text": "最主要的经济指标"
+          },
+          {
+            "key": "D",
+            "text": "最核心的外交目标"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "6.第十一到十四章选择题(1).docx"
+        ]
+      },
+      {
+        "id": "multiple-394",
         "type": "multiple",
-        "chapter": "第十一到十四章",
+        "chapter": "第十三章",
         "stem": "总体国家安全观强调哪些原则？",
         "options": [
           {
@@ -11815,20 +15487,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-284",
+        "id": "judge-406",
         "type": "judge",
-        "chapter": "第十一到十四章",
-        "stem": "良好生态环境是最公平的公共产品，是最普惠的民生福祉。",
-        "options": [],
-        "answer": "正确",
-        "sources": [
-          "习思想重点.docx"
-        ]
-      },
-      {
-        "id": "judge-285",
-        "type": "judge",
-        "chapter": "第十一到十四章",
+        "chapter": "第十三章",
         "stem": "政治安全是国家安全的根本。",
         "options": [],
         "answer": "正确",
@@ -11837,851 +15498,207 @@ window.QUESTION_BANK = {
         ]
       }
     ],
-    "第十五到十七章": [
+    "第十四章": [
       {
-        "id": "single-103",
+        "id": "single-147",
         "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "“一国两制”包含了中华文化中的哪一理念？",
+        "chapter": "第十四章",
+        "stem": "党在新时代的强军目标是建设一支听党指挥、能打胜仗、（ ）的人民军队。",
         "options": [
           {
             "key": "A",
-            "text": "仁爱理念"
+            "text": "装备先进"
           },
           {
             "key": "B",
-            "text": "和合理念"
+            "text": "规模庞大"
           },
           {
             "key": "C",
-            "text": "民本理念"
+            "text": "作风优良"
           },
           {
             "key": "D",
-            "text": "诚信理念"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-104",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "“一国两制”体现了怎样的思维方式？",
-        "options": [
-          {
-            "key": "A",
-            "text": "绝对统一、排除差异"
-          },
-          {
-            "key": "B",
-            "text": "尊重差异、求同存异"
-          },
-          {
-            "key": "C",
-            "text": "先破后立、重点突破"
-          },
-          {
-            "key": "D",
-            "text": "自立自强、独立自主"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-105",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "“一国两制”是中华民族为世界什么作出的新贡献？",
-        "options": [
-          {
-            "key": "A",
-            "text": "经济增长与技术革新"
-          },
-          {
-            "key": "B",
-            "text": "文化交流与文明互鉴"
-          },
-          {
-            "key": "C",
-            "text": "和平与发展"
-          },
-          {
-            "key": "D",
-            "text": "安全治理与制度竞争"
+            "text": "纪律松弛"
           }
         ],
         "answer": "C",
         "sources": [
-          "第十五到十七章选择题.docx"
+          "6.第十一到十四章选择题(1).docx"
         ]
       },
       {
-        "id": "single-106",
+        "id": "single-148",
         "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "坚持“一国两制”，必须坚持中央全面管治权和什么相统一？",
+        "chapter": "第十四章",
+        "stem": "党在新时代的强军目标要求把人民军队建设成为（ ）。",
         "options": [
           {
             "key": "A",
-            "text": "地方完全自治权"
+            "text": "地区一流军队"
           },
           {
             "key": "B",
-            "text": "特别行政区高度自治权"
+            "text": "世界一流军队"
           },
           {
             "key": "C",
-            "text": "区域经济管理权"
+            "text": "经济建设主力军"
           },
           {
             "key": "D",
-            "text": "基层社会治理权"
+            "text": "国际贸易保障队"
           }
         ],
         "answer": "B",
         "sources": [
-          "第十五到十七章选择题.docx"
+          "6.第十一到十四章选择题(1).docx"
         ]
       },
       {
-        "id": "single-107",
+        "id": "single-149",
         "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "我国是单一制国家，中央对包括香港、澳门特别行政区在内的所有地方行政区域拥有什么权力？",
+        "chapter": "第十四章",
+        "stem": "党的十九大提出，确保到2020年基本实现（ ）。",
         "options": [
           {
             "key": "A",
-            "text": "部分指导权"
+            "text": "机械化"
           },
           {
             "key": "B",
-            "text": "外交协商权"
+            "text": "现代化"
           },
           {
             "key": "C",
-            "text": "全面管治权"
+            "text": "智能化"
           },
           {
             "key": "D",
-            "text": "临时监督权"
-          }
-        ],
-        "answer": "C",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-108",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "特别行政区管治权必须牢牢掌握在谁手中？",
-        "options": [
-          {
-            "key": "A",
-            "text": "投资者"
-          },
-          {
-            "key": "B",
-            "text": "爱国者"
-          },
-          {
-            "key": "C",
-            "text": "外国机构"
-          },
-          {
-            "key": "D",
-            "text": "地方社团"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-109",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "“爱国者治港”“爱国者治澳”这一原则，事关国家主权、安全、发展利益，也事关香港、澳门的什么？",
-        "options": [
-          {
-            "key": "A",
-            "text": "短期经济增长"
-          },
-          {
-            "key": "B",
-            "text": "长期繁荣稳定"
-          },
-          {
-            "key": "C",
-            "text": "文化产业升级"
-          },
-          {
-            "key": "D",
-            "text": "城市规划调整"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-110",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "推进祖国统一的历史方位是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "在改革开放进程中推进祖国统一"
-          },
-          {
-            "key": "B",
-            "text": "在全球治理进程中推进祖国统一"
-          },
-          {
-            "key": "C",
-            "text": "在中华民族伟大复兴进程中推进祖国统一"
-          },
-          {
-            "key": "D",
-            "text": "在区域协调发展进程中推进祖国统一"
-          }
-        ],
-        "answer": "C",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-111",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "中国特色大国外交建立在正确的历史观、大局观和什么基础之上？",
-        "options": [
-          {
-            "key": "A",
-            "text": "角色观"
-          },
-          {
-            "key": "B",
-            "text": "消费观"
-          },
-          {
-            "key": "C",
-            "text": "生态观"
-          },
-          {
-            "key": "D",
-            "text": "人才观"
+            "text": "全球化"
           }
         ],
         "answer": "A",
         "sources": [
-          "第十五到十七章选择题.docx"
+          "6.第十一到十四章选择题(1).docx"
         ]
       },
       {
-        "id": "single-112",
+        "id": "single-150",
         "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "中国特色大国外交牢牢把握的主线是：",
+        "chapter": "第十四章",
+        "stem": "党的十九大提出，力争到2035年基本实现（ ）。",
         "options": [
           {
             "key": "A",
-            "text": "扩大贸易、提升产能"
+            "text": "全面建成世界一流军队"
           },
           {
             "key": "B",
-            "text": "服务民族复兴、促进人类进步"
+            "text": "国防和军队现代化"
           },
           {
             "key": "C",
-            "text": "发展科技、培养人才"
+            "text": "军队完全信息化"
           },
           {
             "key": "D",
-            "text": "深化改革、扩大开放"
+            "text": "军民融合全球化"
           }
         ],
         "answer": "B",
         "sources": [
-          "第十五到十七章选择题.docx"
+          "6.第十一到十四章选择题(1).docx"
         ]
       },
       {
-        "id": "single-113",
+        "id": "single-151",
         "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "中国特色大国外交全面推进，什么成为引领时代潮流和人类前进方向的鲜明旗帜？",
+        "chapter": "第十四章",
+        "stem": "党的十九大提出，到本世纪中叶把人民军队全面建成（ ）。",
         "options": [
           {
             "key": "A",
-            "text": "全球发展伙伴关系"
+            "text": "现代化经济力量"
           },
           {
             "key": "B",
-            "text": "构建人类命运共同体"
+            "text": "世界一流军队"
           },
           {
             "key": "C",
-            "text": "区域经济一体化"
+            "text": "地区安全组织"
           },
           {
             "key": "D",
-            "text": "国际科技合作"
+            "text": "科技创新平台"
           }
         ],
         "answer": "B",
         "sources": [
-          "第十五到十七章选择题.docx"
+          "6.第十一到十四章选择题(1).docx"
         ]
       },
       {
-        "id": "single-114",
+        "id": "single-152",
         "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "我国对外工作的出发点和落脚点是：",
+        "chapter": "第十四章",
+        "stem": "坚持党对人民军队绝对领导的根本制度和根本实现形式是（ ）。",
         "options": [
           {
             "key": "A",
-            "text": "维护国家主权、安全、发展利益"
+            "text": "军委主席负责制"
           },
           {
             "key": "B",
-            "text": "扩大对外投资规模"
+            "text": "行政首长负责制"
           },
           {
             "key": "C",
-            "text": "提升国际市场占有率"
+            "text": "地方党委负责制"
           },
           {
             "key": "D",
-            "text": "推动文化产品输出"
+            "text": "部门分工负责制"
           }
         ],
         "answer": "A",
         "sources": [
-          "第十五到十七章选择题.docx"
+          "6.第十一到十四章选择题(1).docx"
         ]
       },
       {
-        "id": "single-115",
+        "id": "single-153",
         "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "我国外交的神圣使命是：",
+        "chapter": "第十四章",
+        "stem": "有效履行人民军队根本职能、提高军队建设质量和效益，必须把（ ）作为唯一的根本的标准。",
         "options": [
           {
             "key": "A",
-            "text": "发展新型消费"
+            "text": "装备数量"
           },
           {
             "key": "B",
-            "text": "维护国家主权、安全、发展利益"
+            "text": "战斗力"
           },
           {
             "key": "C",
-            "text": "扩大地方外事活动"
+            "text": "人员规模"
           },
           {
             "key": "D",
-            "text": "提高企业国际竞争力"
+            "text": "训练时间"
           }
         ],
         "answer": "B",
         "sources": [
-          "第十五到十七章选择题.docx"
+          "6.第十一到十四章选择题(1).docx"
         ]
       },
       {
-        "id": "single-116",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "下列哪一组属于全人类共同价值？",
-        "options": [
-          {
-            "key": "A",
-            "text": "和平、发展、公平、正义、民主、自由"
-          },
-          {
-            "key": "B",
-            "text": "富强、民主、文明、和谐、美丽、幸福"
-          },
-          {
-            "key": "C",
-            "text": "创新、协调、绿色、开放、共享"
-          },
-          {
-            "key": "D",
-            "text": "爱国、敬业、诚信、友善、法治、公正"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-117",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "多边主义符合各国人民利益，是维护和平、促进发展的什么？",
-        "options": [
-          {
-            "key": "A",
-            "text": "根本制度"
-          },
-          {
-            "key": "B",
-            "text": "有效路径"
-          },
-          {
-            "key": "C",
-            "text": "唯一标准"
-          },
-          {
-            "key": "D",
-            "text": "基本国策"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-118",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "我国要坚定维护的国际体系是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "以世界银行为核心的国际体系"
-          },
-          {
-            "key": "B",
-            "text": "以联合国为核心的国际体系"
-          },
-          {
-            "key": "C",
-            "text": "以区域组织为核心的国际体系"
-          },
-          {
-            "key": "D",
-            "text": "以跨国公司为核心的国际体系"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-119",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "我国要坚定维护的国际秩序是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "以国际法为基础的国际秩序"
-          },
-          {
-            "key": "B",
-            "text": "以军事同盟为基础的国际秩序"
-          },
-          {
-            "key": "C",
-            "text": "以单边规则为基础的国际秩序"
-          },
-          {
-            "key": "D",
-            "text": "以贸易壁垒为基础的国际秩序"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-120",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "中国特色大国外交的基础中，“三观”不包括下列哪一项？",
-        "options": [
-          {
-            "key": "A",
-            "text": "历史观"
-          },
-          {
-            "key": "B",
-            "text": "大局观"
-          },
-          {
-            "key": "C",
-            "text": "角色观"
-          },
-          {
-            "key": "D",
-            "text": "消费观"
-          }
-        ],
-        "answer": "D",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-121",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "构建人类命运共同体的地位是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "中华优秀传统文化的唯一内容"
-          },
-          {
-            "key": "B",
-            "text": "引领时代潮流和人类前进方向的鲜明旗帜"
-          },
-          {
-            "key": "C",
-            "text": "社会主义市场经济的基本制度"
-          },
-          {
-            "key": "D",
-            "text": "国家治理体系的全部内容"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-122",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "关于维护国家主权、安全、发展利益，下列说法正确的是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "只是经济工作的目标"
-          },
-          {
-            "key": "B",
-            "text": "是我国对外工作的出发点和落脚点"
-          },
-          {
-            "key": "C",
-            "text": "只适用于国防建设领域"
-          },
-          {
-            "key": "D",
-            "text": "与外交工作没有直接关系"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-123",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "把党的建设作为一项伟大工程来推进，是我们党的：",
-        "options": [
-          {
-            "key": "A",
-            "text": "一大创举"
-          },
-          {
-            "key": "B",
-            "text": "一般经验"
-          },
-          {
-            "key": "C",
-            "text": "临时安排"
-          },
-          {
-            "key": "D",
-            "text": "经济任务"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-124",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "党的建设中应当摆在首位的是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "思想建设"
-          },
-          {
-            "key": "B",
-            "text": "组织建设"
-          },
-          {
-            "key": "C",
-            "text": "政治建设"
-          },
-          {
-            "key": "D",
-            "text": "作风建设"
-          }
-        ],
-        "answer": "C",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-125",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "团结统一是党的生命，是党的什么所在？",
-        "options": [
-          {
-            "key": "A",
-            "text": "制度所在"
-          },
-          {
-            "key": "B",
-            "text": "力量所在"
-          },
-          {
-            "key": "C",
-            "text": "目标所在"
-          },
-          {
-            "key": "D",
-            "text": "路线所在"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-126",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "深入推进全面从严治党，必须把什么作为基础性建设？",
-        "options": [
-          {
-            "key": "A",
-            "text": "制度建设"
-          },
-          {
-            "key": "B",
-            "text": "文化建设"
-          },
-          {
-            "key": "C",
-            "text": "思想建设"
-          },
-          {
-            "key": "D",
-            "text": "纪律建设"
-          }
-        ],
-        "answer": "C",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-127",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "作风问题的核心是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "党同人民群众的关系问题"
-          },
-          {
-            "key": "B",
-            "text": "经济增长速度问题"
-          },
-          {
-            "key": "C",
-            "text": "社会分配方式问题"
-          },
-          {
-            "key": "D",
-            "text": "国际交往方式问题"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-128",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "“把权力关进制度的笼子里”强调的是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "削弱制度建设"
-          },
-          {
-            "key": "B",
-            "text": "加强制度制约和监督权力"
-          },
-          {
-            "key": "C",
-            "text": "扩大个人自由裁量"
-          },
-          {
-            "key": "D",
-            "text": "减少监督程序"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-129",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "反腐倡廉的核心是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "宣传教育和文化活动"
-          },
-          {
-            "key": "B",
-            "text": "制度制约和监督权力"
-          },
-          {
-            "key": "C",
-            "text": "经济建设和产业发展"
-          },
-          {
-            "key": "D",
-            "text": "扩大行政审批权限"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-130",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "新时代坚持和发展中国特色社会主义，是一场艰巨而伟大的：",
-        "options": [
-          {
-            "key": "A",
-            "text": "经济改革"
-          },
-          {
-            "key": "B",
-            "text": "科技革命"
-          },
-          {
-            "key": "C",
-            "text": "社会革命"
-          },
-          {
-            "key": "D",
-            "text": "文化运动"
-          }
-        ],
-        "answer": "C",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-131",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "下列关于团结统一的说法正确的是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "团结统一是党的生命，是党的力量所在"
-          },
-          {
-            "key": "B",
-            "text": "团结统一只属于基层治理要求"
-          },
-          {
-            "key": "C",
-            "text": "团结统一是短期工作方法"
-          },
-          {
-            "key": "D",
-            "text": "团结统一与党的建设无关"
-          }
-        ],
-        "answer": "A",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "single-132",
-        "type": "single",
-        "chapter": "第十五到十七章",
-        "stem": "全面从严治党中，思想建设的地位是：",
-        "options": [
-          {
-            "key": "A",
-            "text": "临时性建设"
-          },
-          {
-            "key": "B",
-            "text": "基础性建设"
-          },
-          {
-            "key": "C",
-            "text": "辅助性工作"
-          },
-          {
-            "key": "D",
-            "text": "外部性条件"
-          }
-        ],
-        "answer": "B",
-        "sources": [
-          "第十五到十七章选择题.docx"
-        ]
-      },
-      {
-        "id": "multiple-274",
+        "id": "multiple-395",
         "type": "multiple",
-        "chapter": "第十五到十七章",
+        "chapter": "第十四章",
         "stem": "新时代党的强军目标包括哪些内容？",
         "options": [
           {
@@ -12707,9 +15724,877 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-275",
+        "id": "judge-407",
+        "type": "judge",
+        "chapter": "第十四章",
+        "stem": "军委主席负责制是坚持党对人民军队绝对领导的根本制度和根本实现形式。",
+        "options": [],
+        "answer": "正确",
+        "sources": [
+          "习思想重点.docx"
+        ]
+      }
+    ],
+    "第十五章": [
+      {
+        "id": "single-154",
+        "type": "single",
+        "chapter": "第十五章",
+        "stem": "“一国两制”包含了中华文化中的哪一理念？",
+        "options": [
+          {
+            "key": "A",
+            "text": "仁爱理念"
+          },
+          {
+            "key": "B",
+            "text": "和合理念"
+          },
+          {
+            "key": "C",
+            "text": "民本理念"
+          },
+          {
+            "key": "D",
+            "text": "诚信理念"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-155",
+        "type": "single",
+        "chapter": "第十五章",
+        "stem": "“一国两制”体现了怎样的思维方式？",
+        "options": [
+          {
+            "key": "A",
+            "text": "绝对统一、排除差异"
+          },
+          {
+            "key": "B",
+            "text": "尊重差异、求同存异"
+          },
+          {
+            "key": "C",
+            "text": "先破后立、重点突破"
+          },
+          {
+            "key": "D",
+            "text": "自立自强、独立自主"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-156",
+        "type": "single",
+        "chapter": "第十五章",
+        "stem": "“一国两制”是中华民族为世界什么作出的新贡献？",
+        "options": [
+          {
+            "key": "A",
+            "text": "经济增长与技术革新"
+          },
+          {
+            "key": "B",
+            "text": "文化交流与文明互鉴"
+          },
+          {
+            "key": "C",
+            "text": "和平与发展"
+          },
+          {
+            "key": "D",
+            "text": "安全治理与制度竞争"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-157",
+        "type": "single",
+        "chapter": "第十五章",
+        "stem": "坚持“一国两制”，必须坚持中央全面管治权和什么相统一？",
+        "options": [
+          {
+            "key": "A",
+            "text": "地方完全自治权"
+          },
+          {
+            "key": "B",
+            "text": "特别行政区高度自治权"
+          },
+          {
+            "key": "C",
+            "text": "区域经济管理权"
+          },
+          {
+            "key": "D",
+            "text": "基层社会治理权"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-158",
+        "type": "single",
+        "chapter": "第十五章",
+        "stem": "我国是单一制国家，中央对包括香港、澳门特别行政区在内的所有地方行政区域拥有什么权力？",
+        "options": [
+          {
+            "key": "A",
+            "text": "部分指导权"
+          },
+          {
+            "key": "B",
+            "text": "外交协商权"
+          },
+          {
+            "key": "C",
+            "text": "全面管治权"
+          },
+          {
+            "key": "D",
+            "text": "临时监督权"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-159",
+        "type": "single",
+        "chapter": "第十五章",
+        "stem": "特别行政区管治权必须牢牢掌握在谁手中？",
+        "options": [
+          {
+            "key": "A",
+            "text": "投资者"
+          },
+          {
+            "key": "B",
+            "text": "爱国者"
+          },
+          {
+            "key": "C",
+            "text": "外国机构"
+          },
+          {
+            "key": "D",
+            "text": "地方社团"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-160",
+        "type": "single",
+        "chapter": "第十五章",
+        "stem": "“爱国者治港”“爱国者治澳”这一原则，事关国家主权、安全、发展利益，也事关香港、澳门的什么？",
+        "options": [
+          {
+            "key": "A",
+            "text": "短期经济增长"
+          },
+          {
+            "key": "B",
+            "text": "长期繁荣稳定"
+          },
+          {
+            "key": "C",
+            "text": "文化产业升级"
+          },
+          {
+            "key": "D",
+            "text": "城市规划调整"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-161",
+        "type": "single",
+        "chapter": "第十五章",
+        "stem": "推进祖国统一的历史方位是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "在改革开放进程中推进祖国统一"
+          },
+          {
+            "key": "B",
+            "text": "在全球治理进程中推进祖国统一"
+          },
+          {
+            "key": "C",
+            "text": "在中华民族伟大复兴进程中推进祖国统一"
+          },
+          {
+            "key": "D",
+            "text": "在区域协调发展进程中推进祖国统一"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      }
+    ],
+    "第十六章": [
+      {
+        "id": "single-162",
+        "type": "single",
+        "chapter": "第十六章",
+        "stem": "中国特色大国外交建立在正确的历史观、大局观和什么基础之上？",
+        "options": [
+          {
+            "key": "A",
+            "text": "角色观"
+          },
+          {
+            "key": "B",
+            "text": "消费观"
+          },
+          {
+            "key": "C",
+            "text": "生态观"
+          },
+          {
+            "key": "D",
+            "text": "人才观"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-163",
+        "type": "single",
+        "chapter": "第十六章",
+        "stem": "中国特色大国外交牢牢把握的主线是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "扩大贸易、提升产能"
+          },
+          {
+            "key": "B",
+            "text": "服务民族复兴、促进人类进步"
+          },
+          {
+            "key": "C",
+            "text": "发展科技、培养人才"
+          },
+          {
+            "key": "D",
+            "text": "深化改革、扩大开放"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-164",
+        "type": "single",
+        "chapter": "第十六章",
+        "stem": "中国特色大国外交全面推进，什么成为引领时代潮流和人类前进方向的鲜明旗帜？",
+        "options": [
+          {
+            "key": "A",
+            "text": "全球发展伙伴关系"
+          },
+          {
+            "key": "B",
+            "text": "构建人类命运共同体"
+          },
+          {
+            "key": "C",
+            "text": "区域经济一体化"
+          },
+          {
+            "key": "D",
+            "text": "国际科技合作"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-165",
+        "type": "single",
+        "chapter": "第十六章",
+        "stem": "我国对外工作的出发点和落脚点是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "维护国家主权、安全、发展利益"
+          },
+          {
+            "key": "B",
+            "text": "扩大对外投资规模"
+          },
+          {
+            "key": "C",
+            "text": "提升国际市场占有率"
+          },
+          {
+            "key": "D",
+            "text": "推动文化产品输出"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-166",
+        "type": "single",
+        "chapter": "第十六章",
+        "stem": "我国外交的神圣使命是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "发展新型消费"
+          },
+          {
+            "key": "B",
+            "text": "维护国家主权、安全、发展利益"
+          },
+          {
+            "key": "C",
+            "text": "扩大地方外事活动"
+          },
+          {
+            "key": "D",
+            "text": "提高企业国际竞争力"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-167",
+        "type": "single",
+        "chapter": "第十六章",
+        "stem": "下列哪一组属于全人类共同价值？",
+        "options": [
+          {
+            "key": "A",
+            "text": "和平、发展、公平、正义、民主、自由"
+          },
+          {
+            "key": "B",
+            "text": "富强、民主、文明、和谐、美丽、幸福"
+          },
+          {
+            "key": "C",
+            "text": "创新、协调、绿色、开放、共享"
+          },
+          {
+            "key": "D",
+            "text": "爱国、敬业、诚信、友善、法治、公正"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-168",
+        "type": "single",
+        "chapter": "第十六章",
+        "stem": "多边主义符合各国人民利益，是维护和平、促进发展的什么？",
+        "options": [
+          {
+            "key": "A",
+            "text": "根本制度"
+          },
+          {
+            "key": "B",
+            "text": "有效路径"
+          },
+          {
+            "key": "C",
+            "text": "唯一标准"
+          },
+          {
+            "key": "D",
+            "text": "基本国策"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-169",
+        "type": "single",
+        "chapter": "第十六章",
+        "stem": "我国要坚定维护的国际体系是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "以世界银行为核心的国际体系"
+          },
+          {
+            "key": "B",
+            "text": "以联合国为核心的国际体系"
+          },
+          {
+            "key": "C",
+            "text": "以区域组织为核心的国际体系"
+          },
+          {
+            "key": "D",
+            "text": "以跨国公司为核心的国际体系"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-170",
+        "type": "single",
+        "chapter": "第十六章",
+        "stem": "我国要坚定维护的国际秩序是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "以国际法为基础的国际秩序"
+          },
+          {
+            "key": "B",
+            "text": "以军事同盟为基础的国际秩序"
+          },
+          {
+            "key": "C",
+            "text": "以单边规则为基础的国际秩序"
+          },
+          {
+            "key": "D",
+            "text": "以贸易壁垒为基础的国际秩序"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-171",
+        "type": "single",
+        "chapter": "第十六章",
+        "stem": "中国特色大国外交的基础中，“三观”不包括下列哪一项？",
+        "options": [
+          {
+            "key": "A",
+            "text": "历史观"
+          },
+          {
+            "key": "B",
+            "text": "大局观"
+          },
+          {
+            "key": "C",
+            "text": "角色观"
+          },
+          {
+            "key": "D",
+            "text": "消费观"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-172",
+        "type": "single",
+        "chapter": "第十六章",
+        "stem": "构建人类命运共同体的地位是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "中华优秀传统文化的唯一内容"
+          },
+          {
+            "key": "B",
+            "text": "引领时代潮流和人类前进方向的鲜明旗帜"
+          },
+          {
+            "key": "C",
+            "text": "社会主义市场经济的基本制度"
+          },
+          {
+            "key": "D",
+            "text": "国家治理体系的全部内容"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-173",
+        "type": "single",
+        "chapter": "第十六章",
+        "stem": "关于维护国家主权、安全、发展利益，下列说法正确的是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "只是经济工作的目标"
+          },
+          {
+            "key": "B",
+            "text": "是我国对外工作的出发点和落脚点"
+          },
+          {
+            "key": "C",
+            "text": "只适用于国防建设领域"
+          },
+          {
+            "key": "D",
+            "text": "与外交工作没有直接关系"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "judge-408",
+        "type": "judge",
+        "chapter": "第十六章",
+        "stem": "多边主义不符合各国人民利益，不是维护和平、促进发展的有效路径。",
+        "options": [],
+        "answer": "错误",
+        "sources": [
+          "习思想重点.docx"
+        ]
+      }
+    ],
+    "第十七章": [
+      {
+        "id": "single-174",
+        "type": "single",
+        "chapter": "第十七章",
+        "stem": "把党的建设作为一项伟大工程来推进，是我们党的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "一大创举"
+          },
+          {
+            "key": "B",
+            "text": "一般经验"
+          },
+          {
+            "key": "C",
+            "text": "临时安排"
+          },
+          {
+            "key": "D",
+            "text": "经济任务"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-175",
+        "type": "single",
+        "chapter": "第十七章",
+        "stem": "党的建设中应当摆在首位的是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "思想建设"
+          },
+          {
+            "key": "B",
+            "text": "组织建设"
+          },
+          {
+            "key": "C",
+            "text": "政治建设"
+          },
+          {
+            "key": "D",
+            "text": "作风建设"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-176",
+        "type": "single",
+        "chapter": "第十七章",
+        "stem": "团结统一是党的生命，是党的什么所在？",
+        "options": [
+          {
+            "key": "A",
+            "text": "制度所在"
+          },
+          {
+            "key": "B",
+            "text": "力量所在"
+          },
+          {
+            "key": "C",
+            "text": "目标所在"
+          },
+          {
+            "key": "D",
+            "text": "路线所在"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-177",
+        "type": "single",
+        "chapter": "第十七章",
+        "stem": "深入推进全面从严治党，必须把什么作为基础性建设？",
+        "options": [
+          {
+            "key": "A",
+            "text": "制度建设"
+          },
+          {
+            "key": "B",
+            "text": "文化建设"
+          },
+          {
+            "key": "C",
+            "text": "思想建设"
+          },
+          {
+            "key": "D",
+            "text": "纪律建设"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-178",
+        "type": "single",
+        "chapter": "第十七章",
+        "stem": "作风问题的核心是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "党同人民群众的关系问题"
+          },
+          {
+            "key": "B",
+            "text": "经济增长速度问题"
+          },
+          {
+            "key": "C",
+            "text": "社会分配方式问题"
+          },
+          {
+            "key": "D",
+            "text": "国际交往方式问题"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-179",
+        "type": "single",
+        "chapter": "第十七章",
+        "stem": "“把权力关进制度的笼子里”强调的是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "削弱制度建设"
+          },
+          {
+            "key": "B",
+            "text": "加强制度制约和监督权力"
+          },
+          {
+            "key": "C",
+            "text": "扩大个人自由裁量"
+          },
+          {
+            "key": "D",
+            "text": "减少监督程序"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-180",
+        "type": "single",
+        "chapter": "第十七章",
+        "stem": "反腐倡廉的核心是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "宣传教育和文化活动"
+          },
+          {
+            "key": "B",
+            "text": "制度制约和监督权力"
+          },
+          {
+            "key": "C",
+            "text": "经济建设和产业发展"
+          },
+          {
+            "key": "D",
+            "text": "扩大行政审批权限"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-181",
+        "type": "single",
+        "chapter": "第十七章",
+        "stem": "新时代坚持和发展中国特色社会主义，是一场艰巨而伟大的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "经济改革"
+          },
+          {
+            "key": "B",
+            "text": "科技革命"
+          },
+          {
+            "key": "C",
+            "text": "社会革命"
+          },
+          {
+            "key": "D",
+            "text": "文化运动"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-182",
+        "type": "single",
+        "chapter": "第十七章",
+        "stem": "下列关于团结统一的说法正确的是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "团结统一是党的生命，是党的力量所在"
+          },
+          {
+            "key": "B",
+            "text": "团结统一只属于基层治理要求"
+          },
+          {
+            "key": "C",
+            "text": "团结统一是短期工作方法"
+          },
+          {
+            "key": "D",
+            "text": "团结统一与党的建设无关"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "single-183",
+        "type": "single",
+        "chapter": "第十七章",
+        "stem": "全面从严治党中，思想建设的地位是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "临时性建设"
+          },
+          {
+            "key": "B",
+            "text": "基础性建设"
+          },
+          {
+            "key": "C",
+            "text": "辅助性工作"
+          },
+          {
+            "key": "D",
+            "text": "外部性条件"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "7.第十五到十七章选择题.docx"
+        ]
+      },
+      {
+        "id": "multiple-396",
         "type": "multiple",
-        "chapter": "第十五到十七章",
+        "chapter": "第十七章",
         "stem": "全面从严治党的相关表述，正确的有哪些？",
         "options": [
           {
@@ -12735,31 +16620,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-286",
+        "id": "judge-409",
         "type": "judge",
-        "chapter": "第十五到十七章",
-        "stem": "军委主席负责制是坚持党对人民军队绝对领导的根本制度和根本实现形式。",
-        "options": [],
-        "answer": "正确",
-        "sources": [
-          "习思想重点.docx"
-        ]
-      },
-      {
-        "id": "judge-287",
-        "type": "judge",
-        "chapter": "第十五到十七章",
-        "stem": "多边主义不符合各国人民利益，不是维护和平、促进发展的有效路径。",
-        "options": [],
-        "answer": "错误",
-        "sources": [
-          "习思想重点.docx"
-        ]
-      },
-      {
-        "id": "judge-288",
-        "type": "judge",
-        "chapter": "第十五到十七章",
+        "chapter": "第十七章",
         "stem": "党的领导是中国特色社会主义最本质的特征，也是中国特色社会主义制度的最大优势。",
         "options": [],
         "answer": "正确",
@@ -12768,11 +16631,11 @@ window.QUESTION_BANK = {
         ]
       }
     ],
-    "综合": [
+    "综合练习一": [
       {
-        "id": "single-163",
+        "id": "single-184",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "习近平新时代中国特色社会主义思想实现了马克思主义中国化时代化的什么成果？",
         "options": [
           {
@@ -12798,9 +16661,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-164",
+        "id": "single-185",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "党的十八大以来，中国特色社会主义进入了什么历史方位？",
         "options": [
           {
@@ -12826,9 +16689,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-165",
+        "id": "single-186",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "当代中国正在经历我国历史上最为广泛而深刻的什么？",
         "options": [
           {
@@ -12854,9 +16717,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-166",
+        "id": "single-187",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "世界百年未有之大变局加速演进，文档中概括的发展趋势是：",
         "options": [
           {
@@ -12882,9 +16745,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-167",
+        "id": "single-188",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "实现中华民族伟大复兴是近代以来中国人民的共同梦想，也是中国共产党的：",
         "options": [
           {
@@ -12910,9 +16773,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-168",
+        "id": "single-189",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "中国共产党自我革命开辟了什么？",
         "options": [
           {
@@ -12938,9 +16801,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-169",
+        "id": "single-190",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "习近平新时代中国特色社会主义思想的主要创立者是：",
         "options": [
           {
@@ -12966,9 +16829,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-170",
+        "id": "single-191",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "“六个必须坚持”主要体现的是习近平新时代中国特色社会主义思想的：",
         "options": [
           {
@@ -12994,9 +16857,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-171",
+        "id": "single-192",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "关系党的事业兴衰成败第一位的问题是：",
         "options": [
           {
@@ -13022,9 +16885,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-172",
+        "id": "single-193",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "实现中华民族伟大复兴的正确道路是：",
         "options": [
           {
@@ -13050,9 +16913,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-173",
+        "id": "single-194",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "中国共产党人思考的基本问题是：",
         "options": [
           {
@@ -13078,9 +16941,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-174",
+        "id": "single-195",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "中国特色社会主义不是从天上掉下来的，而是在长期实践、探索、革命和文明传承中得来的。这说明中国特色社会主义具有：",
         "options": [
           {
@@ -13106,9 +16969,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-175",
+        "id": "single-196",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "中国特色社会主义是科学社会主义理论逻辑和什么的辩证统一？",
         "options": [
           {
@@ -13134,9 +16997,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-176",
+        "id": "single-197",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "新时代坚持和发展中国特色社会主义，必须坚定道路自信、理论自信、制度自信和：",
         "options": [
           {
@@ -13162,9 +17025,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-177",
+        "id": "single-198",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "坚定“四个自信”的理论支撑和根本依据是：",
         "options": [
           {
@@ -13190,9 +17053,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-178",
+        "id": "single-199",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "中国特色社会主义最本质的特征是：",
         "options": [
           {
@@ -13218,9 +17081,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-179",
+        "id": "single-200",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "说到底，道路自信、理论自信、制度自信最终要坚定的是：",
         "options": [
           {
@@ -13246,9 +17109,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-180",
+        "id": "single-201",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "中国特色社会主义进入新时代，意味着中华民族迎来了从站起来、富起来到什么的伟大飞跃？",
         "options": [
           {
@@ -13274,9 +17137,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-181",
+        "id": "single-202",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "新时代我国社会主要矛盾是人民日益增长的美好生活需要和什么之间的矛盾？",
         "options": [
           {
@@ -13302,9 +17165,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-182",
+        "id": "single-203",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "我国仍处于并将长期处于社会主义初级阶段的基本国情：",
         "options": [
           {
@@ -13330,9 +17193,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-183",
+        "id": "single-204",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "习近平首次提出“中国梦”的时间和场合是：",
         "options": [
           {
@@ -13358,9 +17221,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-184",
+        "id": "single-205",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "实现中华民族伟大复兴的中国梦，本质是国家富强、民族振兴和：",
         "options": [
           {
@@ -13386,9 +17249,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-185",
+        "id": "single-206",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "全面建成小康社会中，“小康”讲的是：",
         "options": [
           {
@@ -13414,9 +17277,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-186",
+        "id": "single-207",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "全面建成小康社会中，“全面”讲的是发展的平衡性、协调性和：",
         "options": [
           {
@@ -13442,9 +17305,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-187",
+        "id": "single-208",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "我国实现第一个百年奋斗目标、全面建成小康社会的时间是：",
         "options": [
           {
@@ -13470,9 +17333,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-188",
+        "id": "single-209",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "全面建成社会主义现代化强国总的战略安排第一步是：",
         "options": [
           {
@@ -13498,9 +17361,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-189",
+        "id": "single-210",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "中国特色社会主义最本质的特征、中国特色社会主义制度的最大优势都是：",
         "options": [
           {
@@ -13526,9 +17389,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-190",
+        "id": "single-211",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "坚持党中央集中统一领导是党的领导的：",
         "options": [
           {
@@ -13554,9 +17417,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-191",
+        "id": "single-212",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "党政军民学，东西南北中，谁是领导一切的？",
         "options": [
           {
@@ -13582,9 +17445,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-192",
+        "id": "single-213",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "马克思主义政党第一位的能力是：",
         "options": [
           {
@@ -13610,9 +17473,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-193",
+        "id": "single-214",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "党的领导是全面的、系统的和：",
         "options": [
           {
@@ -13638,9 +17501,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-194",
+        "id": "single-215",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "维护党中央权威和集中统一领导，最关键的是坚决维护习近平同志党中央的核心、全党的：",
         "options": [
           {
@@ -13666,9 +17529,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-195",
+        "id": "single-216",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "我国的根本领导制度是：",
         "options": [
           {
@@ -13694,9 +17557,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-196",
+        "id": "single-217",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "马克思主义的本质属性和鲜明品格是：",
         "options": [
           {
@@ -13722,9 +17585,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-197",
+        "id": "single-218",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "坚持以人民为中心体现了哪一基本原理？",
         "options": [
           {
@@ -13750,9 +17613,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-198",
+        "id": "single-219",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "中国共产党的根本政治立场是：",
         "options": [
           {
@@ -13778,9 +17641,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-199",
+        "id": "single-220",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "党的奋斗目标是：",
         "options": [
           {
@@ -13806,9 +17669,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-200",
+        "id": "single-221",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "群众路线是我们党的生命线和：",
         "options": [
           {
@@ -13834,9 +17697,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-201",
+        "id": "single-222",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "决定当代中国命运的关键一招是：",
         "options": [
           {
@@ -13862,9 +17725,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-202",
+        "id": "single-223",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "新时代全面深化改革开放，从艰巨性、复杂性、系统性来看，是一场：",
         "options": [
           {
@@ -13890,9 +17753,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-203",
+        "id": "single-224",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "社会主义改革开放的出发点和落脚点是：",
         "options": [
           {
@@ -13918,9 +17781,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-204",
+        "id": "single-225",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "改革的方向、立场和原则之一是必须有利于进一步解放和发展：",
         "options": [
           {
@@ -13946,9 +17809,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-205",
+        "id": "single-226",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "全面深化改革总目标是完善和发展中国特色社会主义制度、推进国家治理体系和治理能力：",
         "options": [
           {
@@ -13974,9 +17837,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-206",
+        "id": "single-227",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "新时代我国经济社会发展的鲜明主题是：",
         "options": [
           {
@@ -14002,9 +17865,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-207",
+        "id": "single-228",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "全面建设社会主义现代化国家的首要任务是：",
         "options": [
           {
@@ -14030,9 +17893,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-208",
+        "id": "single-229",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "新发展理念包括创新、协调、绿色、开放和：",
         "options": [
           {
@@ -14058,9 +17921,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-209",
+        "id": "single-230",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "公有制经济包括国有经济和集体经济，还包括混合所有制经济中的：",
         "options": [
           {
@@ -14086,9 +17949,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-210",
+        "id": "single-231",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "我国分配制度是坚持按劳分配为主体、什么并存？",
         "options": [
           {
@@ -14114,9 +17977,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-211",
+        "id": "single-232",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "构建新发展格局最本质的特征是实现高水平的：",
         "options": [
           {
@@ -14142,9 +18005,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-212",
+        "id": "single-233",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "全面建设社会主义现代化国家的基础性、战略性支撑是：",
         "options": [
           {
@@ -14170,9 +18033,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-213",
+        "id": "single-234",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "必须坚持科技是第一生产力、人才是第一资源、创新是第一：",
         "options": [
           {
@@ -14198,9 +18061,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-214",
+        "id": "single-235",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "育人的根本在于：",
         "options": [
           {
@@ -14226,9 +18089,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-215",
+        "id": "single-236",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "社会主义的生命是：",
         "options": [
           {
@@ -14254,9 +18117,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-216",
+        "id": "single-237",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "全过程人民民主是社会主义民主政治的：",
         "options": [
           {
@@ -14282,9 +18145,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-217",
+        "id": "single-238",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "全面依法治国是坚持和发展中国特色社会主义的本质要求和：",
         "options": [
           {
@@ -14310,9 +18173,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-218",
+        "id": "single-239",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "全面推进依法治国的总抓手是建设中国特色社会主义：",
         "options": [
           {
@@ -14338,9 +18201,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-219",
+        "id": "single-240",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "维护社会公平正义的最后一道防线是：",
         "options": [
           {
@@ -14366,9 +18229,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-220",
+        "id": "single-241",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "一个国家、一个民族的灵魂是：",
         "options": [
           {
@@ -14394,9 +18257,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-221",
+        "id": "single-242",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "我们坚定文化自信的坚强基石是革命文化和：",
         "options": [
           {
@@ -14422,9 +18285,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-222",
+        "id": "single-243",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "文化的生命所在和本质特征是：",
         "options": [
           {
@@ -14450,9 +18313,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-223",
+        "id": "single-244",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "新闻舆论工作的根本原则是：",
         "options": [
           {
@@ -14478,9 +18341,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-224",
+        "id": "single-245",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "新时代新的文化使命是在新的起点上继续推动文化繁荣、建设文化强国、建设：",
         "options": [
           {
@@ -14506,9 +18369,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-225",
+        "id": "single-246",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "全面建设社会主义现代化国家的出发点和落脚点是：",
         "options": [
           {
@@ -14534,9 +18397,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-226",
+        "id": "single-247",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "促进共同富裕的基础性制度是：",
         "options": [
           {
@@ -14562,9 +18425,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-227",
+        "id": "single-248",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "最大的民生工程、民心工程、根基工程是：",
         "options": [
           {
@@ -14590,9 +18453,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-228",
+        "id": "single-249",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "生态环境问题归根到底是经济发展方式和什么问题？",
         "options": [
           {
@@ -14618,9 +18481,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-229",
+        "id": "single-250",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "绿色发展，就其要义来讲，是要解决好什么问题？",
         "options": [
           {
@@ -14646,9 +18509,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-230",
+        "id": "single-251",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "总体国家安全观以人民安全为宗旨，以政治安全为根本，以什么为基础？",
         "options": [
           {
@@ -14674,9 +18537,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-231",
+        "id": "single-252",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "国家安全的根本是：",
         "options": [
           {
@@ -14702,9 +18565,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-232",
+        "id": "single-253",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "党在新时代的强军目标是建设一支听党指挥、能打胜仗、作风优良的人民军队，把人民军队建设成为：",
         "options": [
           {
@@ -14730,9 +18593,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-233",
+        "id": "single-254",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "坚持党对人民军队绝对领导的根本制度和根本实现形式是：",
         "options": [
           {
@@ -14758,9 +18621,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-234",
+        "id": "single-255",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "“一国两制”体现的思维方式是：",
         "options": [
           {
@@ -14786,9 +18649,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-235",
+        "id": "single-256",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "我国是单一制国家，中央对包括香港、澳门特别行政区在内的所有地方行政区域拥有：",
         "options": [
           {
@@ -14814,9 +18677,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-236",
+        "id": "single-257",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "中国特色大国外交建立在正确的历史观、大局观和什么基础之上？",
         "options": [
           {
@@ -14842,9 +18705,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-237",
+        "id": "single-258",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "中国特色大国外交牢牢把握的主线是服务民族复兴、促进：",
         "options": [
           {
@@ -14870,9 +18733,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-238",
+        "id": "single-259",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "成为引领时代潮流和人类前进方向鲜明旗帜的是：",
         "options": [
           {
@@ -14898,9 +18761,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-239",
+        "id": "single-260",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "我国对外工作的出发点和落脚点是维护国家主权、安全和：",
         "options": [
           {
@@ -14926,9 +18789,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-240",
+        "id": "single-261",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "新时代全面从严治党强调，把党的什么建设摆在首位？",
         "options": [
           {
@@ -14954,9 +18817,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-241",
+        "id": "single-262",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "深入推进全面从严治党，必须把什么作为基础性建设？",
         "options": [
           {
@@ -14982,9 +18845,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "single-242",
+        "id": "single-263",
         "type": "single",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "反腐倡廉的核心是制度制约和监督：",
         "options": [
           {
@@ -15010,9 +18873,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-243",
+        "id": "multiple-264",
         "type": "multiple",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "习近平新时代中国特色社会主义思想回答的重大时代课题包括：",
         "options": [
           {
@@ -15038,9 +18901,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-244",
+        "id": "multiple-265",
         "type": "multiple",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "新时代坚持和发展中国特色社会主义必须坚定的“四个自信”包括：",
         "options": [
           {
@@ -15066,9 +18929,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-245",
+        "id": "multiple-266",
         "type": "multiple",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "中国式现代化的中国特色包括：",
         "options": [
           {
@@ -15094,9 +18957,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-246",
+        "id": "multiple-267",
         "type": "multiple",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "坚持和加强党的全面领导，使党的哪些能力显著增强？",
         "options": [
           {
@@ -15122,9 +18985,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-247",
+        "id": "multiple-268",
         "type": "multiple",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "改革的方向、立场和原则要求必须有利于进一步：",
         "options": [
           {
@@ -15150,9 +19013,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-248",
+        "id": "multiple-269",
         "type": "multiple",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "公有制经济包括：",
         "options": [
           {
@@ -15178,9 +19041,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-249",
+        "id": "multiple-270",
         "type": "multiple",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "全过程人民民主是：",
         "options": [
           {
@@ -15206,9 +19069,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-250",
+        "id": "multiple-271",
         "type": "multiple",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "中华文明的突出特征包括：",
         "options": [
           {
@@ -15234,9 +19097,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-251",
+        "id": "multiple-272",
         "type": "multiple",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "总体国家安全观的核心表述包括：",
         "options": [
           {
@@ -15262,9 +19125,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "multiple-252",
+        "id": "multiple-273",
         "type": "multiple",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "关于全面从严治党，下列表述正确的有：",
         "options": [
           {
@@ -15290,9 +19153,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-253",
+        "id": "judge-274",
         "type": "judge",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "坚定道路自信，就是坚信中国特色社会主义道路是我国实现社会主义现代化、创造人民美好生活的必由之路。（    ）",
         "options": [],
         "answer": "正确",
@@ -15301,9 +19164,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-254",
+        "id": "judge-275",
         "type": "judge",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "让群众满意是我们党做好一切工作的价值取向和根本标准。（    ）",
         "options": [],
         "answer": "正确",
@@ -15312,9 +19175,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-255",
+        "id": "judge-276",
         "type": "judge",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "构建高水平社会主义市场经济体制，关键是使政府完全取代市场配置资源。（    ）",
         "options": [],
         "answer": "错误",
@@ -15323,9 +19186,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-256",
+        "id": "judge-277",
         "type": "judge",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "关键核心技术是国之重器，只有把最关键最核心的技术掌握在自己手中，才能从根本上保障国家经济安全、国防安全和其他安全。（    ）",
         "options": [],
         "answer": "正确",
@@ -15334,9 +19197,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-257",
+        "id": "judge-278",
         "type": "judge",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "公正司法是维护社会公平正义的最后一道防线。（    ）",
         "options": [],
         "answer": "正确",
@@ -15345,9 +19208,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-258",
+        "id": "judge-279",
         "type": "judge",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "新时代加强和创新社会治理，要求坚持系统治理、依法治理、综合治理、源头治理。（    ）",
         "options": [],
         "answer": "正确",
@@ -15356,9 +19219,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-259",
+        "id": "judge-280",
         "type": "judge",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "建设美丽中国，是全面建设社会主义现代化国家的重要目标。（    ）",
         "options": [],
         "answer": "正确",
@@ -15367,9 +19230,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-260",
+        "id": "judge-281",
         "type": "judge",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "把战斗力作为唯一的根本的标准，是有效履行人民军队根本职能的要求。（    ）",
         "options": [],
         "answer": "正确",
@@ -15378,9 +19241,9 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-261",
+        "id": "judge-282",
         "type": "judge",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "始终坚持“爱国者治港”“爱国者治澳”，是事关国家主权、安全、发展利益和香港、澳门长期繁荣稳定的根本原则。（    ）",
         "options": [],
         "answer": "正确",
@@ -15389,14 +19252,2646 @@ window.QUESTION_BANK = {
         ]
       },
       {
-        "id": "judge-262",
+        "id": "judge-283",
         "type": "judge",
-        "chapter": "综合",
+        "chapter": "综合练习一",
         "stem": "多边主义不符合各国人民利益，不是维护和平、促进发展的有效路径。（    ）",
         "options": [],
         "answer": "错误",
         "sources": [
           "综合知识点练习题_无章节提示版(1).docx"
+        ]
+      }
+    ],
+    "综合练习二": [
+      {
+        "id": "single-284",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "习近平新时代中国特色社会主义思想是在坚持把马克思主义基本原理同中国具体实际相结合、同什么相结合中创立的？",
+        "options": [
+          {
+            "key": "A",
+            "text": "中华优秀传统文化"
+          },
+          {
+            "key": "B",
+            "text": "西方政治制度"
+          },
+          {
+            "key": "C",
+            "text": "世界流行文化"
+          },
+          {
+            "key": "D",
+            "text": "古代宗法秩序"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-285",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "党的十九大把习近平新时代中国特色社会主义思想写入党章的时间是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "2012年11月"
+          },
+          {
+            "key": "B",
+            "text": "2021年7月"
+          },
+          {
+            "key": "C",
+            "text": "2018年3月"
+          },
+          {
+            "key": "D",
+            "text": "2017年10月"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-286",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "把习近平新时代中国特色社会主义思想载入宪法的是哪次会议通过的宪法修正案？",
+        "options": [
+          {
+            "key": "A",
+            "text": "党的十九大"
+          },
+          {
+            "key": "B",
+            "text": "党的十八大"
+          },
+          {
+            "key": "C",
+            "text": "十三届全国人大一次会议"
+          },
+          {
+            "key": "D",
+            "text": "十四届全国人大一次会议"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-287",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "习近平新时代中国特色社会主义思想是当代中国马克思主义、二十一世纪马克思主义，是中华文化和什么的时代精华？",
+        "options": [
+          {
+            "key": "A",
+            "text": "中国地理"
+          },
+          {
+            "key": "B",
+            "text": "中国经济"
+          },
+          {
+            "key": "C",
+            "text": "中国精神"
+          },
+          {
+            "key": "D",
+            "text": "中国市场"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-288",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "新时代党和国家事业取得历史性成就、发生历史性变革的决定性因素是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "五个统筹"
+          },
+          {
+            "key": "B",
+            "text": "两个确立"
+          },
+          {
+            "key": "C",
+            "text": "三大改造"
+          },
+          {
+            "key": "D",
+            "text": "四项基本原则"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-289",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国特色社会主义是在改革开放多少多年的伟大实践中得来的？",
+        "options": [
+          {
+            "key": "A",
+            "text": "20多年"
+          },
+          {
+            "key": "B",
+            "text": "60多年"
+          },
+          {
+            "key": "C",
+            "text": "40多年"
+          },
+          {
+            "key": "D",
+            "text": "30多年"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-290",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国特色社会主义是在新中国成立多少多年的持续探索中得来的？",
+        "options": [
+          {
+            "key": "A",
+            "text": "70多年"
+          },
+          {
+            "key": "B",
+            "text": "90多年"
+          },
+          {
+            "key": "C",
+            "text": "30多年"
+          },
+          {
+            "key": "D",
+            "text": "50多年"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-291",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国特色社会主义是在中国共产党领导人民进行伟大社会革命多少多年的实践中得来的？",
+        "options": [
+          {
+            "key": "A",
+            "text": "200多年"
+          },
+          {
+            "key": "B",
+            "text": "40多年"
+          },
+          {
+            "key": "C",
+            "text": "100多年"
+          },
+          {
+            "key": "D",
+            "text": "70多年"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-292",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国特色社会主义是在对中华文明多少多年的传承发展中得来的？",
+        "options": [
+          {
+            "key": "A",
+            "text": "5000多年"
+          },
+          {
+            "key": "B",
+            "text": "3000多年"
+          },
+          {
+            "key": "C",
+            "text": "1000多年"
+          },
+          {
+            "key": "D",
+            "text": "500多年"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-293",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "新时代的伟大变革在党史、新中国史、改革开放史、社会主义发展史和什么上具有里程碑意义？",
+        "options": [
+          {
+            "key": "A",
+            "text": "世界殖民史"
+          },
+          {
+            "key": "B",
+            "text": "地方商业史"
+          },
+          {
+            "key": "C",
+            "text": "自然演化史"
+          },
+          {
+            "key": "D",
+            "text": "中华民族发展史"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-294",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "新时代坚持和发展中国特色社会主义要全面贯彻党的基本理论、基本路线和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "基本价格"
+          },
+          {
+            "key": "B",
+            "text": "基本消费"
+          },
+          {
+            "key": "C",
+            "text": "基本预算"
+          },
+          {
+            "key": "D",
+            "text": "基本方略"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-295",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "党的基本理论是坚持和发展中国特色社会主义的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "行动指南"
+          },
+          {
+            "key": "B",
+            "text": "地方经验"
+          },
+          {
+            "key": "C",
+            "text": "临时口号"
+          },
+          {
+            "key": "D",
+            "text": "行业规范"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-296",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "党的基本路线是国家的生命线、人民的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "观光线"
+          },
+          {
+            "key": "B",
+            "text": "消费线"
+          },
+          {
+            "key": "C",
+            "text": "幸福线"
+          },
+          {
+            "key": "D",
+            "text": "生产线"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-297",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "“五位一体”总体布局包括经济建设、政治建设、文化建设、社会建设和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "单一市场建设"
+          },
+          {
+            "key": "B",
+            "text": "生态文明建设"
+          },
+          {
+            "key": "C",
+            "text": "娱乐产业建设"
+          },
+          {
+            "key": "D",
+            "text": "城市广告建设"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-298",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "“四个全面”战略布局中，居于目标引领地位的是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "全面扩大地方审批"
+          },
+          {
+            "key": "B",
+            "text": "全面建设社会主义现代化国家"
+          },
+          {
+            "key": "C",
+            "text": "全面取消制度约束"
+          },
+          {
+            "key": "D",
+            "text": "全面发展单一产业"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-299",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国共产党为什么能，中国特色社会主义为什么好，归根到底是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "马克思主义行，中国化时代化的马克思主义行"
+          },
+          {
+            "key": "B",
+            "text": "地域广"
+          },
+          {
+            "key": "C",
+            "text": "资源多"
+          },
+          {
+            "key": "D",
+            "text": "人口多"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-300",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国式现代化是中国共产党领导的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "资本主义现代化"
+          },
+          {
+            "key": "B",
+            "text": "殖民式现代化"
+          },
+          {
+            "key": "C",
+            "text": "封闭式现代化"
+          },
+          {
+            "key": "D",
+            "text": "社会主义现代化"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-301",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国式现代化既有各国现代化的共同特征，更有基于自己国情的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "短期安排"
+          },
+          {
+            "key": "B",
+            "text": "中国特色"
+          },
+          {
+            "key": "C",
+            "text": "行业偏好"
+          },
+          {
+            "key": "D",
+            "text": "外国模板"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-302",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国式现代化区别于西方现代化的显著标志是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "市场规模扩大"
+          },
+          {
+            "key": "B",
+            "text": "人口规模巨大"
+          },
+          {
+            "key": "C",
+            "text": "全体人民共同富裕"
+          },
+          {
+            "key": "D",
+            "text": "城市数量增加"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-303",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国式现代化是物质文明和什么相协调的现代化？",
+        "options": [
+          {
+            "key": "A",
+            "text": "商业文明"
+          },
+          {
+            "key": "B",
+            "text": "消费文明"
+          },
+          {
+            "key": "C",
+            "text": "精神文明"
+          },
+          {
+            "key": "D",
+            "text": "交通文明"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-304",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国式现代化是人与自然什么的现代化？",
+        "options": [
+          {
+            "key": "A",
+            "text": "相互隔绝"
+          },
+          {
+            "key": "B",
+            "text": "完全对立"
+          },
+          {
+            "key": "C",
+            "text": "彼此替代"
+          },
+          {
+            "key": "D",
+            "text": "和谐共生"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-305",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国式现代化的本质要求之一是发展全过程人民民主、丰富人民精神世界，并实现：",
+        "options": [
+          {
+            "key": "A",
+            "text": "单一速度增长"
+          },
+          {
+            "key": "B",
+            "text": "少数人先占有"
+          },
+          {
+            "key": "C",
+            "text": "全体人民共同富裕"
+          },
+          {
+            "key": "D",
+            "text": "区域封闭发展"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-306",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国式现代化创造了人类文明新形态，打破了哪一迷思？",
+        "options": [
+          {
+            "key": "A",
+            "text": "治理=市场化"
+          },
+          {
+            "key": "B",
+            "text": "现代化=西方化"
+          },
+          {
+            "key": "C",
+            "text": "文化=娱乐化"
+          },
+          {
+            "key": "D",
+            "text": "安全=军事化"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-307",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "推进中国式现代化，要正确处理顶层设计与什么的关系？",
+        "options": [
+          {
+            "key": "A",
+            "text": "行业宣传"
+          },
+          {
+            "key": "B",
+            "text": "实践探索"
+          },
+          {
+            "key": "C",
+            "text": "临时口号"
+          },
+          {
+            "key": "D",
+            "text": "个人偏好"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-308",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "推进中国式现代化，要正确处理守正与什么的关系？",
+        "options": [
+          {
+            "key": "A",
+            "text": "创新"
+          },
+          {
+            "key": "B",
+            "text": "停滞"
+          },
+          {
+            "key": "C",
+            "text": "封闭"
+          },
+          {
+            "key": "D",
+            "text": "复古"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-309",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "推进中国式现代化，要正确处理效率与什么的关系？",
+        "options": [
+          {
+            "key": "A",
+            "text": "排斥"
+          },
+          {
+            "key": "B",
+            "text": "形式"
+          },
+          {
+            "key": "C",
+            "text": "垄断"
+          },
+          {
+            "key": "D",
+            "text": "公平"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-310",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "推进中国式现代化，要正确处理活力与什么的关系？",
+        "options": [
+          {
+            "key": "A",
+            "text": "秩序"
+          },
+          {
+            "key": "B",
+            "text": "混乱"
+          },
+          {
+            "key": "C",
+            "text": "孤立"
+          },
+          {
+            "key": "D",
+            "text": "保守"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-311",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "推进中国式现代化，要正确处理自立自强与什么的关系？",
+        "options": [
+          {
+            "key": "A",
+            "text": "单边依赖"
+          },
+          {
+            "key": "B",
+            "text": "完全排外"
+          },
+          {
+            "key": "C",
+            "text": "闭关自守"
+          },
+          {
+            "key": "D",
+            "text": "对外开放"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-312",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国共产党领导是带有统领性的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "局部优势"
+          },
+          {
+            "key": "B",
+            "text": "根本优势"
+          },
+          {
+            "key": "C",
+            "text": "技术优势"
+          },
+          {
+            "key": "D",
+            "text": "自然优势"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-313",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "党政军民学，东西南北中，党是领导一切的，是最高的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "政治领导力量"
+          },
+          {
+            "key": "B",
+            "text": "行业协会"
+          },
+          {
+            "key": "C",
+            "text": "经济组织"
+          },
+          {
+            "key": "D",
+            "text": "市场主体"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-314",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "党中央集中统一领导是党的领导的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "临时原则"
+          },
+          {
+            "key": "B",
+            "text": "地区原则"
+          },
+          {
+            "key": "C",
+            "text": "商业原则"
+          },
+          {
+            "key": "D",
+            "text": "最高原则"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-315",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "维护党中央权威和集中统一领导，同坚持党的民主集中制是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "完全一致的"
+          },
+          {
+            "key": "B",
+            "text": "互不相关的"
+          },
+          {
+            "key": "C",
+            "text": "只在地方适用的"
+          },
+          {
+            "key": "D",
+            "text": "完全矛盾的"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-316",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "全面加强党的领导大大提高了全党的政治判断力、政治领悟力和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "娱乐影响力"
+          },
+          {
+            "key": "B",
+            "text": "政治执行力"
+          },
+          {
+            "key": "C",
+            "text": "广告传播力"
+          },
+          {
+            "key": "D",
+            "text": "价格控制力"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-317",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "党中央集中统一领导是党保持团结统一和强大战斗力、不断取得胜利的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "关键所在"
+          },
+          {
+            "key": "B",
+            "text": "次要因素"
+          },
+          {
+            "key": "C",
+            "text": "临时措施"
+          },
+          {
+            "key": "D",
+            "text": "外部条件"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-318",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "坚持人民立场，就要始终牢记党的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "广告和宣传"
+          },
+          {
+            "key": "B",
+            "text": "收入和规模"
+          },
+          {
+            "key": "C",
+            "text": "初心和使命"
+          },
+          {
+            "key": "D",
+            "text": "形式和流程"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-319",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "坚持人民立场，就要始终保持党同人民群众的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "形式往来"
+          },
+          {
+            "key": "B",
+            "text": "距离感"
+          },
+          {
+            "key": "C",
+            "text": "管理隔阂"
+          },
+          {
+            "key": "D",
+            "text": "血肉联系"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-320",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "坚持人民立场，就要热爱人民、尊重人民和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "替代人民"
+          },
+          {
+            "key": "B",
+            "text": "远离人民"
+          },
+          {
+            "key": "C",
+            "text": "俯视人民"
+          },
+          {
+            "key": "D",
+            "text": "敬畏人民"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-321",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "共同富裕是中国特色社会主义的本质要求，也是中国式现代化的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "临时任务"
+          },
+          {
+            "key": "B",
+            "text": "外在装饰"
+          },
+          {
+            "key": "C",
+            "text": "区域政策"
+          },
+          {
+            "key": "D",
+            "text": "重要特征"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-322",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "唯物史观强调，人民是历史的创造者，是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "真正的英雄"
+          },
+          {
+            "key": "B",
+            "text": "少数人的工具"
+          },
+          {
+            "key": "C",
+            "text": "被动的旁观者"
+          },
+          {
+            "key": "D",
+            "text": "历史的附属品"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-323",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "改革的方向、立场和原则要求，必须有利于进一步解放思想、解放和发展社会生产力、解放和增强：",
+        "options": [
+          {
+            "key": "A",
+            "text": "行政层级"
+          },
+          {
+            "key": "B",
+            "text": "形式主义"
+          },
+          {
+            "key": "C",
+            "text": "封闭机制"
+          },
+          {
+            "key": "D",
+            "text": "社会活力"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-324",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "国家治理体系和治理能力是一个国家制度和什么的集中体现？",
+        "options": [
+          {
+            "key": "A",
+            "text": "制度执行能力"
+          },
+          {
+            "key": "B",
+            "text": "资源储量"
+          },
+          {
+            "key": "C",
+            "text": "广告能力"
+          },
+          {
+            "key": "D",
+            "text": "消费能力"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-325",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "改革开放永无止境，是社会基本矛盾运动规律的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "偶然现象"
+          },
+          {
+            "key": "B",
+            "text": "外部装饰"
+          },
+          {
+            "key": "C",
+            "text": "深刻反映"
+          },
+          {
+            "key": "D",
+            "text": "短期变化"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-326",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "新时代把改革推向前进，必须加强顶层设计，以利于提高改革的科学性和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "封闭性"
+          },
+          {
+            "key": "B",
+            "text": "协调性"
+          },
+          {
+            "key": "C",
+            "text": "随意性"
+          },
+          {
+            "key": "D",
+            "text": "重复性"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-327",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "新发展理念是实现高质量发展的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "行业宣传"
+          },
+          {
+            "key": "B",
+            "text": "临时口号"
+          },
+          {
+            "key": "C",
+            "text": "统计方法"
+          },
+          {
+            "key": "D",
+            "text": "指导原则"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-328",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "贯彻新发展理念是关系我国发展全局的一场：",
+        "options": [
+          {
+            "key": "A",
+            "text": "临时安排"
+          },
+          {
+            "key": "B",
+            "text": "深刻变革"
+          },
+          {
+            "key": "C",
+            "text": "局部试验"
+          },
+          {
+            "key": "D",
+            "text": "简单活动"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-329",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "非公有制经济包括个体经济、私营经济、港澳台投资经济、外商投资经济以及混合所有制经济中的非国有成分和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "非集体成分"
+          },
+          {
+            "key": "B",
+            "text": "集体成分"
+          },
+          {
+            "key": "C",
+            "text": "公共预算"
+          },
+          {
+            "key": "D",
+            "text": "国有成分"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-330",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "构建高水平社会主义市场经济体制，关键是处理好政府和什么的关系？",
+        "options": [
+          {
+            "key": "A",
+            "text": "市场"
+          },
+          {
+            "key": "B",
+            "text": "天气"
+          },
+          {
+            "key": "C",
+            "text": "个人爱好"
+          },
+          {
+            "key": "D",
+            "text": "广告"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-331",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "在资源配置中起决定性作用的是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "娱乐"
+          },
+          {
+            "key": "B",
+            "text": "市场"
+          },
+          {
+            "key": "C",
+            "text": "习惯"
+          },
+          {
+            "key": "D",
+            "text": "口号"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-332",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "在社会主义市场经济体制下，资本是带动各类生产要素集聚配置的重要：",
+        "options": [
+          {
+            "key": "A",
+            "text": "纽带"
+          },
+          {
+            "key": "B",
+            "text": "障碍"
+          },
+          {
+            "key": "C",
+            "text": "装饰"
+          },
+          {
+            "key": "D",
+            "text": "口号"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-333",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "公有制经济和非公有制经济都是社会主义市场经济的重要组成部分，都是我国经济社会发展的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "重要基础"
+          },
+          {
+            "key": "B",
+            "text": "无关因素"
+          },
+          {
+            "key": "C",
+            "text": "外部负担"
+          },
+          {
+            "key": "D",
+            "text": "临时补充"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-334",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "加快教育强国，必须落实立德树人的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "临时任务"
+          },
+          {
+            "key": "B",
+            "text": "营销任务"
+          },
+          {
+            "key": "C",
+            "text": "消费任务"
+          },
+          {
+            "key": "D",
+            "text": "根本任务"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-335",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "关键核心技术是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "地方口号"
+          },
+          {
+            "key": "B",
+            "text": "短期热点"
+          },
+          {
+            "key": "C",
+            "text": "普通商品"
+          },
+          {
+            "key": "D",
+            "text": "国之重器"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-336",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "人才是实现民族振兴、赢得国际竞争主动的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "消费资源"
+          },
+          {
+            "key": "B",
+            "text": "战略资源"
+          },
+          {
+            "key": "C",
+            "text": "附属资源"
+          },
+          {
+            "key": "D",
+            "text": "临时资源"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-337",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "人民民主建立在社会主义经济基础之上，体现了社会主义国家的性质，是一种：",
+        "options": [
+          {
+            "key": "A",
+            "text": "形式化民主"
+          },
+          {
+            "key": "B",
+            "text": "资本垄断民主"
+          },
+          {
+            "key": "C",
+            "text": "旧式贵族民主"
+          },
+          {
+            "key": "D",
+            "text": "新型的社会主义民主"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-338",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "统一战线是中国共产党夺取革命、建设、改革事业胜利的重要法宝，也是实现什么的重要法宝？",
+        "options": [
+          {
+            "key": "A",
+            "text": "短期经济宣传"
+          },
+          {
+            "key": "B",
+            "text": "中华民族伟大复兴"
+          },
+          {
+            "key": "C",
+            "text": "单一行业发展"
+          },
+          {
+            "key": "D",
+            "text": "地方商业扩张"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-339",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "把党内法规体系纳入中国特色社会主义法治体系，是我国法治区别于其他国家法治的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "普通流程"
+          },
+          {
+            "key": "B",
+            "text": "外在形式"
+          },
+          {
+            "key": "C",
+            "text": "临时做法"
+          },
+          {
+            "key": "D",
+            "text": "鲜明特征"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-340",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "法治中国建设的三大支柱是法治国家、法治政府和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "法治社会"
+          },
+          {
+            "key": "B",
+            "text": "法治市场"
+          },
+          {
+            "key": "C",
+            "text": "法治企业"
+          },
+          {
+            "key": "D",
+            "text": "法治行业"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-341",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "文化软实力集中体现一个国家基于文化而具有的凝聚力和生命力，以及由此产生的吸引力和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "生产力"
+          },
+          {
+            "key": "B",
+            "text": "影响力"
+          },
+          {
+            "key": "C",
+            "text": "运输力"
+          },
+          {
+            "key": "D",
+            "text": "价格力"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-342",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "一个国家的文化软实力，从根本上说，取决于其核心价值观的生命力、凝聚力和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "装饰力"
+          },
+          {
+            "key": "B",
+            "text": "流量"
+          },
+          {
+            "key": "C",
+            "text": "感召力"
+          },
+          {
+            "key": "D",
+            "text": "消费力"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-343",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中华文明的突出特征包括连续性、创新性、统一性、包容性和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "短暂性"
+          },
+          {
+            "key": "B",
+            "text": "和平性"
+          },
+          {
+            "key": "C",
+            "text": "排他性"
+          },
+          {
+            "key": "D",
+            "text": "封闭性"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-344",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "社会主义社会是人民当家作主的社会，这决定了社会主义生产要以什么为根本目的？",
+        "options": [
+          {
+            "key": "A",
+            "text": "制造社会隔阂"
+          },
+          {
+            "key": "B",
+            "text": "追求少数人利益"
+          },
+          {
+            "key": "C",
+            "text": "增进民生福祉"
+          },
+          {
+            "key": "D",
+            "text": "扩大形式宣传"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-345",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "党的十九大进一步提出打造怎样的社会治理格局？",
+        "options": [
+          {
+            "key": "A",
+            "text": "分散封闭治理"
+          },
+          {
+            "key": "B",
+            "text": "共建共治共享"
+          },
+          {
+            "key": "C",
+            "text": "单一市场治理"
+          },
+          {
+            "key": "D",
+            "text": "单向命令管理"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-346",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "新时代加强和创新社会治理，要求坚持系统治理、依法治理、综合治理和：",
+        "options": [
+          {
+            "key": "A",
+            "text": "单点治理"
+          },
+          {
+            "key": "B",
+            "text": "源头治理"
+          },
+          {
+            "key": "C",
+            "text": "表面治理"
+          },
+          {
+            "key": "D",
+            "text": "临时治理"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-347",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "“绿水青山就是金山银山”理念阐明了经济发展与什么之间的关系？",
+        "options": [
+          {
+            "key": "A",
+            "text": "生态环境保护"
+          },
+          {
+            "key": "B",
+            "text": "短期消费增长"
+          },
+          {
+            "key": "C",
+            "text": "城市外观建设"
+          },
+          {
+            "key": "D",
+            "text": "商业广告投放"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-348",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "良好的生态环境是最公平的公共产品，是最普惠的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "娱乐项目"
+          },
+          {
+            "key": "B",
+            "text": "商业资源"
+          },
+          {
+            "key": "C",
+            "text": "民生福祉"
+          },
+          {
+            "key": "D",
+            "text": "管理工具"
+          }
+        ],
+        "answer": "C",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-349",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "建设美丽中国，是全面建设社会主义现代化国家的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "重要目标"
+          },
+          {
+            "key": "B",
+            "text": "外在包装"
+          },
+          {
+            "key": "C",
+            "text": "临时活动"
+          },
+          {
+            "key": "D",
+            "text": "局部口号"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-350",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "生态文明建设必须把什么作为重中之重？",
+        "options": [
+          {
+            "key": "A",
+            "text": "短期检查"
+          },
+          {
+            "key": "B",
+            "text": "制度建设"
+          },
+          {
+            "key": "C",
+            "text": "临时活动"
+          },
+          {
+            "key": "D",
+            "text": "口号宣传"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-351",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "统筹维护国家安全和塑造国家安全，着力解决国家安全工作什么的问题？",
+        "options": [
+          {
+            "key": "A",
+            "text": "过于充分"
+          },
+          {
+            "key": "B",
+            "text": "不平衡不充分"
+          },
+          {
+            "key": "C",
+            "text": "只和经济有关"
+          },
+          {
+            "key": "D",
+            "text": "完全无风险"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-352",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "维护国家安全要贯穿党和国家工作的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "短期阶段"
+          },
+          {
+            "key": "B",
+            "text": "各方面全过程"
+          },
+          {
+            "key": "C",
+            "text": "经济领域局部"
+          },
+          {
+            "key": "D",
+            "text": "少数环节"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-353",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "政治安全涉及国家主权、政权、制度和什么的稳固？",
+        "options": [
+          {
+            "key": "A",
+            "text": "意识形态"
+          },
+          {
+            "key": "B",
+            "text": "消费习惯"
+          },
+          {
+            "key": "C",
+            "text": "交通方式"
+          },
+          {
+            "key": "D",
+            "text": "娱乐产业"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-354",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "构建统筹各领域安全的新安全格局，维护重点领域国家安全是：",
+        "options": [
+          {
+            "key": "A",
+            "text": "外部事务"
+          },
+          {
+            "key": "B",
+            "text": "临时选项"
+          },
+          {
+            "key": "C",
+            "text": "普通辅助项"
+          },
+          {
+            "key": "D",
+            "text": "主阵地、主战场"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-355",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "平安是老百姓解决温饱后的第一需求，也是最基本的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "娱乐环境"
+          },
+          {
+            "key": "B",
+            "text": "行业指标"
+          },
+          {
+            "key": "C",
+            "text": "消费场景"
+          },
+          {
+            "key": "D",
+            "text": "发展环境"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-356",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "党的十九大提出，确保到2020年基本实现机械化，信息化建设取得重大进展，什么有大的提升？",
+        "options": [
+          {
+            "key": "A",
+            "text": "战略能力"
+          },
+          {
+            "key": "B",
+            "text": "消费能力"
+          },
+          {
+            "key": "C",
+            "text": "广告能力"
+          },
+          {
+            "key": "D",
+            "text": "旅游能力"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-357",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "党的十九大提出，力争到2035年基本实现：",
+        "options": [
+          {
+            "key": "A",
+            "text": "文化产业完全市场化"
+          },
+          {
+            "key": "B",
+            "text": "社会治理单一化"
+          },
+          {
+            "key": "C",
+            "text": "农业完全机械化"
+          },
+          {
+            "key": "D",
+            "text": "国防和军队现代化"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-358",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "“一国两制”包含中华文化中的什么理念？",
+        "options": [
+          {
+            "key": "A",
+            "text": "对抗理念"
+          },
+          {
+            "key": "B",
+            "text": "和合理念"
+          },
+          {
+            "key": "C",
+            "text": "封闭理念"
+          },
+          {
+            "key": "D",
+            "text": "排斥理念"
+          }
+        ],
+        "answer": "B",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-359",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "坚持在中华民族伟大复兴进程中推进祖国统一，这是统一的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "历史方位"
+          },
+          {
+            "key": "B",
+            "text": "地区偏好"
+          },
+          {
+            "key": "C",
+            "text": "商业方向"
+          },
+          {
+            "key": "D",
+            "text": "临时安排"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-360",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "中国外交强调坚定维护以联合国为核心的国际体系、以什么为基础的国际秩序？",
+        "options": [
+          {
+            "key": "A",
+            "text": "国际法"
+          },
+          {
+            "key": "B",
+            "text": "单边规则"
+          },
+          {
+            "key": "C",
+            "text": "强权政治"
+          },
+          {
+            "key": "D",
+            "text": "地区习惯"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-361",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "把党的建设作为一项伟大工程来推进，是我们党的一大：",
+        "options": [
+          {
+            "key": "A",
+            "text": "让步"
+          },
+          {
+            "key": "B",
+            "text": "负担"
+          },
+          {
+            "key": "C",
+            "text": "装饰"
+          },
+          {
+            "key": "D",
+            "text": "创举"
+          }
+        ],
+        "answer": "D",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-362",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "团结统一是党的生命，是党的：",
+        "options": [
+          {
+            "key": "A",
+            "text": "力量所在"
+          },
+          {
+            "key": "B",
+            "text": "形式所在"
+          },
+          {
+            "key": "C",
+            "text": "市场所在"
+          },
+          {
+            "key": "D",
+            "text": "口号所在"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "single-363",
+        "type": "single",
+        "chapter": "综合练习二",
+        "stem": "作风问题核心是党同什么的关系问题？",
+        "options": [
+          {
+            "key": "A",
+            "text": "人民群众"
+          },
+          {
+            "key": "B",
+            "text": "自然资源"
+          },
+          {
+            "key": "C",
+            "text": "企业品牌"
+          },
+          {
+            "key": "D",
+            "text": "市场价格"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "multiple-364",
+        "type": "multiple",
+        "chapter": "综合练习二",
+        "stem": "中国式现代化的本质要求包括：",
+        "options": [
+          {
+            "key": "A",
+            "text": "坚持中国特色社会主义"
+          },
+          {
+            "key": "B",
+            "text": "发展全过程人民民主"
+          },
+          {
+            "key": "C",
+            "text": "实现高质量发展"
+          },
+          {
+            "key": "D",
+            "text": "照搬西方现代化道路"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "multiple-365",
+        "type": "multiple",
+        "chapter": "综合练习二",
+        "stem": "推进中国式现代化需要正确处理的重大关系包括：",
+        "options": [
+          {
+            "key": "A",
+            "text": "顶层设计与实践探索"
+          },
+          {
+            "key": "B",
+            "text": "封闭与停滞"
+          },
+          {
+            "key": "C",
+            "text": "战略与策略"
+          },
+          {
+            "key": "D",
+            "text": "活力与秩序"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "multiple-366",
+        "type": "multiple",
+        "chapter": "综合练习二",
+        "stem": "新时代坚持和发展中国特色社会主义要统筹推进和协调推进的布局包括：",
+        "options": [
+          {
+            "key": "A",
+            "text": "五位一体总体布局"
+          },
+          {
+            "key": "B",
+            "text": "地方行业布局"
+          },
+          {
+            "key": "C",
+            "text": "四个全面战略布局"
+          },
+          {
+            "key": "D",
+            "text": "短期宣传布局"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "multiple-367",
+        "type": "multiple",
+        "chapter": "综合练习二",
+        "stem": "坚持人民立场，需要做到：",
+        "options": [
+          {
+            "key": "A",
+            "text": "热爱人民、尊重人民、敬畏人民"
+          },
+          {
+            "key": "B",
+            "text": "以形式主义代替实际工作"
+          },
+          {
+            "key": "C",
+            "text": "始终牢记党的初心和使命"
+          },
+          {
+            "key": "D",
+            "text": "脱离群众进行治理"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "multiple-368",
+        "type": "multiple",
+        "chapter": "综合练习二",
+        "stem": "非公有制经济包括：",
+        "options": [
+          {
+            "key": "A",
+            "text": "个体经济"
+          },
+          {
+            "key": "B",
+            "text": "港澳台投资经济"
+          },
+          {
+            "key": "C",
+            "text": "私营经济"
+          },
+          {
+            "key": "D",
+            "text": "混合所有制经济中的非国有成分和非集体成分"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "multiple-369",
+        "type": "multiple",
+        "chapter": "综合练习二",
+        "stem": "法治中国建设的三大支柱包括：",
+        "options": [
+          {
+            "key": "A",
+            "text": "法治国家"
+          },
+          {
+            "key": "B",
+            "text": "法治广告"
+          },
+          {
+            "key": "C",
+            "text": "法治价格"
+          },
+          {
+            "key": "D",
+            "text": "法治政府"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "multiple-370",
+        "type": "multiple",
+        "chapter": "综合练习二",
+        "stem": "中华文明的突出特征包括：",
+        "options": [
+          {
+            "key": "A",
+            "text": "统一性"
+          },
+          {
+            "key": "B",
+            "text": "包容性"
+          },
+          {
+            "key": "C",
+            "text": "创新性"
+          },
+          {
+            "key": "D",
+            "text": "连续性"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "multiple-371",
+        "type": "multiple",
+        "chapter": "综合练习二",
+        "stem": "新时代加强和创新社会治理，要求坚持：",
+        "options": [
+          {
+            "key": "A",
+            "text": "依法治理"
+          },
+          {
+            "key": "B",
+            "text": "系统治理"
+          },
+          {
+            "key": "C",
+            "text": "随意治理"
+          },
+          {
+            "key": "D",
+            "text": "源头治理"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "multiple-372",
+        "type": "multiple",
+        "chapter": "综合练习二",
+        "stem": "政治安全涉及哪些方面的稳固？",
+        "options": [
+          {
+            "key": "A",
+            "text": "制度"
+          },
+          {
+            "key": "B",
+            "text": "娱乐消费偏好"
+          },
+          {
+            "key": "C",
+            "text": "意识形态"
+          },
+          {
+            "key": "D",
+            "text": "政权"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "multiple-373",
+        "type": "multiple",
+        "chapter": "综合练习二",
+        "stem": "全人类共同价值包括：",
+        "options": [
+          {
+            "key": "A",
+            "text": "和平"
+          },
+          {
+            "key": "B",
+            "text": "正义"
+          },
+          {
+            "key": "C",
+            "text": "民主、自由"
+          },
+          {
+            "key": "D",
+            "text": "公平"
+          }
+        ],
+        "answer": "A",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "judge-374",
+        "type": "judge",
+        "chapter": "综合练习二",
+        "stem": "2018年3月，十三届全国人大一次会议通过的宪法修正案，把习近平新时代中国特色社会主义思想载入宪法。（    ）",
+        "options": [],
+        "answer": "正确",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "judge-375",
+        "type": "judge",
+        "chapter": "综合练习二",
+        "stem": "中国特色社会主义进入新时代后，我国处于社会主义初级阶段的基本国情已经发生根本改变。（    ）",
+        "options": [],
+        "answer": "错误",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "judge-376",
+        "type": "judge",
+        "chapter": "综合练习二",
+        "stem": "中国式现代化是走和平发展道路的现代化。（    ）",
+        "options": [],
+        "answer": "正确",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "judge-377",
+        "type": "judge",
+        "chapter": "综合练习二",
+        "stem": "维护党中央权威和集中统一领导，同坚持党的民主集中制是完全一致的。（    ）",
+        "options": [],
+        "answer": "正确",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "judge-378",
+        "type": "judge",
+        "chapter": "综合练习二",
+        "stem": "国家治理体系和治理能力只是经济发展水平的集中体现，与制度执行能力无关。（    ）",
+        "options": [],
+        "answer": "错误",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "judge-379",
+        "type": "judge",
+        "chapter": "综合练习二",
+        "stem": "在社会主义市场经济体制下，资本是带动各类生产要素集聚配置的重要纽带。（    ）",
+        "options": [],
+        "answer": "正确",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "judge-380",
+        "type": "judge",
+        "chapter": "综合练习二",
+        "stem": "把党内法规体系纳入中国特色社会主义法治体系，是我国法治区别于其他国家法治的鲜明特征。（    ）",
+        "options": [],
+        "answer": "正确",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "judge-381",
+        "type": "judge",
+        "chapter": "综合练习二",
+        "stem": "生态文明建设只需要加强宣传，不需要把制度建设作为重中之重。（    ）",
+        "options": [],
+        "answer": "错误",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "judge-382",
+        "type": "judge",
+        "chapter": "综合练习二",
+        "stem": "中央对包括香港、澳门特别行政区在内的所有地方行政区域拥有全面管治权。（    ）",
+        "options": [],
+        "answer": "正确",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
+        ]
+      },
+      {
+        "id": "judge-383",
+        "type": "judge",
+        "chapter": "综合练习二",
+        "stem": "新时代坚持和发展中国特色社会主义，是一场艰巨而伟大的社会革命。（    ）",
+        "options": [],
+        "answer": "正确",
+        "sources": [
+          "综合知识点练习题_第二套_无章节提示版.docx"
         ]
       }
     ]

@@ -1,13 +1,15 @@
 const bank = window.QUESTION_BANK;
 
-const moduleConfig = {
-  single: { label: "单选模块", tag: "单选题" },
-  multiple: { label: "多选模块", tag: "多选题" },
-  judge: { label: "判断模块", tag: "判断题" },
+const typeConfig = {
+  single: { label: "单选模块", shortLabel: "单选", tag: "单选题" },
+  multiple: { label: "多选模块", shortLabel: "多选", tag: "多选题" },
+  judge: { label: "判断模块", shortLabel: "判断", tag: "判断题" },
 };
 
 const state = {
-  currentModule: null,
+  currentMode: null,
+  currentKey: null,
+  currentLabel: "",
   orderMode: "sequential",
   sessionQuestions: [],
   currentIndex: 0,
@@ -16,7 +18,8 @@ const state = {
   stats: { done: 0, correct: 0, wrong: 0 },
 };
 
-const moduleList = document.getElementById("moduleList");
+const typeModuleList = document.getElementById("typeModuleList");
+const chapterModuleList = document.getElementById("chapterModuleList");
 const metaCard = document.getElementById("metaCard");
 const emptyState = document.getElementById("emptyState");
 const quizApp = document.getElementById("quizApp");
@@ -35,6 +38,8 @@ const nextBtn = document.getElementById("nextBtn");
 const restartBtn = document.getElementById("restartBtn");
 const toggleOrderBtn = document.getElementById("toggleOrderBtn");
 const showAnswerBtn = document.getElementById("showAnswerBtn");
+const startTypeOverviewBtn = document.getElementById("startTypeOverviewBtn");
+const startChapterOverviewBtn = document.getElementById("startChapterOverviewBtn");
 
 function getOptionList(question) {
   return question.type === "judge"
@@ -43,6 +48,10 @@ function getOptionList(question) {
         { key: "F", text: "错误" },
       ]
     : question.options;
+}
+
+function getQuestionTypeMeta(questionType) {
+  return typeConfig[questionType] || { label: questionType, shortLabel: questionType, tag: questionType };
 }
 
 function shuffle(items) {
@@ -58,55 +67,105 @@ function buildMetaCard() {
   const counts = bank.meta.counts;
   metaCard.innerHTML = `
     <div class="stats-grid">
-      <div class="meta-item">
-        <span class="muted">题库总量</span>
+      <div class="metric-card">
+        <span>题库总量</span>
         <strong>${bank.meta.total}</strong>
       </div>
-      <div class="meta-item">
-        <span class="muted">单选题</span>
+      <div class="metric-card">
+        <span>单选题</span>
         <strong>${counts.single || 0}</strong>
       </div>
-      <div class="meta-item">
-        <span class="muted">多选题</span>
+      <div class="metric-card">
+        <span>多选题</span>
         <strong>${counts.multiple || 0}</strong>
       </div>
-      <div class="meta-item">
-        <span class="muted">判断题</span>
+      <div class="metric-card">
+        <span>判断题</span>
         <strong>${counts.judge || 0}</strong>
       </div>
     </div>
   `;
 }
 
+function createModuleButton(label, count, isActive, onClick) {
+  const button = document.createElement("button");
+  button.type = "button";
+  button.className = `module-btn ${isActive ? "is-active" : ""}`;
+  button.innerHTML = `
+    <strong>${label}</strong>
+    <span>${count} 题</span>
+  `;
+  button.addEventListener("click", onClick);
+  return button;
+}
+
+function formatChapterModuleLabel(chapter) {
+  return chapter.startsWith("综合练习") ? chapter : `${chapter}练习`;
+}
+
 function renderModuleList() {
-  moduleList.innerHTML = "";
-  Object.entries(moduleConfig).forEach(([key, config]) => {
-    const button = document.createElement("button");
-    button.type = "button";
-    button.className = `module-btn ${state.currentModule === key ? "is-active" : ""}`;
-    button.innerHTML = `
-      <strong>${config.label}</strong>
-      <span>${bank.questions[key].length} 题</span>
-    `;
-    button.addEventListener("click", () => startModule(key));
-    moduleList.appendChild(button);
+  typeModuleList.innerHTML = "";
+  chapterModuleList.innerHTML = "";
+
+  Object.entries(typeConfig).forEach(([key, config]) => {
+    const isActive = state.currentMode === "type" && state.currentKey === key;
+    typeModuleList.appendChild(
+      createModuleButton(config.label, bank.questions[key].length, isActive, () => startTypeModule(key))
+    );
+  });
+
+  const chapterOrder = bank.meta.chapterOrder || Object.keys(bank.meta.chapterCounts);
+  chapterOrder.forEach((chapter) => {
+    const count = bank.meta.chapterCounts[chapter];
+    const isActive = state.currentMode === "chapter" && state.currentKey === chapter;
+    chapterModuleList.appendChild(
+      createModuleButton(formatChapterModuleLabel(chapter), count, isActive, () => startChapterModule(chapter))
+    );
   });
 }
 
-function buildSession(moduleKey) {
-  const source = bank.questions[moduleKey];
+function getQuestionsForCurrentMode(mode, key) {
+  if (mode === "chapter") {
+    return bank.chapters[key] || [];
+  }
+  return bank.questions[key] || [];
+}
+
+function buildSession(mode, key) {
+  const source = getQuestionsForCurrentMode(mode, key);
   return state.orderMode === "random" ? shuffle(source) : [...source];
 }
 
-function startModule(moduleKey) {
-  state.currentModule = moduleKey;
+function startSession(mode, key, label) {
+  state.currentMode = mode;
+  state.currentKey = key;
+  state.currentLabel = label;
   state.currentIndex = 0;
   state.selected = [];
   state.revealed = false;
   state.stats = { done: 0, correct: 0, wrong: 0 };
-  state.sessionQuestions = buildSession(moduleKey);
+  state.sessionQuestions = buildSession(mode, key);
   renderModuleList();
   renderCurrentQuestion();
+}
+
+function startTypeModule(moduleKey) {
+  startSession("type", moduleKey, typeConfig[moduleKey].label);
+}
+
+function startChapterModule(chapter) {
+  startSession("chapter", chapter, formatChapterModuleLabel(chapter));
+}
+
+function startFirstTypeModule() {
+  startTypeModule("single");
+}
+
+function startFirstChapterModule() {
+  const firstChapter = (bank.meta.chapterOrder || Object.keys(bank.meta.chapterCounts))[0];
+  if (firstChapter) {
+    startChapterModule(firstChapter);
+  }
 }
 
 function getCurrentQuestion() {
@@ -136,10 +195,10 @@ function updateScoreboard() {
     ? `${Math.round((state.stats.correct / state.stats.done) * 100)}%`
     : "0%";
   scoreboard.innerHTML = `
-    <div class="score-chip"><span class="muted">已作答</span><strong>${state.stats.done}</strong></div>
-    <div class="score-chip"><span class="muted">答对</span><strong>${state.stats.correct}</strong></div>
-    <div class="score-chip"><span class="muted">答错</span><strong>${state.stats.wrong}</strong></div>
-    <div class="score-chip"><span class="muted">正确率</span><strong>${accuracy}</strong></div>
+    <div class="score-chip"><span>已作答</span><strong>${state.stats.done}</strong></div>
+    <div class="score-chip"><span>答对</span><strong>${state.stats.correct}</strong></div>
+    <div class="score-chip"><span>答错</span><strong>${state.stats.wrong}</strong></div>
+    <div class="score-chip"><span>正确率</span><strong>${accuracy}</strong></div>
   `;
 }
 
@@ -149,7 +208,7 @@ function renderFeedback(question, isCorrect, revealedOnly = false) {
   const title = revealedOnly ? "已显示答案" : isCorrect ? "回答正确" : "回答错误";
   const detail = revealedOnly
     ? `正确答案：${answerToText(question)}`
-    : `你的答案：${selectedToText(question)}　|　正确答案：${answerToText(question)}`;
+    : `你的答案：${selectedToText(question)} | 正确答案：${answerToText(question)}`;
   feedback.innerHTML = `
     <p class="feedback__title">${title}</p>
     <p class="feedback__detail">${detail}</p>
@@ -186,24 +245,83 @@ function renderOptions(question) {
   });
 }
 
+function renderWelcomeState(title, description) {
+  const chapterOrder = bank.meta.chapterOrder || Object.keys(bank.meta.chapterCounts);
+  const featuredChapters = chapterOrder.slice(0, 5);
+
+  emptyState.innerHTML = `
+    <div class="welcome-board">
+      <section class="welcome-hero">
+        <p class="section-label">欢迎进入</p>
+        <h3>${title}</h3>
+        <p>${description}</p>
+        <div class="welcome-pillrow">
+          <span class="welcome-pill">按题型切换</span>
+          <span class="welcome-pill">按章节复习</span>
+          <span class="welcome-pill">即时判题反馈</span>
+        </div>
+      </section>
+
+      <aside class="welcome-side">
+        <div class="welcome-stat">
+          <span>当前题库</span>
+          <strong>${bank.meta.total}</strong>
+        </div>
+        <div class="welcome-side__meta">
+          <div><span>章节模块</span><strong>${chapterOrder.length}</strong></div>
+          <div><span>综合练习</span><strong>${chapterOrder.filter((item) => item.startsWith("综合练习")).length}</strong></div>
+        </div>
+      </aside>
+    </div>
+
+    <div class="shortcut-grid">
+      <section class="shortcut-card">
+        <p class="section-label">快速开始</p>
+        <h3>按题型练习</h3>
+        <p>适合集中刷单选、多选、判断，快速强化某一种题型。</p>
+        <div class="shortcut-card__list">
+          <span class="shortcut-chip">单选模块</span>
+          <span class="shortcut-chip">多选模块</span>
+          <span class="shortcut-chip">判断模块</span>
+        </div>
+        <button data-quick-start="type" class="ghost-btn quick-link-btn" type="button">进入题型模块</button>
+      </section>
+
+      <section class="shortcut-card">
+        <p class="section-label">快速开始</p>
+        <h3>按章节练习</h3>
+        <p>适合顺着复习节奏逐章推进，先打基础，再做综合查漏。</p>
+        <div class="shortcut-card__list">
+          ${featuredChapters.map((chapter) => `<span class="shortcut-chip">${chapter}</span>`).join("")}
+        </div>
+        <button data-quick-start="chapter" class="ghost-btn quick-link-btn" type="button">进入章节模块</button>
+      </section>
+    </div>
+  `;
+
+  emptyState.querySelector('[data-quick-start="type"]')?.addEventListener("click", startFirstTypeModule);
+  emptyState.querySelector('[data-quick-start="chapter"]')?.addEventListener("click", startFirstChapterModule);
+}
+
 function renderCurrentQuestion() {
   const question = getCurrentQuestion();
   if (!question) {
     emptyState.classList.remove("hidden");
     quizApp.classList.add("hidden");
-    emptyState.innerHTML = `
-      <h2>${moduleConfig[state.currentModule].label}已完成</h2>
-      <p>本轮已刷完。可以重新开始，或者切换到其他模块继续。</p>
-    `;
+    renderWelcomeState(
+      `${state.currentLabel || "当前模块"}已完成`,
+      "这一轮题目已经刷完。你可以重新开始当前模块，或者切换到其他题型、章节继续练习。"
+    );
     return;
   }
 
   emptyState.classList.add("hidden");
   quizApp.classList.remove("hidden");
 
-  moduleTitle.textContent = moduleConfig[state.currentModule].label;
+  const questionMeta = getQuestionTypeMeta(question.type);
+  moduleTitle.textContent = state.currentLabel;
   progressText.textContent = `第 ${state.currentIndex + 1} / ${state.sessionQuestions.length} 题`;
-  questionTag.textContent = moduleConfig[state.currentModule].tag;
+  questionTag.textContent = `${question.chapter} · ${questionMeta.shortLabel}`;
   sourceTag.textContent = `来源：${question.sources.join("、")}`;
   questionStem.textContent = `${state.currentIndex + 1}. ${question.stem}`;
   toggleOrderBtn.textContent = state.orderMode === "random" ? "切换为顺序" : "切换为随机";
@@ -292,17 +410,15 @@ clearMultiBtn.addEventListener("click", () => {
 nextBtn.addEventListener("click", goNext);
 
 restartBtn.addEventListener("click", () => {
-  if (state.currentModule) {
-    startModule(state.currentModule);
+  if (state.currentMode && state.currentKey) {
+    startSession(state.currentMode, state.currentKey, state.currentLabel);
   }
 });
 
 toggleOrderBtn.addEventListener("click", () => {
   state.orderMode = state.orderMode === "random" ? "sequential" : "random";
-  if (state.currentModule) {
-    startModule(state.currentModule);
-  } else {
-    renderCurrentQuestion();
+  if (state.currentMode && state.currentKey) {
+    startSession(state.currentMode, state.currentKey, state.currentLabel);
   }
 });
 
@@ -315,5 +431,9 @@ showAnswerBtn.addEventListener("click", () => {
   evaluateAnswer(question, true);
 });
 
+startTypeOverviewBtn.addEventListener("click", startFirstTypeModule);
+startChapterOverviewBtn.addEventListener("click", startFirstChapterModule);
+
 buildMetaCard();
 renderModuleList();
+renderWelcomeState("把题库当成工作台来刷", "先选模块，再看状态，再进入题目。首页保留快速入口，开始练习后会自动切换到完整答题界面。");

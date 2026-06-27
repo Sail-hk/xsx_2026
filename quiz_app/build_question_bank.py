@@ -16,29 +16,43 @@ OPTION_RE = re.compile(r"^([A-D])[.\uFF0E\u3001]\s*(.+)$")
 OPTION_INLINE_RE = re.compile(r"([A-D])[.\uFF0E\u3001]\s*(.*?)(?=\s+[A-D][.\uFF0E\u3001]\s*|$)")
 INLINE_ANSWER_RE = re.compile(r"^(.*?)([A-D])$")
 PAIR_RE = re.compile(r"(\d+)\s*[.\uFF0E]?\s*[:：]?\s*(A|B|C|D|正确|错误|ABCD|ABC|ABD|ACD|BCD|AC|AD|BC|BD|CD)")
+CHAPTER_HEADING_RE = re.compile(r"^(第[一二三四五六七八九十百0-9]+章)")
 
-CHAPTER_RULES = [
-    ("导论", "导论"),
-    ("第一章", "第一章"),
-    ("第二、三章", "第二三章"),
-    ("第四五六章", "第四五六章"),
-    ("第七到十章", "第七到十章"),
-    ("第十一到十四章", "第十一到十四章"),
-    ("第十五到十七章", "第十五到十七章"),
-    ("综合知识点", "综合"),
-]
-
-CHAPTER_ORDER = [
-    "导论",
-    "第一章",
+GROUPED_CHAPTERS = {
     "第二三章",
     "第四五六章",
     "第七到十章",
     "第十一到十四章",
     "第十五到十七章",
-    "综合",
+}
+
+CHAPTER_ORDER = [
+    "导论",
+    "第一章",
+    "第二章",
+    "第三章",
+    "第四章",
+    "第五章",
+    "第六章",
+    "第七章",
+    "第八章",
+    "第九章",
+    "第十章",
+    "第十一章",
+    "第十二章",
+    "第十三章",
+    "第十四章",
+    "第十五章",
+    "第十六章",
+    "第十七章",
+    "综合练习一",
+    "综合练习二",
 ]
 
+COMPREHENSIVE_LABELS = {
+    "综合知识点练习题_无章节提示版(1).docx": "综合练习一",
+    "综合知识点练习题_第二套_无章节提示版.docx": "综合练习二",
+}
 
 SUPPLEMENT_QUESTIONS = [
     {
@@ -179,7 +193,10 @@ SUPPLEMENT_QUESTIONS = [
             {"key": "A", "text": "以人民安全为宗旨"},
             {"key": "B", "text": "以政治安全为根本"},
             {"key": "C", "text": "以经济安全为基础"},
-            {"key": "D", "text": "维护国家安全要贯穿党和国家工作各方面全过程"},
+            {
+                "key": "D",
+                "text": "维护国家安全要贯穿党和国家工作各方面全过程",
+            },
         ],
         "answer": "ABCD",
         "sources": ["习思想重点.docx"],
@@ -317,24 +334,79 @@ SUPPLEMENT_QUESTIONS = [
 ]
 
 
+def iter_docx_files() -> list[Path]:
+    return sorted(
+        path
+        for path in QUESTION_BANK_DIR.glob("*.docx")
+        if path.is_file() and not path.name.startswith("~$")
+    )
+
+
 def normalize_text(value: str) -> str:
-    return re.sub(r"\s+", "", value)
+    return re.sub(r"\s+", "", value or "").strip()
 
 
 def normalize_answer(answer: str, question_type: str) -> str:
-    cleaned = re.sub(r"\s+", "", answer)
-    if question_type == "multiple":
-        return "".join(sorted(dict.fromkeys(ch for ch in cleaned if ch in "ABCD")))
+    normalized = normalize_text(answer).upper()
     if question_type == "judge":
-        return "正确" if "正确" in cleaned else "错误"
-    return cleaned[:1]
+        if normalized in {"正确", "T", "TRUE"}:
+            return "正确"
+        if normalized in {"错误", "F", "FALSE"}:
+            return "错误"
+    return "".join(sorted(normalized))
+
+
+def clean_stem_with_answer(stem: str, answer: str, question_type: str) -> str:
+    cleaned_stem = stem.strip()
+    normalized_answer = normalize_answer(answer, question_type)
+
+    if question_type == "single" and normalized_answer in "ABCD":
+        patterns = [
+            rf"^(.*?)[\s\u3000]*[（\(]?\s*{re.escape(normalized_answer)}\s*[）\)]?$",
+            rf"^(.*?[。！？?])[\s\u3000]*{re.escape(normalized_answer)}$",
+        ]
+        for pattern in patterns:
+            match = re.match(pattern, cleaned_stem)
+            if match:
+                candidate = match.group(1).strip()
+                if len(candidate) >= 4:
+                    cleaned_stem = candidate
+                    break
+
+    if question_type == "judge":
+        patterns = [
+            r"^(.*?)[\s\u3000]*[（\(]?\s*(正确|错误)\s*[）\)]?$",
+            r"^(.*?[。！？?])[\s\u3000]*(正确|错误)$",
+        ]
+        for pattern in patterns:
+            match = re.match(pattern, cleaned_stem)
+            if match:
+                candidate = match.group(1).strip()
+                if len(candidate) >= 4:
+                    cleaned_stem = candidate
+                    break
+
+    return cleaned_stem
 
 
 def infer_chapter(filename: str) -> str:
-    for needle, chapter in CHAPTER_RULES:
-        if needle in filename:
-            return chapter
-    return "综合"
+    if filename in COMPREHENSIVE_LABELS:
+        return COMPREHENSIVE_LABELS[filename]
+    if filename.startswith("1."):
+        return "导论"
+    if filename.startswith("2."):
+        return "第一章"
+    if filename.startswith("3."):
+        return "第二三章"
+    if filename.startswith("4."):
+        return "第四五六章"
+    if filename.startswith("5."):
+        return "第七到十章"
+    if filename.startswith("6."):
+        return "第十一到十四章"
+    if filename.startswith("7."):
+        return "第十五到十七章"
+    return "综合练习一"
 
 
 def parse_answer_tables(doc: Document) -> dict[int, str]:
@@ -348,7 +420,10 @@ def parse_answer_tables(doc: Document) -> dict[int, str]:
                     continue
                 for number, answer in PAIR_RE.findall(text):
                     answers[int(number)] = answer
-                if pending_number is not None and re.fullmatch(r"(A|B|C|D|正确|错误|ABCD|ABC|ABD|ACD|BCD|AC|AD|BC|BD|CD)", text):
+                if pending_number is not None and re.fullmatch(
+                    r"(A|B|C|D|正确|错误|ABCD|ABC|ABD|ACD|BCD|AC|AD|BC|BD|CD)",
+                    text,
+                ):
                     answers[pending_number] = text
                     pending_number = None
                     continue
@@ -361,7 +436,7 @@ def parse_answer_paragraphs(lines: list[str]) -> dict[int, str]:
     answers: dict[int, str] = {}
     in_answer_block = False
     for line in lines:
-        if "参考答案" in line:
+        if line == "参考答案":
             in_answer_block = True
             continue
         if not in_answer_block:
@@ -386,15 +461,24 @@ def infer_question_type(line: str, current_type: str) -> str:
 
 
 def should_skip_line(line: str) -> bool:
-    if "参考答案" in line:
+    if line == "参考答案":
         return True
     if line.startswith("说明：") or line.startswith("题型："):
         return True
-    if re.fullmatch(r"第[一二三四五六七八九十百]+章.*", line):
+    if re.fullmatch(r"第[一二三四五六七八九十百]+章", line):
         return True
-    if re.fullmatch(r"[一二三四五六七八九十]+、.*", line) and not is_section_heading(line):
+    if re.fullmatch(r"[一二三四五六七八九十]+、", line) and not is_section_heading(line):
         return True
     return False
+
+
+def infer_chapter_from_heading(line: str, default_chapter: str) -> str | None:
+    if default_chapter not in GROUPED_CHAPTERS:
+        return None
+    match = CHAPTER_HEADING_RE.match(line)
+    if not match:
+        return None
+    return match.group(1)
 
 
 def parse_questions_from_doc(path: Path) -> list[dict]:
@@ -408,7 +492,8 @@ def parse_questions_from_doc(path: Path) -> list[dict]:
     current_question = None
     current_type = "single"
     inline_answer_mode = len(doc.tables) == 0
-    chapter = infer_chapter(path.name)
+    default_chapter = infer_chapter(path.name)
+    current_chapter = default_chapter
 
     def flush_current() -> None:
         nonlocal current_question
@@ -418,19 +503,30 @@ def parse_questions_from_doc(path: Path) -> list[dict]:
         if not answer:
             current_question = None
             return
+        current_question["stem"] = clean_stem_with_answer(
+            current_question["stem"], answer, current_question["type"]
+        )
         current_question["answer"] = normalize_answer(answer, current_question["type"])
         current_question["source"] = path.name
-        current_question["chapter"] = chapter
+        current_question["chapter"] = current_chapter
         questions.append(current_question)
         current_question = None
 
     for line in lines:
-        if "参考答案" in line:
+        if line == "参考答案":
             break
+
+        heading_chapter = infer_chapter_from_heading(line, default_chapter)
+        if heading_chapter:
+            flush_current()
+            current_chapter = heading_chapter
+            continue
+
         if is_section_heading(line):
             flush_current()
             current_type = infer_question_type(line, current_type)
             continue
+
         if should_skip_line(line):
             continue
 
@@ -444,7 +540,7 @@ def parse_questions_from_doc(path: Path) -> list[dict]:
             if inline_answer_mode and current_type != "judge":
                 inline_match = INLINE_ANSWER_RE.match(stem)
                 if inline_match and inline_match.group(2) in "ABCD":
-                    stem = inline_match.group(1).rstrip("：:、.． ")
+                    stem = inline_match.group(1).rstrip("（(。！？?")
                     answer = inline_match.group(2)
 
             current_question = {
@@ -470,14 +566,52 @@ def parse_questions_from_doc(path: Path) -> list[dict]:
     return questions
 
 
+def resolve_grouped_supplement_chapter(question: dict) -> str:
+    stem = question["stem"]
+
+    if "坚持人民立场" in stem:
+        return "第四章"
+    if "全面深化改革总目标" in stem or "国家治理体系和治理能力" in stem or "改革开放是决定当代中国命运的关键一招" in stem:
+        return "第五章"
+    if "新发展理念" in stem or "公有制经济" in stem or "高质量发展" in stem:
+        return "第六章"
+    if "教育、科技、人才" in stem:
+        return "第七章"
+    if "全过程人民民主" in stem:
+        return "第八章"
+    if "公正司法" in stem:
+        return "第九章"
+    if "中华文明的突出特性" in stem:
+        return "第十章"
+    if "良好生态环境" in stem:
+        return "第十二章"
+    if "总体国家安全观" in stem or "政治安全是国家安全的根本" in stem:
+        return "第十三章"
+    if "新时代党的强军目标" in stem or "军委主席负责制" in stem:
+        return "第十四章"
+    if "多边主义" in stem:
+        return "第十六章"
+    if "全面从严治党" in stem or "党的领导是中国特色社会主义最本质的特征" in stem:
+        return "第十七章"
+    return question["chapter"]
+
+
+def refine_question_chapter(question: dict) -> dict:
+    refined = dict(question)
+    if refined.get("chapter") in GROUPED_CHAPTERS:
+        refined["chapter"] = resolve_grouped_supplement_chapter(refined)
+    return refined
+
+
 def deduplicate_questions(questions: list[dict]) -> list[dict]:
     deduped = []
     seen = {}
-    for question in questions:
+    for raw_question in questions:
+        question = refine_question_chapter(raw_question)
         sources = question.get("sources") or [question["source"]]
         key = (
             question["type"],
-            question.get("chapter", "综合"),
+            question.get("chapter", "综合练习一"),
             normalize_text(question["stem"]),
             tuple((item["key"], normalize_text(item["text"])) for item in question["options"]),
         )
@@ -487,7 +621,7 @@ def deduplicate_questions(questions: list[dict]) -> list[dict]:
         entry = {
             "id": f"{question['type']}-{len(deduped) + 1}",
             "type": question["type"],
-            "chapter": question.get("chapter", "综合"),
+            "chapter": question.get("chapter", "综合练习一"),
             "stem": question["stem"],
             "options": question["options"],
             "answer": question["answer"],
@@ -499,8 +633,9 @@ def deduplicate_questions(questions: list[dict]) -> list[dict]:
 
 
 def build_question_bank() -> dict:
+    source_files = list(iter_docx_files())
     all_questions = []
-    for docx_path in sorted(QUESTION_BANK_DIR.glob("*.docx")):
+    for docx_path in source_files:
         all_questions.extend(parse_questions_from_doc(docx_path))
     all_questions.extend(SUPPLEMENT_QUESTIONS)
 
@@ -521,9 +656,10 @@ def build_question_bank() -> dict:
     return {
         "meta": {
             "sourceDir": QUESTION_BANK_DIR.name,
-            "sourceFiles": [path.name for path in sorted(QUESTION_BANK_DIR.glob("*.docx"))],
+            "sourceFiles": [path.name for path in source_files],
             "counts": {key: len(value) for key, value in by_type.items()},
             "chapterCounts": {key: len(value) for key, value in ordered_chapters.items()},
+            "chapterOrder": list(ordered_chapters.keys()),
             "total": len(questions),
             "supplementCount": len(SUPPLEMENT_QUESTIONS),
         },

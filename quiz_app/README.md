@@ -1,6 +1,6 @@
 # 习思想刷题程序
 
-这是一个可离线打开、也可直接部署到 GitHub Pages 的刷题网页，适合自己用，也适合直接发给同学使用。
+这是一个可直接部署到 GitHub Pages 的静态刷题网页，用于按题型和按章节进行练习。
 
 ## 直接使用
 
@@ -15,7 +15,7 @@
 3. 在 GitHub 仓库的 `Settings -> Pages` 中确认 `GitHub Actions` 为部署来源。
 4. 推送后，工作流 `.github/workflows/deploy-pages.yml` 会自动把 `quiz_app` 目录发布成在线页面。
 
-上线后，你把链接发给同学即可直接在线刷题。
+上线后即可通过仓库对应的 Pages 链接在线访问。
 
 ## 题库更新
 

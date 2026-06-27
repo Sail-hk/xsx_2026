@@ -3,41 +3,63 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>习思想刷题</title>
+    <title>习思想刷题程序</title>
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
     <div class="page-shell">
-      <header class="hero">
-        <div class="hero__text">
-          <p class="eyebrow">离线可用 · 可直接转发同学</p>
+      <aside class="sidebar">
+        <div class="sidebar__brand">
+          <p class="sidebar__kicker">Dashboard</p>
           <h1>习思想刷题程序</h1>
-          <p class="hero__summary">
-            按单选、多选、判断分模块练习。作答后立即显示对错，并记录当前模块的正确率。
-          </p>
+          <p class="sidebar__summary">按题型和按章节切换练习，做题、判题、统计都集中在同一工作台里。</p>
         </div>
-        <div class="hero__meta" id="metaCard"></div>
-      </header>
 
-      <main class="layout">
-        <aside class="panel panel--menu">
-          <h2>模块选择</h2>
-          <div id="moduleList" class="module-list"></div>
-          <div class="tips">
-            <p>推荐用法</p>
-            <p>先按章节题库刷单选，再用综合题库做查漏补缺。</p>
+        <section class="nav-block">
+          <div class="nav-block__head">
+            <h2>按题型</h2>
+            <span>单选 / 多选 / 判断</span>
           </div>
-        </aside>
+          <div id="typeModuleList" class="module-list"></div>
+        </section>
 
-        <section class="panel panel--main">
-          <div id="emptyState" class="empty-state">
-            <h2>选择一个模块开始</h2>
-            <p>支持顺序练习和随机练习，适合自己刷题，也适合发给同学直接使用。</p>
+        <section class="nav-block nav-block--chapters">
+          <div class="nav-block__head">
+            <h2>按章节</h2>
+            <span>导论到综合练习</span>
           </div>
+          <div id="chapterModuleList" class="module-list module-list--chapters"></div>
+        </section>
+
+        <section class="sidebar__tipcard">
+          <p class="sidebar__tiptitle">刷题建议</p>
+          <p>先按章节集中复习，再切回题型模块强化训练，最后用综合练习查漏补缺。</p>
+        </section>
+      </aside>
+
+      <main class="dashboard">
+        <section class="overview panel">
+          <div class="overview__copy">
+            <p class="section-label">当前工作台</p>
+            <h2>一个更集中、更稳定的刷题界面</h2>
+            <p>
+              左侧负责选择模块，右侧负责查看状态和答题。默认首页会给出快速入口，开始练习后切换为完整题目视图。
+            </p>
+            <div class="overview__actions">
+              <button id="startTypeOverviewBtn" class="primary-btn" type="button">从题型开始</button>
+              <button id="startChapterOverviewBtn" class="ghost-btn" type="button">从章节开始</button>
+            </div>
+          </div>
+          <div class="overview__stats" id="metaCard"></div>
+        </section>
+
+        <section class="workspace panel">
+          <div id="emptyState" class="empty-state"></div>
 
           <div id="quizApp" class="quiz hidden">
             <div class="toolbar">
-              <div>
+              <div class="toolbar__title">
+                <p class="section-label">当前练习</p>
                 <h2 id="moduleTitle"></h2>
                 <p id="progressText" class="muted"></p>
               </div>
@@ -62,7 +84,7 @@
               </div>
               <div id="feedback" class="feedback hidden"></div>
               <div class="question-actions">
-                <button id="showAnswerBtn" class="ghost-btn" type="button">不会，查看答案</button>
+                <button id="showAnswerBtn" class="ghost-btn" type="button">查看答案</button>
                 <button id="nextBtn" class="primary-btn" type="button">下一题</button>
               </div>
             </article>
